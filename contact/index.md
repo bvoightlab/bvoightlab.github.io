@@ -5,61 +5,72 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) and the [Department of Genetics](https://genetics.med.upenn.edu/), at the [Univesrity of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/).
 Our lab is located in the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
 
 {%
-  include link.html
+  include button.html
   type="email"
-  icon=""
   text="bvoight28@gmail.com"
-  tooltip=""
   link="bvoight28@gmail.com"
-  style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="phone"
-  icon=""
   text="(215) 746-8083"
-  tooltip=""
   link="+1-215-746-8083"
-  style="button"
 %}
 {%
-  include link.html
+  include button.html
   type="address"
-  icon=""
-  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/ANnU9knKY6LNpxZ76"
-  style="button"
 %}
-{:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+{% capture col1 %}
 
-10-126 Smilow Center for Translational Research  
-3400 Civic Center Boulevard  
-Philadelphia, PA 19104  
-{:.center}
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
+{% include section.html dark=true %}
 
 {% capture col1 %}
-{%
-  include figure.html
-  image="images/cada-in-philly.jpg"
-  caption="<i>C. darwini</i> takes over Philadelphia"
-%}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
 {% endcapture %}
+
 {% capture col2 %}
-{%
-  include figure.html
-  image="images/droid-visitor.jpg"
-  caption="A droid visitor to the lab"
-%}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+
+{% capture col3 %}
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
