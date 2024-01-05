@@ -38,8 +38,6 @@ Our lab is located in the [Smilow Center for Translational Research](https://www
 Philadelphia, PA 19104  
 {:.center}
 
-{% include cols.html col1=col1 col2=col2 %}
-
 {% capture col1 %}
 
 {%
@@ -59,3 +57,5 @@ Philadelphia, PA 19104
 %}
 
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
