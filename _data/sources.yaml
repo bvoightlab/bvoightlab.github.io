@@ -14,6 +14,7 @@
   tags:
     - open science
     - collaboration
+    - testtag
   repo: greenelab/meta-review
 
 - id: doi:10.1016/j.csbj.2020.05.017
