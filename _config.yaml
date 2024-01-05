@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: bvoightlab
+title: Voight Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@bvoightlab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: bvoight28@gmail.com
+  orcid: 0000-0002-6205-9994
+  google-scholar: FexB61cAAAAJ
   github: bvoightlab
-  twitter: bvoightlab
-  youtube: bvoightlab
+  twitter: bvoight28
+  #youtube: bvoightlab
 
 ### jekyll settings
 
