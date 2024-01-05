@@ -31,12 +31,19 @@ Our lab is located in the [Smilow Center for Translational Research](https://www
 
 {% include section.html %}
 
+### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+10-126 Smilow Center for Translational Research  
+3400 Civic Center Boulevard  
+Philadelphia, PA 19104  
+{:.center}
+
 {% capture col1 %}
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cada-in-philly.jpg"
+  caption="<i>C. darwini</i> takes over Philadelphia"
 %}
 
 {% endcapture %}
@@ -45,32 +52,32 @@ Our lab is located in the [Smilow Center for Translational Research](https://www
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/droid-visitor.jpg"
+  caption="A droid visitor to the lab"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+# # {% include cols.html col1=col1 col2=col2 %}
+# 
+# {% include section.html dark=true %}
+# 
+# {% capture col1 %}
+# Lorem ipsum dolor sit amet  
+# consectetur adipiscing elit  
+# sed do eiusmod tempor
+# {% endcapture %}
+# 
+# {% capture col2 %}
+# Lorem ipsum dolor sit amet  
+# consectetur adipiscing elit  
+# sed do eiusmod tempor
+# {% endcapture %}
+# 
+# {% capture col3 %}
+# Lorem ipsum dolor sit amet  
+# consectetur adipiscing elit  
+# sed do eiusmod tempor
+# {% endcapture %}
+# 
+# {% include cols.html col1=col1 col2=col2 col3=col3 %}
