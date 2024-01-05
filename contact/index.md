@@ -1,77 +1,65 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 7
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# <i class="fas fa-envelope"></i>Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) and the [Department of Genetics](https://genetics.med.upenn.edu/), at the [Univesrity of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/).
+Our lab is located in the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
 
 {%
-  include button.html
+  include link.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  icon=""
+  text="bvoight28@gmail.com"
+  tooltip=""
+  link="bvoight28@gmail.com"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  icon=""
+  text="(215) 746-8083"
+  tooltip=""
+  link="+1-215-746-8083"
+  style="button"
 %}
 {%
-  include button.html
+  include link.html
   type="address"
+  icon=""
+  text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/ANnU9knKY6LNpxZ76"
+  style="button"
 %}
+{:.center}
 
 {% include section.html %}
 
-{% capture col1 %}
+### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
+10-126 Smilow Center for Translational Research  
+3400 Civic Center Boulevard  
+Philadelphia, PA 19104  
+{:.center}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/cada-in-philly.jpg"
+  caption="<i>C. darwini</i> takes over Philadelphia"
+%}
 {% endcapture %}
-
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+{%
+  include figure.html
+  image="images/droid-visitor.jpg"
+  caption="A droid visitor to the lab"
+%}
 {% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include two-col.html col1=col1 col2=col2 %}
