@@ -1,7 +1,8 @@
 ---
 
 name: Katerina Gawronski
-image: images/team/default.jpg
+image: images/team/katerina-gawronski.jpg
+description: PhD Student (GE)
 role: phd
 group: alum
 aliases:

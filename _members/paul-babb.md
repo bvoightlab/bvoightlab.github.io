@@ -1,7 +1,7 @@
 ---
 
 name: Paul Babb
-image: images/team/default.jpg
+image: images/team/paul-babb.jpg
 role: postdoc
 group: alum
 aliases:

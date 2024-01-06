@@ -2,7 +2,8 @@
 
 name: David Nicholson
 image: images/team/david-nicholson.jpg
-role: undergrad
+description: Post-Bacc
+role: post-bacc
 group: alum
 aliases:
   - David Nicholson

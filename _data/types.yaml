@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-jedi
   description: Principal Investigator
 
 postdoc:
@@ -14,9 +14,27 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+bioinformatician:
+  icon: fas fa-chart-area
+  text: Bioinformatician
+  
+technician:
+  icon: fa-solid fa-microscope
+  text: Technician
+
+masters:
+  icon: fa-solid fa-person-chalkboard
+  text: Masters Student
+
+post-bacc:
+  icon: fa-solid fa-user-graduate
+  description: Post-Baccalaureate
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+
 
 programmer:
   icon: fa-solid fa-code
@@ -69,6 +87,12 @@ search:
   icon: fa-solid fa-magnifying-glass
   text: Search
   tooltip: Search
+
+cv:
+  icon: fas fa-book
+  text: CV
+  tooltip: Curriculum Vitae
+  link: $LINK
 
 # social media
 

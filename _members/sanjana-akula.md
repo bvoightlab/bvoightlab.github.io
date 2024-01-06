@@ -1,7 +1,7 @@
 ---
 
 name: Sanjana Akula
-image: images/team/default.jpg
+image: images/team/sanjana-akula.jpg
 role: undergrad
 group: alum
 aliases:

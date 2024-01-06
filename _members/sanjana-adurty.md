@@ -1,7 +1,7 @@
 ---
 
 name: Sanjana Adurty
-image: images/team/default.jpg
+image: images/team/sanjana-adurty.jpg
 role: undergrad
 group: alum
 aliases:

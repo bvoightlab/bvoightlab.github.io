@@ -1,16 +1,15 @@
 ---
 
 name: Kaushik Visvanathan
-image: images/team/default.jpg
+image: images/team/kaushik-visvanathan.jpg
 description: Master's Student (CIS)
 role: masters
 group: alum
 aliases:
   - Kaushik Visvanathan
 links:
-#  orcid: 0000-0002-9617-4624
   email: kaushik.visvanathan@gmail.com
-#  github: 
+  linkedin: kaushik-visvanathan-12a82262
  
 ---
 

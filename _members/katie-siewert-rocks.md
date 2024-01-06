@@ -1,7 +1,8 @@
 ---
 
 name: Katie Siewert-Rocks
-image: images/team/default.jpg
+image: images/team/katie-siewert-rocks.jpg
+description: PhD Student (GCB)
 role: phd
 group: alum
 aliases:

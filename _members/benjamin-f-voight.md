@@ -14,7 +14,7 @@ links:
   email: bvoight28@gmail.com
   twitter: bvoight28
   google-scholar: FexB61cAAAAJ
-  cv: cv/CV_BFV_current.pdf
+  cv: cv/CV_BFV_Current.pdf
  
 ---
 

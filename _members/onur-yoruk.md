@@ -1,14 +1,15 @@
 ---
 
 name: Onur Yörük
-image: images/team/default.jpg
+image: images/team/onur-yoruk.jpg
 role: masters
+description: Master's Student (GCB)
 group: alum
 aliases:
   - Onur Yörük
 links:
-#  orcid: 0000-0002-9617-4624
-#  email: lorenzk@pennmedicine.upenn.edu
+#  orcid: 
+#  email: 
 #  github: 
  
 ---

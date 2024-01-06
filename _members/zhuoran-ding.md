@@ -1,7 +1,8 @@
 ---
 
 name: Zhuoran Ding
-image: images/team/default.jpg
+image: images/team/zhuoran-ding.jpg
+description: Master's Student (GGEB)
 role: masters
 group: alum
 aliases:
@@ -9,7 +10,7 @@ aliases:
 links:
 #  orcid: 0000-0002-9617-4624
   email: dingzh@pennmedicine.upenn.edu
-#  github: 
+  github: zhd007
  
 ---
 
