@@ -34,8 +34,6 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-
-
 programmer:
   icon: fa-solid fa-code
   description: Programmer
@@ -206,6 +204,30 @@ manubot:
   icon: manubot.svg
   text: Manubot
   tooltip: Manubot
+
+pubmed:
+  icon: fa-solid fa-book-open
+  text: Pubmed
+  tooltip: Pubmed
+  link: $LINK
+
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: PDF
+  tooltip: PDF
+  link: $LINK
+
+news:
+  icon: fa-solid fa-newspaper
+  text: News
+  tooltip: News
+  link: $LINK
+
+cover:
+  icon: fa-solid fa-wand-magic-sparkles
+  text: Cover Art
+  tooltip: Cover Art
+  link: $LINK
 
 # software
 

@@ -2,10 +2,10 @@
 title: Join Us!
 nav:
   order: 6
-  tooltip: Join the Team
+  tooltip: Join our Team!
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
+# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join our Team!
 
 ### Postdoctoral Researchers
 
@@ -14,7 +14,7 @@ The Voight Lab welcomes applications for computational postdoctoral positions at
 [Computational Post-doc: Population Genomics](posts/PostDoc07_job_posting.pdf)
 
 
-[Computational Post-doc: Human Complex Trait Genomics]((posts/PostDoc08_job_posting.pdf))
+[Computational Post-doc: Human Complex Trait Genomics](posts/PostDoc08_job_posting.pdf)
 
 ### PhD Graduate Students
 

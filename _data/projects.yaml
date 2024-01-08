@@ -1,47 +1,205 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+## Tools
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Baymer
+  group: methods
+  image: images/tools/baymer.png
+  link: https://github.com/bvoightlab/Baymer/
+  description: Implementation of a Markov Chain Monte Carlo procedure to estimate hierarchical tree-based sequence context models from variation data sets (polymorphism, substitutions, somatic, <em>de novo</em>, etc.). Introduced by Adams et al (2023). 
   tags:
-    - resource
+    - Pop-Gen
+    - Mutation Rate
+    - Statistics
+    - Publication
+    - Software
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: ColocQuiaL
+  group: methods
+  image: images/tools/ColocQuiaL.jpg
+  link: https://github.com/bvoightlab/ColocQuiaL
+  description: An automated pipeline to parallelize colocalization analyses via COLOC between GWAS and QTL data sets. Described in Chen and Bone et al (2022).
   tags:
-    - resource
-    - publication
+    - Complex Traits
+    - Automation
+    - Publication
+    - Software
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: iHS
+  group: methods
+  image: images/tools/iHS.png
+  link: https://github.com/bvoightlab/iHS_calc/
+  description: The <em>Intgrated Haplotype Score</em> - A method to detect signals of extended haplotype homozygosity in genomic regions consistent with the action of recent, ongoing selective sweeps using population level data. Introduced in Voight and Kudaravalli et al (2006), adjustments for local, low recombination rates were presented Johnson and Voight (2018).
   tags:
-    - software
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: β Statistics 
+  group: methods
+  image: images/tools/beta-statistics-4.jpg
+  link: https://github.com/ksiewert/BetaScan/
+  description: A method to detect signals of an excess number of polymorphisms at near identifical frequency in very close physical proximity, consistent with the action of long-term balancing selection. Introduced in Siewert and Voight (2017), estimates of substitution rates were subsequently incorporated by Siewert and Voight (2020) as the β(2) statistic. 
   tags:
-    - software
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Software
+
+- title: EVICORD 
+  group: methods
+  image: images/tools/EVICORD.jpg
+  link: https://github.com/kelsj/EVICORD/
+  description: <u>EV</u>aluating <u>I</u>BD <u>C</u>onsistency via <u>O</u>bligate <u>R</u>ecombination <u>D</u>istance - A method designed to detect the rare variants whose alleles are not mutually shared identically by decent, i.e., are IBD-inconsistent which can result from recurrent mutation, gene conversion, or genotype error. This method performs the Gibbs sampler for the Bayesian hierarchical model described by Johnson et al (2022). 
+  tags:
+    - Pop-Gen
+    - Mutation Rate
+    - Statistics
+    - Publication
+    - Software
+
+- title: Detecting Hidden Mediators Underlying Complex Traits
+  group: methods
+  image: images/tools/hidden-mediator.jpg
+  link: https://github.com/zhd007/mediation-hidden_risk_factor
+  description: This method is designed, under a simple model, to estimate the effect size of an unknown causal risk factor impacting a collection of SNPs and an outcome trait. Described in Ding et al (2022).
+  tags:
+    - Complex Traits
+    - Pleiotropy
+    - Mendelian Randomization
+    - Publication
+    - Software
+
+- title: CPMA
+  group: methods
+  image: images/tools/cpma.png
+  link: https://github.com/bvoightlab/cpma/
+  description: Cross Phenotype Meta-Analysis. Combines p-values across multiple tests into a single test if the distribution of observed p-values are uniformly distributed. Described in Cotsapas et al (2011).
+  tags:
+    - Complex Traits
+    - Pleiotropy
+    - Statistics
+    - Publication
+    - Software
+    
+- title: mr_predictor
+  group: methods
+  image: images/tools/mr-predictor.jpg
+  link: https://github.com/bvoightlab/mr_predictor
+  description: Software designed to simulate causal genetic phenotype models for use with Mendelian randomization studies. Described in Voight (2014).
+  tags:
+    - Complex Traits
+    - Pleiotropy
+    - Mendelian Randomization
+    - Publication
+    - Software
+    
+- title: Assessment of <em>de novo</em> mutational burden via sequence context models
+  group: methods
+  image: images/tools/aggarwala-denovo.png
+  link: https://pubmed.ncbi.nlm.nih.gov/26878723/
+  description: A generalized algorithm to grade the significance of <em>de novo</em> mutational burden in disease probands within a gene based on mutation rate models informed by sequence context. Described in Aggarwala et al (2017).
+  tags:
+    - Complex Traits
+    - Mutation Rate
+    - Statistics
+    - Publication
+
+- title: Statistical Framework to compare Sequence Context Models
+  group: methods
+  image: images/tools/aggarwala-mutrate.png
+  link: https://pubmed.ncbi.nlm.nih.gov/28193182/
+  description: Presented a statistical framework to evaluate the goodness of fit of competing nested sequence context models. Described in Aggarwala and Voight (2016).
+  tags:
+    - Pop-Gen
+    - Mutation Rate
+    - Statistics
+    - Publication
+
+- title: MeRP
+  group: methods-legacy
+  image: images/tools/MeRP.jpg
+  link: https://github.com/peteryin21/py-merp
+  description: Python tool designed to automate the curation of genetic variants selected from the NHGRI GWAS catalog, filtering steps, and causal effect calcualtion for MR. Described in Yin and Voight (2015).
+  tags:
+    - Complex Traits
+    - Pleiotropy
+    - Mendelian Randomization
+    - Automation
+    - Publication
+    - Software
+
+## Datasets
+- title: Shared Data - Baymer
+  group: datasets
+  image: images/tools/baymer.png
+  link: https://doi.org/10.5281/zenodo.7843023
+  description: Additional data on outputed models from Bayer as reported in [Adams et al (2023)](https://pubmed.ncbi.nlm.nih.gov/37418489/).
+  tags:
+    - Pop-Gen
+    - Mutation Rate
+    - Statistics
+    - Publication
+    - Dataset
+    
+- title: Shared Data - EVICORD 
+  group: datasets
+  image: images/tools/EVICORD.jpg
+  link: https://doi.org/10.5281/zenodo.7842820
+  description: Simulation output and Genome-wide scan for nIBD variants in UK10K data as reported in [Johnson et al (2022)](https://doi.org/10.1111/2041-210X.13991). 
+  tags:
+    - Pop-Gen
+    - Mutation Rate
+    - Statistics
+    - Publication
+    - Dataset
+
+- title: Shared Data - β Statistics 
+  group: datasets
+  image: images/tools/beta-statistics-4.jpg
+  link: https://doi.org/10.5281/zenodo.7842399
+  description: Genome-wide and top 1% scores for 1KG project data output from BetaScan reported in [Siewert and Voight (2017)](https://pubmed.ncbi.nlm.nih.gov/28981714/). 
+  tags:
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Dataset
+
+- title: Shared Data - β(2) Statistics 
+  group: datasets
+  image: images/tools/beta-statistics-4.jpg
+  link: https://doi.org/10.5281/zenodo.784244
+  description: Genome-wide scan using BetaScan2 in 1KG populations report in [Siewert and Voight (2020)](https://pubmed.ncbi.nlm.nih.gov/32011695/). 
+  tags:
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Dataset
+
+- title: Shared Data - Shared Sweeps via iHS
+  group: datasets
+  image: images/tools/iHS.png
+  link: https://doi.org/10.5281/zenodo.7842512
+  description: Genome-wide summary stats for modified iHS scan in 1KG as reported in [Johnson and Voight (2018)](https://pubmed.ncbi.nlm.nih.gov/29459708/).
+  tags:
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Dataset
+
+- title: Shared Data - Bivariate Scan (CAD)
+  group: datasets
+  image: images/fallback.svg
+  link: https://doi.org/10.5281/zenodo.7842105
+  description: Summary of Bivariate GWAS scan results reported in [Siewert et al (2018)](https://pubmed.ncbi.nlm.nih.gov/30525989/).
+  tags:
+    - Pop-Gen
+    - Selection
+    - Statistics
+    - Publication
+    - Dataset
+

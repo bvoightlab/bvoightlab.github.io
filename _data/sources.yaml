@@ -1,24 +1,148 @@
-- id: doi:10.1371/journal.pcbi.1007128
+## 2022
+- id: doi:10.1038/s41588-022-01078-z
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35654975/
+      text: PubMed
+#    - type: pdf
+#      link: XXX
+#      text: PDF
   tags:
-    - open science
-    - collaboration
-    - testtag
-  repo: greenelab/meta-review
+    - Complex Traits
+    - Selected Work
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+## 2012
+- id: doi:10.1016/S0140-6736(12)60312-2
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/22607825/
+      text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/234gi5qhex9o6mf5gf8fcfiap4kdlze4
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2012/05/17/health/research/hdl-good-cholesterol-found-not-to-cut-heart-risk.html
+      text: NYT
+  tags:
+    - Mendelian Randomization
+    - Complex Traits
+    - Methods
+    - Selected Work
+    
+## 2007
+- id: doi:10.1126/science.1142358
+  type: paper
+  image: https://www.science.org/cms/10.1126/science.1142358/asset/0309a869-2d76-4898-98de-76015de06963/assets/graphic/316_1331_f2.jpeg
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17463246/
+      text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/1ca950yrujkpm9jaij3kyqt5buev0wr7
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2007/04/27/us/27diabetes.html
+      text: NYT
+  tags:
+    - Complex Traits
+    - Type 2 Diabetes
+    - Selected Work
+    
+- id: doi:10.1038/ng2121
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/bin/ukmss-35163-f0002.jpg 
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17767157/
+      text: PubMed
+    - type: pdf
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/
+      text: PDF
+  tags:
+    - Complex Traits
+    
+- id: doi:10.1038/ng1946
+  date: 2007-1-1
+  type: paper
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng1946/MediaObjects/41588_2007_Article_BFng1946_Fig7_HTML.jpg?as=webp
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/17159977/
+      text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/9kze6imuoq4xx5cblsxl6t5gfadoqy9j
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2006/12/11/science/lactose-tolerance-in-east-africa-points-to-recent-evolution.html
+      text: NYT
+  tags:
+    - PopGen
+    - Selected Work
+
+## 2006
+- id: doi:10.1371/journal.pbio.0040072
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
+  repo: https://github.com/bvoightlab/iHS_calc
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/16494531/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040072&type=printable
+      text: PDF
+    - type: source
+      link: https://github.com/bvoightlab/iHS_calc
+      text: GitHub
+    - type: news
+      link: https://www.nytimes.com/2006/03/07/science/still-evolving-human-genes-tell-new-story.html
+      text: NYT
+  tags:
+    - PopGen
+    - Methods
+    - Selected Work
+    
+- id: doi:10.1371/journal.pgen.0020067
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.0020067.g005
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/16680197/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020067&type=printable
+      text: PDF
+  tags:
+    - Complex Traits  
+
+## 2005
+- id: doi:10.1371/journal.pgen.0010032
+  image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/16151517/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0010032&type=printable
+      text: PDF
+  tags:
+    - PopGen
+    - Methods
+    - Complex Traits
+    - Selected Work
+    
+- id: doi:10.1073/pnas.0507325102
+  image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/16352722/
+      text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/dtxsf2044w9pqvk6yqchebai8do17mkm
+      text: PDF
+  tags:
+    - PopGen
+    - Methods
+    - Selected Work
