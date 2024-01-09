@@ -1,5 +1,5 @@
 ---
-title: The Voight Lab
+title: Human Genomics
 ---
 
 Thanks for visiting our website! [Based at the University of Pennsylvania - Perelman School of Medicine](https://www.med.upenn.edu/), we are a computational, statistical human genomics lab interested in understanding the genetic basis of human disease, developing methods based in population genetics to understand the details of human evolutionary history and processes, and translation bioinformatics approaches to tackle problems in health systems.
