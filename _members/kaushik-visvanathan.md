@@ -13,4 +13,4 @@ links:
  
 ---
 
-This space to be filled!
+Hung out in the lab, working on a small machine learning project.
