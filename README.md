@@ -1,7 +1,7 @@
 
 # bvoightlab's Website
 
-Visit **[voightlab.com/test-bvoightlab.github.io](http://voightlab.com/test-bvoightlab.github.io)** 🚀
+Visit **[voightlab.com](http://voightlab.com)** 🚀
 
 To set up (on Sparky) Docker for previewing:
 - Spin up Docker Desktop
