@@ -31,7 +31,7 @@ Our lab is located in the [Smilow Center for Translational Research](https://www
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-regular fa-mail-bulk" %}Mailing Address
+# {% include icon.html icon="fas fa-mail-bulk" %}Mailing Address
 
 10-126 Smilow Center for Translational Research  
 3400 Civic Center Boulevard  
