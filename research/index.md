@@ -87,7 +87,7 @@ _Mendelian Randomization_ as a statistical approach to provide one line of evide
 <!-- start Consortium units -->
 {% capture text %}
 
-My group is active in several consortia, generally focused around human genomics data. The objectives of these interactions are to either assemble data for discovery, collaborate to advance functional validation of causal genes for T2D, access to large-scale biobank data (e.g., MVP), or to develop new portals to aggregate data into a single knowledge portal. 
+My group is active in several consortia, generally focused around human genomics data. The objectives of these interactions are to either assemble data for discovery, collaborate to advance functional validation of causal genes for T2D, access to large-scale biobank data (e.g., MVP), or to develop new knowledge portals to aggregate data for discovery and  inference of disease processes.
 
 {%
   include button.html
