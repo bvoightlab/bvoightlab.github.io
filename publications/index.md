@@ -38,8 +38,25 @@ But feel free to follow the Pubmed and Google Scholar links below to see a full 
 
 ## All
 
+Methodolgy Discipline Area:
+{% include tags.html tags="Pop-Gen, Complex Traits, Mendelian Randomization, QTL Mapping" link="publications" %}
+
+Population Genetics Focus:
+{% include tags.html tags="Selection, Mutation Rate, Demography" link="publications" %}
+
+Phenotypic Areas:
+{% include tags.html tags="T2D, T1D, CAD/CVD, Liver Disease, Pleiotropy" link="publications" %}
+
+Approaches:
+{% include tags.html tags="Statistics, AI/ML, Automation" link="publications" %}
+
+Software Available:
+{% include tags.html tags="Software" link="publications" %} 
+
 {% include search-box.html %}
 
 {% include search-info.html %}
+
+{% include section.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}

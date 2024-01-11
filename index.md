@@ -25,7 +25,7 @@ Human genetics data is the starting point for virtual all our lines of inquiry f
 {%
   include feature.html
   image="images/tools/baymer.png"
-  link="research"
+  link="publications"
   title="Human Genomics, Evolution, and Translation"
   text=text
 %}
@@ -36,7 +36,7 @@ Scholars develop their computational capabilities and put those skills to the li
 
 {%
   include button.html
-  link="projects"
+  link="research"
   text="Check out our Active Work"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -47,7 +47,7 @@ Scholars develop their computational capabilities and put those skills to the li
 {%
   include feature.html
   image="images/LastJedi-FeatureArt.webp"
-  link="projects"
+  link="research"
   title="Methods Development to Big Data Science"
   flip=true
   text=text

@@ -19,17 +19,21 @@ nav:
 
 Primarily, we use statistical approaches to develop methodology for the analysis of human genetics data. We are perhaps more active in development of population genetics methods, but that's entirely due to the randrom flux of students who have joined the lab. We have plenty of angles for novel method/algorithm development for quantitative genetic analysis (e.g., PRS, Mendelian randomization, fine-mapping).
 
+{% include section.html %}
+
 Methodolgy Discipline Area:
-{% include tags.html tags="Pop-Gen, Complex Traits, Mendelian Randomization" link="https://voightlab.com/tools/" %}
+{% include tags.html tags="Pop-Gen, Complex Traits, Mendelian Randomization" link="tools" %}
 
 Population Genetics Focus:
-{% include tags.html tags="Selection, Mutation Rate" link="https://voightlab.com/tools/" %}
+{% include tags.html tags="Selection, Mutation Rate" link="tools" %}
 
 Approaches:
-{% include tags.html tags="Statistics, AI/ML, Automation" link="https://voightlab.com/tools/" %}
+{% include tags.html tags="Statistics, AI/ML, Automation" link="tools" %}
 
 Software Available:
-{% include tags.html tags="Software" link="https://voightlab.com/tools/" %}
+{% include tags.html tags="Software" link="tools" %} 
+
+{% include search-box.html %}
 
 {% include search-info.html %}
 
