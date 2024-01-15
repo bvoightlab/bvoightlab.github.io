@@ -10,7 +10,7 @@ nav:
 <!-- start popgen unit -->
 {% capture text %}
 
-We are an active population genetics lab and projects focus around studies of mutation rate variation, natural selection, and projects at the interface between population genetics and complex traits. Projects include both methods development and/or data science analysis. We are especially interested in development and applications using _Baymer_, a tool to infer mutation rate variation based on local nucleotide sequence context that we recently reported. We're also active collaborators with other pop-gen minded groups at Penn!
+We are an active population genetics lab and projects focus around studies of mutation rate variation, natural selection, and projects at the interface between population genetics and complex traits. Projects include both methods development and/or data science analysis. We are especially interested in development and applications using _Baymer_, a tool to infer mutation rate variation based on local nucleotide sequence context that we recently reported. We're also active collaborators with other Population Genetics minded groups at Penn!
 
 {%
   include button.html

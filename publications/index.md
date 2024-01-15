@@ -39,7 +39,7 @@ But feel free to follow the Pubmed and Google Scholar links below to see a full 
 ## All
 
 Methodolgy Discipline Area:
-{% include tags.html tags="Pop-Gen, Complex Traits, Mendelian Randomization, QTL Mapping" link="publications" %}
+{% include tags.html tags="Pop Gen, Complex Traits, Mendelian Randomization, QTL Mapping" link="publications" %}
 
 Population Genetics Focus:
 {% include tags.html tags="Selection, Mutation Rate, Demography" link="publications" %}

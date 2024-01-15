@@ -3,7 +3,7 @@ title: Projects in Population Genetics
 author: Ben Voight
 ---
 {% include button.html text="Links to Pubs:" link="publications" %}
-{% include tags.html tags="Pop-Gen, Mutation Rate, Selection, Baymer, Demography" link="publications" %}
+{% include tags.html tags="Pop Gen, Mutation Rate, Selection, Baymer, Demography" link="publications" %}
 
 {% include section.html %}
 
