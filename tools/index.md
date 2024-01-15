@@ -4,7 +4,7 @@ nav:
   order: 3
   tooltip: Published Methods
   tags: 
-    - Pop-Gen
+    - Pop Gen
     - Complex Traits
     - Mendelian Randomization
     - Selection
@@ -22,7 +22,7 @@ Primarily, we use statistical approaches to develop methodology for the analysis
 {% include section.html %}
 
 Methodolgy Discipline Area:
-{% include tags.html tags="Pop-Gen, Complex Traits, Mendelian Randomization" link="tools" %}
+{% include tags.html tags="Pop Gen, Complex Traits, Mendelian Randomization" link="tools" %}
 
 Population Genetics Focus:
 {% include tags.html tags="Selection, Mutation Rate" link="tools" %}
