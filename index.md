@@ -2,7 +2,7 @@
 title: Human Genomics
 ---
 
-Thanks for visiting our website! [Based at the University of Pennsylvania - Perelman School of Medicine](https://www.med.upenn.edu/), we are a computational, statistical human genomics lab interested in understanding the genetic basis of human disease, developing methods based in population genetics to understand the details of human evolutionary history and processes, and translation bioinformatics approaches to tackle problems in health systems.
+Thanks for visiting our website! [Based at the University of Pennsylvania - Perelman School of Medicine](https://www.med.upenn.edu/), we are a computational, statistical human genomics lab interested in understanding the genetic basis of human disease, developing methods based in population genetics to understand the details of human evolutionary history and processes, and developing translation bioinformatics approaches to tackle problems in health systems.
 
 {% include section.html %}
 
@@ -10,7 +10,7 @@ Thanks for visiting our website! [Based at the University of Pennsylvania - Pere
 
 {% capture text %}
 
-Human genetics data is the starting point for virtual all our lines of inquiry for methods development or Big Data science focused on complex traits, population genomics, and translational bioinformatics. These can come from public repositories, but we also are actively engaged with the [Million Veteran Program](https://www.mvp.va.gov/pwa/).
+Human genetics data is the starting point for virtual all our lines of inquiry, ranging from methods development to Big Data science focused on complex traits, population genomics, and translational bioinformatics. These data are often derived from public repositories, but we also are actively engaged with data collections generated from the [Million Veteran Program](https://www.mvp.va.gov/pwa/), among others.
 
 {%
   include button.html
@@ -32,7 +32,7 @@ Human genetics data is the starting point for virtual all our lines of inquiry f
 
 {% capture text %}
 
-Scholars develop their computational capabilities and put those skills to the limit in their scientific pursuits. We are a diverse group with myriad interest, and there is a place for everyone's interests. Methods we develop are all open source and freely available to the community. 
+Lab members develop their computational capabilities and put those skills to the limit towards their scientific pursuits. We are a diverse group with myriad interest, and there is a place for everyone and their interests. Methods we develop are all open source and freely available to the community. 
 
 {%
   include button.html
@@ -55,7 +55,7 @@ Scholars develop their computational capabilities and put those skills to the li
 
 {% capture text %}
 
-We have a dedicated mission of training and scholarship for the bright, hard working and enthusiastic young scientists in the group! 
+We have a dedicated mission of training and scholarship for the bright, hard working and enthusiastic scientists in the group! 
 
 {%
   include button.html
