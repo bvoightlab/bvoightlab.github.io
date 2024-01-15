@@ -6,7 +6,7 @@
   link: https://github.com/bvoightlab/Baymer/
   description: Implementation of a Markov Chain Monte Carlo procedure to estimate hierarchical tree-based sequence context models from variation data sets (polymorphism, substitutions, somatic, <em>de novo</em>, etc.). Introduced by Adams et al (2023). 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Mutation Rate
     - Statistics
     - Publication
@@ -29,7 +29,7 @@
   link: https://github.com/bvoightlab/iHS_calc/
   description: The <em>Intgrated Haplotype Score</em> - A method to detect signals of extended haplotype homozygosity in genomic regions consistent with the action of recent, ongoing selective sweeps using population level data. Introduced in Voight and Kudaravalli et al (2006), adjustments for local, low recombination rates were presented Johnson and Voight (2018).
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
@@ -41,7 +41,7 @@
   link: https://github.com/ksiewert/BetaScan/
   description: A method to detect signals of an excess number of polymorphisms at near identifical frequency in very close physical proximity, consistent with the action of long-term balancing selection. Introduced in Siewert and Voight (2017), estimates of substitution rates were subsequently incorporated by Siewert and Voight (2020) as the β(2) statistic. 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
@@ -53,7 +53,7 @@
   link: https://github.com/kelsj/EVICORD/
   description: <u>EV</u>aluating <u>I</u>BD <u>C</u>onsistency via <u>O</u>bligate <u>R</u>ecombination <u>D</u>istance - A method designed to detect the rare variants whose alleles are not mutually shared identically by decent, i.e., are IBD-inconsistent which can result from recurrent mutation, gene conversion, or genotype error. This method performs the Gibbs sampler for the Bayesian hierarchical model described by Johnson et al (2022). 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Mutation Rate
     - Statistics
     - Publication
@@ -112,7 +112,7 @@
   link: https://pubmed.ncbi.nlm.nih.gov/28193182/
   description: Presented a statistical framework to evaluate the goodness of fit of competing nested sequence context models. Described in Aggarwala and Voight (2016).
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Mutation Rate
     - Statistics
     - Publication
@@ -137,7 +137,7 @@
   link: https://doi.org/10.5281/zenodo.7843023
   description: Additional data on outputed models from Bayer as reported in [Adams et al (2023)](https://pubmed.ncbi.nlm.nih.gov/37418489/).
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Mutation Rate
     - Statistics
     - Publication
@@ -149,7 +149,7 @@
   link: https://doi.org/10.5281/zenodo.7842820
   description: Simulation output and Genome-wide scan for nIBD variants in UK10K data as reported in [Johnson et al (2022)](https://doi.org/10.1111/2041-210X.13991). 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Mutation Rate
     - Statistics
     - Publication
@@ -161,7 +161,7 @@
   link: https://doi.org/10.5281/zenodo.7842399
   description: Genome-wide and top 1% scores for 1KG project data output from BetaScan reported in [Siewert and Voight (2017)](https://pubmed.ncbi.nlm.nih.gov/28981714/). 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
@@ -173,7 +173,7 @@
   link: https://doi.org/10.5281/zenodo.784244
   description: Genome-wide scan using BetaScan2 in 1KG populations report in [Siewert and Voight (2020)](https://pubmed.ncbi.nlm.nih.gov/32011695/). 
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
@@ -185,7 +185,7 @@
   link: https://doi.org/10.5281/zenodo.7842512
   description: Genome-wide summary stats for modified iHS scan in 1KG as reported in [Johnson and Voight (2018)](https://pubmed.ncbi.nlm.nih.gov/29459708/).
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
@@ -197,7 +197,7 @@
   link: https://doi.org/10.5281/zenodo.7842105
   description: Summary of Bivariate GWAS scan results reported in [Siewert et al (2018)](https://pubmed.ncbi.nlm.nih.gov/30525989/).
   tags:
-    - Pop-Gen
+    - Pop Gen
     - Selection
     - Statistics
     - Publication
