@@ -116,6 +116,19 @@
     - Mutation Rate
     - Statistics
     - Publication
+    
+- title: MeRP
+  group: methods-legacy
+  image: images/tools/MeRP.jpg
+  link: https://github.com/peteryin21/py-merp
+  description: Python tool designed to automate the curation of genetic variants selected from the NHGRI GWAS catalog, filtering steps, and causal effect calcualtion for MR. Described in Yin and Voight (2015).
+  tags:
+    - Complex Traits
+    - Pleiotropy
+    - Mendelian Randomization
+    - Automation
+    - Publication
+    - Software
 
 ## Datasets
 - title: Shared Data - Baymer
