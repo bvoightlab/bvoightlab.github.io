@@ -27,6 +27,9 @@ We remain interested in characterizing these (and other) related spider species,
 
 ## Computational Prediction of Molecular Docking
 
+A great deal of effort in human genetics is focused on solving the “variant-to-gene” mapping problem; namely, identifying what gene at a given locus is causal for the phenotype/disease that is associated with regional variation. However, once a leading gene has been identified and proven to be implicated in disease beyond a reasonable doubt (typically with functional data from cell or animal model systems data), it is natural to ask if the protein product of that gene can be perturbed with a small molecule to obtain a therapeutic effect. While this direction of experimental effort is often considered an affair for the private sector, development of ‘tool’ small molecules, precursors for true therapeutics that demonstrate potential effect is still a risky proposition. Moreover, biochemical perturbation of gene targets that are consistent with the observed human genetics phenotypic data provides another line of evidence for gene relevance, even if the target is not fully actionable. 
+
+While a substantial computational task, if sufficiently high-resolution protein structures for a target exists, there are tools that can model the proclivity of a small molecule to ‘dock’ with the surface of that structure. We are interested in identifying targets of opportunity, namely, for cardiometabolic traits of lab interest where we have implicated a gene beyond reasonable doubt, to determine which (if any) of those targets are amenable to computational docking experiments. Screening millions of compounds takes computational time, so we are also interested in developing computationally efficient pipelines to take this task on at scale.
 
 
 {% include button.html text="Back to Top" link="2024/01/11/Projects-Aspirational" %}
