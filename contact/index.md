@@ -59,3 +59,9 @@ Philadelphia, PA 19104
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/7gzisxUBdtE?si=18N-79xYu25JOreX" 
+title="A Star Wars Sitting Duck" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>

@@ -15,10 +15,32 @@ author: Ben Voight
 
 ## Spider Genomics
 
-Spiders are an amazing species, most notably for producing biomaterials that have some of the most unique and diverse biophysical properties of materials found in nature. Our previous work focused on the genomic assembly and silk-gene characterization of two species of spiders: the Golden-Orb weaver [_Trichonephila clavipes_]( https://en.wikipedia.org/wiki/Trichonephila_clavipes), one of the most well-studies arachnids for silk biology, and [_Caerostris darwini_]( https://en.wikipedia.org/wiki/Darwin%27s_bark_spider), a species native to Madagascar infamous for its extremely tough draglines used in the webs that it builds over riverways there for predation. 
+Spiders are an amazing species, most notably for producing biomaterials that have some of the most unique and diverse biophysical properties of materials found in nature. Our previous work focused on the genomic assembly and silk-gene characterization of two species of spiders: the Golden-Orb weaver [_Trichonephila clavipes_]( https://en.wikipedia.org/wiki/Trichonephila_clavipes), one of the most well-studies arachnids for silk biology, and [_Caerostris darwini_](https://en.wikipedia.org/wiki/Darwin%27s_bark_spider), a species native to Madagascar infamous for its extremely tough draglines used in the webs that it builds over riverways there for predation. 
 
 We remain interested in characterizing these (and other) related spider species, as sequencing technologies develop and advance. For example, some project directions could include creating a more ‘complete’ Telomere-to-Telomere genome, collecting population genetic data to characterize demographic history, variation in mutation rates, and detecting signature of natural selection, or using advances sequencing technologies to characterize transcript expression in silk glands at single-cell and/or at spatial resolution.
 
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/spiderling01.jpg"
+  caption="Golden Orb Weaver Spiderlings in the lab!"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+<iframe width="315" height="480"
+src="https://youtube.com/embed/v74bsD6lRoo"
+title="Spiderlings on the Lam!" frameborder="0"
+allow="accelerometer; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include button.html text="Back to Top" link="2024/01/11/Projects-Aspirational" %}
 
