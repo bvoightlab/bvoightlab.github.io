@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-15T23:13:57+00:00</updated><id>/feed.xml</id><title type="html">Voight Lab</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">Consortium-Level Activties</title><link href="/2024/01/11/Consortia.html" rel="alternate" type="text/html" title="Consortium-Level Activties" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-01-15T23:13:08+00:00</updated><id>/2024/01/11/Consortia</id><content type="html" xml:base="/2024/01/11/Consortia.html"><![CDATA[<div class="button-wrapper">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-02-01T21:28:24+00:00</updated><id>/feed.xml</id><title type="html">Voight Lab</title><subtitle>An engaging 1-3 sentence description of your lab.</subtitle><entry><title type="html">Consortium-Level Activties</title><link href="/2024/01/11/Consortia.html" rel="alternate" type="text/html" title="Consortium-Level Activties" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-02-01T21:25:42+00:00</updated><id>/2024/01/11/Consortia</id><content type="html" xml:base="/2024/01/11/Consortia.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -80,18 +80,7 @@
 <p><a id="T2D-GGI"></a></p>
 
 <h2 id="the-type-2-diabetes-global-genomics-initiative-t2d-ggi">The Type 2 Diabetes Global Genomics Initiative (T2D-GGI)</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>I have a long-standing commitment to mapping genetic susceptibility loci for type 2 diabetes (T2D). I was part of the first groups to perform GWAS successfully – our efforts there to bring together data initially to make statistically robust (and replicated) observations formed the basis of genome-wide meta-analyses that we currently enjoy conventionally today. For T2D, I was part of <a href="https://diagram-consortium.org/">DIAGRAM</a>, the first consortium for meta-analysis of T2D data. Today, with long-standing colleagues (Andrew Morris and Ele Zeggini), I co-lead the Type 2 Diabetes Global Genomics Initiative (T2D-GGI), which carries the torch of that previous effort. Our initial effort has been to <a href="https://www.medrxiv.org/content/10.1101/2023.03.31.23287839v1">assemble &gt;2.5M participants for the largest multi-ancestry GWAS of T2D to date</a>. Ongoing efforts of that group include use of those data to connect to gene and physiology (through statistical colocalization), refinement and characterization of genetic subtypes of diabetes through clustering methods, causal inference studies via Mendelian randomization, or signal fine-mapping. We are a collaborative, inclusive group and projects that utilize data in this area can give trainees exposure to and experience with fantastically effective large-scale multi-institutional consortium work, which is increasingly typical in human genomics activities.</p>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Consortia" data-style="" aria-label="button">
@@ -111,25 +100,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <p><a id="MVP"></a></p>
 
-<h2 id="the-million-veteran-program-mvp">The Million Veteran Program (MVP)</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<h2 id="the-va-million-veteran-program">The VA Million Veteran Program</h2>
+<p>The VA’s Million Veteran Program (MVP) is a national research program looking at how genes, lifestyle, military experiences, and exposures affect health and wellness in Veterans. Since launching in 2011, 1 million Veterans have joined MVP. It is the largest research effort at VA to improve health care for Veterans and one of the largest research programs in the world studying genes and health. I have a without compensation (WOC) appointment at the local VA here in Philadelphia (CMC), connected to Cardiometabolic Trait and Disease projects funded projects (to Kyong-Mi Chang at Penn, and Phil Tsao, Stanford) as well as projects related to CVD/PAD (to Scott Damrauer). My primary contribution focused around genetic discovery and analysis for T2D, liver disease, and CVD. This resource is particularly exciting to me with numerous opportunities for projects and productive scholarship, as its highly diverse representation at large sample size in a single repository make it ideal for complex trait genetic and population genetic discovery, characterization of genetic architecture, but also for causal inference using Mendelian randomization approaches that also have the opportunity to work at the individual level. To give one example of the potential of this: I was fortunate to join colleagues nation wide, to report <a href="https://www.medrxiv.org/content/10.1101/2023.06.28.23291975v1">a genome-wide, Phenome-wide association study across MVP participants</a>. The scope and volume of computation require to complete this project require collaborations with the DOE and supercomputer access with modified, efficient implementations of analysis tools, leading to new collaborations and inference at scale that has hitherto not been reported.</p>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Consortia" data-style="" aria-label="button">
@@ -150,24 +122,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <p><a id="T2D-AMP-CMD"></a></p>
 
 <h2 id="the-type-2-diabetes---accelerating-medicines-partnership---common-metabolic-disease---functional-genomics-project-t2d-amp-cmd-fgp">The Type 2 Diabetes - Accelerating Medicines Partnership - Common Metabolic Disease - Functional Genomics Project (T2D AMP CMD FGP)</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>Large-scale genome-wide association studies (GWAS) have lead to the rapid identification of hundreds of T2D-associated loci. However, the mechanism(s) through which most of these loci influence disease susceptibility remain poorly understood. An interdisciplinary team at Penn (including Pat Seale, Wenli Yang, Struan Grant, Klaus Kaestner, Dan Rader, and myself) brings together experts in population genetics, T2D GWAS, biostatistics, metabolic tissue biology, human cellular disease modeling and T2D pathophysiology to tackle this critical knowledge gap. In collaboration with our consortium partners, our goal is to provide the diabetes research community with a robust pipeline for mapping T2D GWAS variants to effector genes and target tissues, identify new genes and biological pathways that modulate susceptibility to T2D, and define gene regulatory networks relevant to T2D with the goal of uncovering therapeutic ‘entry
+points’ for developing new treatments. My efforts in this consortium lead on genetic discovery and characterization, closely partnering with groups focused on prioritizing putative effector transcripts using QTL mapping data. We also collaborate locally with Penn investigators to help interpret genetics data and to priortize leads that merit functional follow-up studies.</p>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Consortia" data-style="" aria-label="button">
@@ -188,24 +144,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <p><a id="PanKbase"></a></p>
 
 <h2 id="pankbase-human-islet-research-network-hirn-pancreas-knowledgebase-program-pankbase">PanKbase: Human Islet Research Network (HIRN) Pancreas Knowledgebase Program (PanKbase)</h2>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>A wealth of data has been generated in human pancreas donors in initiatives supported by the Human Islet Research Network (HIRN) which can be used to address open questions in type 1 diabetes, yet these data are currently both underutilized and in formats inaccessible to many researchers which prohibits insights. To address this gap, the NIDDK has assembled two groups of highly accomplished researchers to create a pancreatic knowledge base - <em>PanKbase</em> - which leverages expertise in computational biology and data science, type 1 diabetes, islet biology, knowledge base engineering, and engagement and outreach. This is an incredibly new collaboration (as of Feb 2024); I expect more details to emerge about the goals, objectives, and deliverables for the project as the group organized and gets situated.</p>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Consortia" data-style="" aria-label="button">
@@ -214,7 +153,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: PanKbase T2D-GGI T2D-AMP-CMD MVP]]></summary></entry><entry><title type="html">Aspirational Projects</title><link href="/2024/01/11/Projects-Aspirational.html" rel="alternate" type="text/html" title="Aspirational Projects" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-01-15T23:13:08+00:00</updated><id>/2024/01/11/Projects-Aspirational</id><content type="html" xml:base="/2024/01/11/Projects-Aspirational.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: PanKbase T2D-GGI T2D-AMP-CMD MVP]]></summary></entry><entry><title type="html">Aspirational Projects</title><link href="/2024/01/11/Projects-Aspirational.html" rel="alternate" type="text/html" title="Aspirational Projects" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-02-01T21:25:42+00:00</updated><id>/2024/01/11/Projects-Aspirational</id><content type="html" xml:base="/2024/01/11/Projects-Aspirational.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -275,6 +214,36 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <p>We remain interested in characterizing these (and other) related spider species, as sequencing technologies develop and advance. For example, some project directions could include creating a more ‘complete’ Telomere-to-Telomere genome, collecting population genetic data to characterize demographic history, variation in mutation rates, and detecting signature of natural selection, or using advances sequencing technologies to characterize transcript expression in silk glands at single-cell and/or at spatial resolution.</p>
 
+<div class="cols" style="--cols: 2">
+  
+    
+    <div>
+<figure class="figure">
+  <a class="figure-image" aria-label="Golden Orb Weaver Spiderlings in the lab!">
+    <img src="/images/spiderling01.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="Golden Orb Weaver Spiderlings in the lab!" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Golden Orb Weaver Spiderlings in the lab!
+
+    </figcaption>
+  
+</figure>
+
+</div>
+  
+    
+    <div>
+<iframe width="315" height="480" src="https://youtube.com/embed/v74bsD6lRoo" title="Spiderlings on the Lam!" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+</div>
+  
+</div>
+
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Projects-Aspirational" data-style="" aria-label="button">
       
@@ -306,7 +275,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Spiders Docking]]></summary></entry><entry><title type="html">Projects in Complex Trait Genetics</title><link href="/2024/01/11/Projects-Complex-Traits.html" rel="alternate" type="text/html" title="Projects in Complex Trait Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-01-15T23:13:08+00:00</updated><id>/2024/01/11/Projects-Complex-Traits</id><content type="html" xml:base="/2024/01/11/Projects-Complex-Traits.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Spiders Docking]]></summary></entry><entry><title type="html">Projects in Complex Trait Genetics</title><link href="/2024/01/11/Projects-Complex-Traits.html" rel="alternate" type="text/html" title="Projects in Complex Trait Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-02-01T21:25:42+00:00</updated><id>/2024/01/11/Projects-Complex-Traits</id><content type="html" xml:base="/2024/01/11/Projects-Complex-Traits.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -476,7 +445,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Complex Traits T2D CAD/CVD Liver Disease]]></summary></entry><entry><title type="html">Projects in Mendelian Randomization</title><link href="/2024/01/11/Projects-MR.html" rel="alternate" type="text/html" title="Projects in Mendelian Randomization" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-01-15T23:13:08+00:00</updated><id>/2024/01/11/Projects-MR</id><content type="html" xml:base="/2024/01/11/Projects-MR.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Complex Traits T2D CAD/CVD Liver Disease]]></summary></entry><entry><title type="html">Projects in Mendelian Randomization</title><link href="/2024/01/11/Projects-MR.html" rel="alternate" type="text/html" title="Projects in Mendelian Randomization" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-02-01T21:25:42+00:00</updated><id>/2024/01/11/Projects-MR</id><content type="html" xml:base="/2024/01/11/Projects-MR.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -615,7 +584,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Mendelian Randomization]]></summary></entry><entry><title type="html">Projects in Population Genetics</title><link href="/2024/01/11/Projects-Pop-Gen.html" rel="alternate" type="text/html" title="Projects in Population Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-01-15T23:13:08+00:00</updated><id>/2024/01/11/Projects-Pop-Gen</id><content type="html" xml:base="/2024/01/11/Projects-Pop-Gen.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Mendelian Randomization]]></summary></entry><entry><title type="html">Projects in Population Genetics</title><link href="/2024/01/11/Projects-Pop-Gen.html" rel="alternate" type="text/html" title="Projects in Population Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2024-02-01T21:25:42+00:00</updated><id>/2024/01/11/Projects-Pop-Gen</id><content type="html" xml:base="/2024/01/11/Projects-Pop-Gen.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -691,19 +660,37 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <p><a id="Mutation-Rate"></a></p>
 
-<h2 id="inference-of-variation-in-mutation-rates">Inference of variation in mutation rates</h2>
+<h2 id="inference-of-mutation-rate-variation-across-genomes">Inference of Mutation Rate Variation across Genomes</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>Mutation is one of the most important processes generating variation within and between species, and is a fundamental process underlying molecular evolution. My lab is generally interested in work to identify correlates of - and ways to ultimately explain - variation in where, what type, and how frequent different types of mutational events occur in genomes: polymorphisms, substitutions, <em>de novo</em> events, somatic mutations, etc. Ultimately, better models to explain variation in mutation rates across genomes can help interpret evidence for selection (e.g., functional constraint), timing and the pace of the molecular evolutionary clock, how the process of mutation has changes over time or may be different across populations or across the tree of life broadly. Moreover, better models may also ultimately help us to understand mechanism, i.e., what are the ultimately environmental and molecular drivers underlying the mutational process.</p>
+
+<p>To date, our work has mainly focused on modeling variation in mutation rates using sequence context – the local nucleotides that flank a mutated site. For example, it is well known that the rate of C&gt;T transition mutations are substantially elevated at CpG dinucleotide sites owing to the mechanism of spontaneous deamination of 5-methylcytosine. This observation serves as the foundation for questions and models that we explore, namely:</p>
+
+<ol>
+  <li><em>How much variation in where, what type, and how frequent different types of mutations can be captured by sequence context?</em></li>
+  <li><em>Can improved models for mutation rate variability help identify regions of functional constraint?</em></li>
+  <li><em>How has the mutational process – measured by expanded windows of sequence context - changed over time?</em></li>
+</ol>
+
+<p>Below, I describe a couple of ideas of interest, but generally I am open to different types of analysis projects or ideas in this space!</p>
+
+<ol>
+  <li><strong>Further Development of Baymer</strong>. Our primary report for Baymer describes a ‘baseline’ implementation that is poised for further development. Some possible angles for novel development include (but not limited to):
+    <ul>
+      <li><em>Cross-substitution class modelling</em>. As currently implement, Baymer stratifies the data into 1-mer models (A&gt;G, A&gt;T, A&gt;C, etc.). It is possible that information about rates and local sequence context could be borrowed across all types.</li>
+      <li><em>Multi-population models</em>. When we apply Baymer, we typically do so with by grouping individuals based on some notion of ancestry or similarlity to reference groups, but each separately. However, we know that the history of human populations is connected and can be described by phylogenetic trees with mutations shared across populations, private to specific branches, or may migrate across populations. Extensions to Baymer that consider such models could be imagined which fully utilize all data collectively (rather than stratifying) and could be used to make comparisons of rates across populations.</li>
+      <li><em>Formal estimation of θ</em>. Baymer quantifies the <em>probability of mutation</em> for a given window of sequence context, based on the total number of mutated sites observed divided by the total number of k-mer sequence contexts in the reference (or reconstructed ancestral) genome. However, this basic model has limitations and assumptions which we acknowledge. First is that this probability depends on, but is not itself an estimate of the base pair per generation mutation rate, %mu;. It is also true that this probability depends on several additional quantities including (i) effective population size and other aspects of demographic history that influence patterns of genomic variation, (ii) forces that may influence patterns of variation locally, e.g., selection and recombination, (iii) biological or environmental factors that influence the mutation rate, either globally or locally. Thus, a direction for work would be to improve Baymer with explicit models of these forces to generate estimates of θ.</li>
+      <li><em>Models for recurrent mutation events; mutation saturation</em>. Baymer makes an infinite sites model, but as the number of surveyed genomes increase, mutational contexts can become saturated. We also know that highly mutable sites that may not yet be saturated can be subjected to recurrent mutational events as well. Work to relax this assumption and accomodate these factors into a modified modeling procedure could be imagined.</li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Expanded model development for non-sequence context features</strong>. Other (non-sequence contexts) correlates of mutation rate - Replication timing, rate of recombination, strand-biases, functional genomics, etc. These factors absolutely contribute to variation in where, what type, and how frequent polymorphisms are observed and may (or may not) correlate with sequence context features. Another goal would be to select key factors and incorporate them into a unified Baymer model which describes variation across sequences context <em>and</em> one or more of these features.</p>
+  </li>
+  <li>
+    <p><strong>Applications of Baymer - Across the Tree of Life</strong>. A central question is to what extent are mutational processes conserved across the tree of life. The reduction of cost for large scale sequencing has made creation of draft genomes of thousands of species now possible and facilitates the collection of population level variation data in those species. As a result, it is extremely timely to bring extant data - including but beyond mammals - to this basic question. Our lab is collaborating with the Mathieson Lab to cultivate &gt;100 species worth of polymorphism data to characterize mutational profiles across species, to determine if patterns of variation are different, differently evolving, and if we can correlate features common to species with mutational profiles or spectra, given the structure of the phylogenetic tree.</p>
+  </li>
+  <li><strong>Applications of Baymer - Coding Genome</strong>. Previous work focused on the non-coding genome; we expect that patterns of variation in the coding genome (incorporating codon context with sequence context window) should reflect what is observed in the non-coding genome, albeit reduced as a function of purifying selection. The approach would be to improve Baymer to be knowledgable about codon context and strand bias (directionality) to evaluate this model. In particular, the field uses synonymous mutation to generate an expectation for neutral (background) variation. Yet, a small fraction of these sites might still be subject to constraint (e.g., cryptic splice enhancer/modifiers). Thus, the ability to generate an appropriate background based on the genome background would facilitate better models to test all types of variation. Moreover, we also have substantially larger and better refined information on protein structure than ever before – generated empirically from Cryo-EM or through computational predictions e.g., <a href="https://www.nature.com/articles/s41586-021-03819-2">AlphaFold</a>, AlphaFold2. Another objective is to better isolate regions in proteins likely to be the most constrained overall, to discover regions that are functionally important.</li>
+</ol>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Projects-Pop-Gen" data-style="" aria-label="button">
@@ -725,23 +712,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <h2 id="inference-of-selection">Inference of Selection</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>I have a longstanding interest in discovery of genomic loci that may be targetted by directional positive selection or adaptive evolution in human populations. Ultimately, our goals are to built new and improve upon existing method to identify genomic signatures in data consistent with the action of different types of selection. I am also fond of much harder work to identify and characterize genes subject to selection that may arise from these efforts, connecting them to human traits to try to understand what may have been important in evolutionary history, primarily in human populations. Previous students in the lab developed new summary statistics to detect the action of balancing selection at genomic loci (the β-Statistics), or improved upon and applied existing tools (the iHS) to multi-population genetics data. More recently, I am interested in applying our work to model mutation rate variation as a function of sequence context to improve resolution of sequences - coding and non-coding - subject to purifying selection, and the strength of that selection on those sequences.</p>
+
+<p>Some current interest include:</p>
+
+<ol>
+  <li>
+    <p><strong>Applying Baymer and context models for new measures of functional constraint, extended regions of homozygosity, adaptation</strong>. The outputs from Baymer include the probability to observe polymorphism at a given nucleotide sites from population data. Using this information, it is possible to generate statistics that quantify the difference between observed vs. expected levels of polymorphism in specific genomic regions relative to the genome background as a whole. For example, we expect to see a reduction of polymorphic sites the coding relative to the non-coding genome, owing to functional constraint on coding sequences. Or, for example, directional selective sweeps that have have only recently fixed in a population will not have had much time to generate new mutations in the region; thus, one expects under some models to observe a deficit/absence of segregating sites in a ‘completed’ sweep (e.g., SLC24A5 in Europeans). Thus, projects include developing new test statistics based on this output to look for patterns in genomes consistent with different modes of selection.</p>
+  </li>
+  <li>
+    <p><strong>Baymer - reinterpret previously pop-gen statistics with better models for mutation rates</strong>. Many of the population genetic summary statistics that I grew up learning about that were relevant for detection of selection - the MK test, HKA, dn/ds, etc. are based fundamentally on models for the mutational process. Generally, those models make limited assumptions about sequence context; these could be re-evaluated generally in the light of empirical data and evidence supporting variation in context-based mutability (within and across species).</p>
+  </li>
+  <li>
+    <p><strong>Application of selection scans to multi-species data</strong>. In the process of assembling multi-species data for mutation-rate inference using Baymer, depending on the quality of the genome assembly and the data collected, it may be possible to apply some of our methods to species beyond humans, to identify signatures of selection from these data.</p>
+  </li>
+</ol>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Projects-Pop-Gen" data-style="" aria-label="button">
@@ -761,26 +746,21 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <p><a id="Interface"></a></p>
 
-<h2 id="projects-at-the-interface-of-pop-gen-and-complex-traits">Projects at the interface of Pop-Gen and Complex Traits</h2>
+<h2 id="projects-at-the-interface-between-population-genomics-and-complex-trait-genetics">Projects at the Interface between Population Genomics and Complex Trait Genetics</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. !!!</p>
+<p>My previous training spans population genetic and complex disease trait mapping. I view these as complementary; population genetic thinking is quite informative (infectious, even) to interpreting complex trait association data, deciphering the genetic architecture of complex traits. Along these lines, we try to borrow ideas from population genetic models to understand disease-relevant variation or prediction problems, or how to develop and improve upon statistical genetics approaches that take advantage of multi-ancestry studies across human populations. My lab is always on the hunt for interesting angles where ideas from both spaces can be blended into interesting project. Some examples are listed below:</p>
+
+<ol>
+  <li>
+    <p><strong>Somatic mutational data in cancer</strong>. The process and accumulation of somatic mutations is integral to the development of cancer in various tissues, and a great deal of prior work has been performed to learn about mutational signatures that are observed from these data as well as attempting to connect those signatures to molecular processes. However, most of these models are in 3-mer context models. Large-scale somatic mutational data are available to which Baymer could easily be applied to discover new signatures from data, or to use outputs from Baymer (and other measure of selection/constraint) to clarify somatic mutations that may be pathogenic.</p>
+  </li>
+  <li>
+    <p><strong>Functional constraint models to interpret coding, non-coding variation for complex traits</strong>. While a great deal of functional constraint is observed and relatively well-quantified in the coding genome, quantification of constraint in the non-coding genome is much less obvious. There is a great deal of new methods and new data work from multi-species (mammalian) data, e.g., primate sequencing, Zoonomia, that is bringing unprecedent data and resolution to infer functional constraint. We think potentially there are gains to be made applying functional constraint inferred from measurements informed by sequence-context mutational probabilities inferred by Baymer to quantify constraint further. This could then be applied to interpret human complex trait association data, particularly as output from statistical signal fine-mapping, where additional information about variants within a credible set are likely to be causal would be exceedingly valuable to help guide functional follow-up experimental efforts.</p>
+  </li>
+  <li>
+    <p><strong>Population Structure, admixture and quantitative genetics</strong>. We are engaged in large-scale DNA biobanks like the Million Veteran Program, of whom the participants are population genetically diverse. This provides the opportunity to better understand the population genetics of individuals from those biobanks, to infer and quantify admixture to improve genetic mapping effort, and to understand complex disease architecture better. In addition, inferring community-level information about sub-population structure can be very important to identifying pathogenic variation that is at elevated frequency in those groups.</p>
+  </li>
+</ol>
 
 <div class="button-wrapper">
     <a class="button" href="/2024/01/11/Projects-Pop-Gen" data-style="" aria-label="button">
