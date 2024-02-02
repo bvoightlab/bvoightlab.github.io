@@ -1,4 +1,477 @@
+## 2023
+- id: doi:10.1101/2023.07.20.23292938
+#  image: 
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/37546828/
+      text: PubMed
+#    - type: pdf
+#      link: XXX
+#      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - T2D
+#    - T1D
+    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1371/journal.pgen.1010807
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010807.g001
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/37418489/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010807&type=printable
+      text: PDF
+    - type: source
+      link: https://github.com/bvoightlab/Baymer/
+      text: GitHub
+  tags:
+    - Selected Work
+#    - Preprint
+#    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+    - Pop Gen
+#    - Selection
+    - Mutation Rate
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+#    - Collaborative
+#    - T2D-GGI
+#    - MVP
+    - Statistics
+#    - AI/ML
+#    - Automation
+    - Methods Development
+    - Software
+
+- id: doi:10.1101/2023.05.23.541901
+#  image:
+  buttons:
+#    - type: pubmed
+#      link: https://pubmed.ncbi.nlm.nih.gov/XXXXXXXX/
+#      text: PubMed
+    - type: pdf
+      link: https://www.biorxiv.org/content/10.1101/2023.05.23.541901v1.full.pdf
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+    - T2D
+    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1101/2023.05.03.23289457
+#  image:
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/37205500/
+      text: PubMed
+    - type: pdf
+      link: https://www.medrxiv.org/content/10.1101/2023.05.03.23289457v1.full.pdf
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+    - T2D
+#    - T1D
+    - CAD/CVD
+#    - MASLD
+    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1101/2023.05.05.23289560
+#  image:
+  buttons:
+#    - type: pubmed
+#      link: https://pubmed.ncbi.nlm.nih.gov/XXXXXXXX/
+#      text: PubMed
+    - type: pdf
+      link: https://www.medrxiv.org/content/10.1101/2023.05.05.23289560v1.full.pdf
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+    - Complex Traits
+    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - T2D
+#    - T1D
+    - CAD/CVD
+#    - MASLD
+    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+
 ## 2022
+- id: doi:10.1111/2041-210X.13991
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/7b9052fd-398e-4c9c-a170-3f5b4e40e7dc/mee313991-fig-0001-m.jpg
+  buttons:
+#    - type: pubmed
+#     link: https://pubmed.ncbi.nlm.nih.gov/XXXXXXXX/
+#     text: PubMed
+    - type: pdf
+      link: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13991
+      text: PDF
+    - type: source
+      link: https://github.com/kelsj/EVICORD/
+      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+    - Selected Work
+#    - Preprint
+#    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+    - Pop Gen
+#    - Selection
+    - Mutation Rate
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+#    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+    - Software
+
+- id: doi:10.1101/2022.10.14.512160
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010807.g001
+  buttons:
+#    - type: pubmed
+#      link: https://pubmed.ncbi.nlm.nih.gov/XXXXXXXX/
+#      text: PubMed
+    - type: pdf
+      link: https://www.biorxiv.org/content/10.1101/2022.10.14.512160v2.full.pdf
+      text: PDF
+    - type: source
+      link: https://github.com/bvoightlab/Baymer/
+      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+#    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+    - Pop Gen
+#    - Selection
+    - Mutation Rate
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+#    - Collaborative
+#    - T2D-GGI
+#    - MVP
+    - Statistics
+#    - AI/ML
+#    - Automation
+    - Methods Development
+    - Software
+
+- id: doi:10.1371/journal.pone.0268660
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0268660.g001
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35666730/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0268660&type=printable
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+    - Selected Work
+#    - Preprint
+#    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+    - Spiders
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+#    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1111/jth.15698
+#  image:
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35285134/
+      text: PubMed
+    - type: pdf
+      link: https://www.sciencedirect.com/science/article/pii/S1538783622001933/pdfft?md5=2f3dc4a8664504c3942d7aeb2aa26140&pid=1-s2.0-S1538783622001933-main.pdf
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+#    - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - Spiders
+#    - T2D
+#    - T1D
+    - CAD/CVD
+#    - MASLD
+    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1007/s00125-022-05653-1
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05653-1/MediaObjects/125_2022_5653_Figa_HTML.png?as=webp
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35129650/
+      text: PubMed
+    - type: pdf
+      link: https://link.springer.com/content/pdf/10.1007/s00125-022-05653-1.pdf
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+#    - Preprint
+    - Complex Traits
+    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - Spiders
+    - T2D
+#    - T1D
+    - CAD/CVD
+#    - MASLD
+    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+#    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+- id: doi:10.1101/2022.06.28.497617
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-022-04977-4/MediaObjects/12859_2022_4977_Fig1_HTML.png?as=webp
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/36229773/
+      text: PubMed
+    - type: pdf
+      link: https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04977-4.pdf
+      text: PDF
+    - type: source
+      link: https://github.com/zhd007/mediation-hidden_risk_factor
+      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+    - Selected Work
+#   - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+#    - Collaborative
+#    - T2D-GGI
+#    - MVP
+    - Statistics
+#    - AI/ML
+#    - Automation
+    - Methods Development
+    - Software
+
+- id: doi:10.1371/journal.pgen.1010113
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010113.g002
+  buttons:
+    - type: pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/35482673/
+      text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010113&type=printable
+      text: PDF
+#    - type: source
+#      link: XXX
+#      text: GitHub
+#    - type: news
+#      link: XXX
+#      text: NYT
+  tags:
+#    - Selected Work
+    - Preprint
+    - Complex Traits
+#    - Mendelian Randomization
+#    - QTL Mapping
+#    - Pop Gen
+#    - Selection
+#    - Mutation Rate
+#    - Spiders
+#    - T2D
+#    - T1D
+#    - CAD/CVD
+#    - MASLD
+#    - Pleiotropy
+#    - Consortia
+    - Collaborative
+#    - T2D-GGI
+    - MVP
+#    - Statistics
+#    - AI/ML
+#    - Automation
+#    - Methods Development
+#    - Software
+
+####### start here! ############
+
 - id: doi:10.1038/s41588-022-01078-z
   type: paper
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
@@ -50,7 +523,7 @@
       text: NYT
   tags:
     - Complex Traits
-    - Type 2 Diabetes
+    - T2D
     - Selected Work
     
 - id: doi:10.1038/ng2121

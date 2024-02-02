@@ -24,8 +24,17 @@
   date: '2023-07-25'
   link: https://doi.org/gsq2r4
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/37546828/
+    text: PubMed
+  tags:
+  - Preprint
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1010807
   title: Regularized sequence-context mutational trees capture variation in mutation
     rates across the human genome
@@ -40,8 +49,26 @@
   date: '2023-07-07'
   link: https://doi.org/gtcmwt
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010807.g001
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/37418489/
+    text: PubMed
+  - type: pdf
+    link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010807&type=printable
+    text: PDF
+  - type: source
+    link: https://github.com/bvoightlab/Baymer/
+    text: GitHub
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Mutation Rate
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1101/2023.05.23.541901
   title: "G6PC2 controls glucagon secretion by defining the setpoint for glucose in\
     \ pancreatic \u03B1-cells"
@@ -63,8 +90,19 @@
   date: '2023-05-24'
   link: https://doi.org/gtcmwv
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://www.biorxiv.org/content/10.1101/2023.05.23.541901v1.full.pdf
+    text: PDF
+  tags:
+  - Preprint
+  - Complex Traits
+  - T2D
+  - T1D
+  - Consortia
+  - Collaborative
 - id: doi:10.1101/2023.05.05.23289560
   title: Evaluation of plasma biomarkers for causal association with peripheral artery
     disease
@@ -79,8 +117,19 @@
   date: '2023-05-05'
   link: https://doi.org/gtcmww
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    link: https://www.medrxiv.org/content/10.1101/2023.05.05.23289560v1.full.pdf
+    text: PDF
+  tags:
+  - Preprint
+  - Complex Traits
+  - Mendelian Randomization
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1101/2023.05.03.23289457
   title: Evaluation of the Performance of the RECODe Equation with the Addition of
     Polygenic Risk Scores for Adverse Cardiovascular Outcomes in Individuals with
@@ -97,8 +146,22 @@
   date: '2023-05-05'
   link: https://doi.org/gtcmwx
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/37205500/
+    text: PubMed
+  - type: pdf
+    link: https://www.medrxiv.org/content/10.1101/2023.05.03.23289457v1.full.pdf
+    text: PDF
+  tags:
+  - Preprint
+  - Complex Traits
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1111/2041-210X.13991
   title: "Identifying rare variants inconsistent with identity\u2010by\u2010descent\
     \ in population\u2010scale whole\u2010genome sequencing data"
@@ -110,8 +173,21 @@
   date: '2022-10-11'
   link: https://doi.org/gtcmwz
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/7b9052fd-398e-4c9c-a170-3f5b4e40e7dc/mee313991-fig-0001-m.jpg
+  buttons:
+  - type: pdf
+    link: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13991
+    text: PDF
+  - type: source
+    link: https://github.com/kelsj/EVICORD/
+    text: GitHub
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Mutation Rate
+  - Software
 - id: doi:10.1101/2022.10.14.512160
   title: Regularized sequence-context mutational trees capture variation in mutation
     rates across the human genome
@@ -126,8 +202,23 @@
   date: '2022-10-17'
   link: https://doi.org/gs2cbn
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010807.g001
+  buttons:
+  - type: pdf
+    link: https://www.biorxiv.org/content/10.1101/2022.10.14.512160v2.full.pdf
+    text: PDF
+  - type: source
+    link: https://github.com/bvoightlab/Baymer/
+    text: GitHub
+  tags:
+  - Preprint
+  - Pop Gen
+  - Mutation Rate
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1101/2022.06.28.497617
   title: 'Estimating the effect size of a hidden causal factor between SNPs and a
     continuous trait: a mediation model approach'
@@ -140,8 +231,25 @@
   date: '2022-06-29'
   link: https://doi.org/gtcmw2
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-022-04977-4/MediaObjects/12859_2022_4977_Fig1_HTML.png?as=webp
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/36229773/
+    text: PubMed
+  - type: pdf
+    link: https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04977-4.pdf
+    text: PDF
+  - type: source
+    link: https://github.com/zhd007/mediation-hidden_risk_factor
+    text: GitHub
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1371/journal.pone.0268660
   title: "Characterization of the genome and silk-gland transcriptomes of Darwin\u2019\
     s bark spider (Caerostris darwini)"
@@ -159,8 +267,19 @@
   date: '2022-06-06'
   link: https://doi.org/gtcmw3
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0268660.g001
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/35666730/
+    text: PubMed
+  - type: pdf
+    link: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0268660&type=printable
+    text: PDF
+  tags:
+  - Selected Work
+  - Spiders
 - id: doi:10.1111/jth.15698
   title: "Multi\u2010phenotype analyses of hemostatic traits with cardiovascular events\
     \ reveal novel genetic associations"
@@ -556,8 +675,20 @@
   date: '2022-06-01'
   link: https://doi.org/gpzmrq
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/35285134/
+    text: PubMed
+  - type: pdf
+    link: https://www.sciencedirect.com/science/article/pii/S1538783622001933/pdfft?md5=2f3dc4a8664504c3942d7aeb2aa26140&pid=1-s2.0-S1538783622001933-main.pdf
+    text: PDF
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1007/s00125-022-05653-1
   title: Separating the direct effects of traits on atherosclerotic cardiovascular
     disease from those mediated by type 2 diabetes
@@ -576,8 +707,23 @@
   date: '2022-02-07'
   link: https://doi.org/gr2cf9
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05653-1/MediaObjects/125_2022_5653_Figa_HTML.png?as=webp
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/35129650/
+    text: PubMed
+  - type: pdf
+    link: https://link.springer.com/content/pdf/10.1007/s00125-022-05653-1.pdf
+    text: PDF
+  tags:
+  - Complex Traits
+  - Mendelian Randomization
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1010113
   title: A Phenome-Wide Association Study of genes associated with COVID-19 severity
     reveals shared genetics with complex diseases in the Million Veteran Program
@@ -622,8 +768,21 @@
   date: '2022-04-28'
   link: https://doi.org/gtcmw4
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010113.g002
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/35482673/
+    text: PubMed
+  - type: pdf
+    link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010113&type=printable
+    text: PDF
+  tags:
+  - Preprint
+  - Complex Traits
+  - Collaborative
+  - MVP
 - id: doi:10.1371/journal.pgen.1010193
   title: A multi-population phenome-wide association study of genetically-predicted
     height in the Million Veteran Program
@@ -15898,7 +16057,7 @@
     text: NYT
   tags:
   - Complex Traits
-  - Type 2 Diabetes
+  - T2D
   - Selected Work
 - id: doi:10.1371/journal.pbio.0040072
   title: A Map of Recent Positive Selection in the Human Genome
