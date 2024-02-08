@@ -1,0 +1,219 @@
+1,doi:10.1101/2023.07.20.23292938,  title: Deciphering the genetic architecture of atrial fibrillation offers insights    into disease prediction, pathophysiology and downstream sequelae,2023,37546828,Preprint,Complex Traits,CAD/CVD,Collaborative
+2,doi:10.1371/journal.pgen.1010807,  title: Regularized sequence-context mutational trees capture variation in mutation    rates across the human genome,2023,37418489,Selected Work,Pop Gen,Mutation Rate,Statistics,Methods Development,Software
+3,doi:10.1101/2023.05.23.541901,  title: "G6PC2 controls glucagon secretion by defining the setpoint for glucose in\    \ pancreatic \u03B1-cells",2023,NA,Preprint,Complex Traits,T2D,T1D,Consortia,Collaborative
+4,doi:10.1101/2023.05.05.23289560,  title: Evaluation of plasma biomarkers for causal association with peripheral artery    disease,2023,NA,Preprint,Complex Traits,Mendelian Randomization,CAD/CVD,Pleiotropy,Collaborative
+5,doi:10.1101/2023.05.03.23289457,  title: Evaluation of the Performance of the RECODe Equation with the Addition of    Polygenic Risk Scores for Adverse Cardiovascular Outcomes in Individuals with    Type II Diabetes,2023,37205500,Preprint,Complex Traits,T2D,CAD/CVD,Pleiotropy,Collaborative
+6,doi:10.1111/2041-210X.13991,  title: "Identifying rare variants inconsistent with identity\u2010by\u2010descent\    \ in population\u2010scale whole\u2010genome sequencing data",2022,NA,Selected Work,Pop Gen,Mutation Rate,Software
+7,doi:10.1101/2022.10.14.512160,  title: Regularized sequence-context mutational trees capture variation in mutation    rates across the human genome,2022,NA,Preprint,Pop Gen,Mutation Rate,Statistics,Methods Development,Software
+8,doi:10.1101/2022.06.28.497617,  title: 'Estimating the effect size of a hidden causal factor between SNPs and a    continuous trait: a mediation model approach',2022,36229773,Selected Work,Complex Traits,Statistics,Methods Development,Software
+9,doi:10.1371/journal.pone.0268660,  title: "Characterization of the genome and silk-gland transcriptomes of Darwin\u2019\    s bark spider (Caerostris darwini)",2022,35666730,Selected Work,Spiders
+10,doi:10.1111/jth.15698,  title: "Multi\u2010phenotype analyses of hemostatic traits with cardiovascular events\    \ reveal novel genetic associations",2022,35285134,Complex Traits,CAD/CVD,Pleiotropy,Collaborative
+11,doi:10.1007/s00125-022-05653-1,  title: Separating the direct effects of traits on atherosclerotic cardiovascular    disease from those mediated by type 2 diabetes,2022,35129650,Complex Traits,Mendelian Randomization,T2D,CAD/CVD,Pleiotropy,Collaborative
+12,doi:10.1371/journal.pgen.1010113,  title: A Phenome-Wide Association Study of genes associated with COVID-19 severity    reveals shared genetics with complex diseases in the Million Veteran Program,2022,35482673,Preprint,Complex Traits,Collaborative,MVP
+13,doi:10.1371/journal.pgen.1010193,  title: A multi-population phenome-wide association study of genetically-predicted    height in the Million Veteran Program,2022,NA,.
+14,doi:10.1038/s41588-022-01078-z,  title: A multiancestry genome-wide association study of unexplained chronic ALT    elevation as a proxy for nonalcoholic fatty liver disease with histological and    radiological validation,2022,35654975,Complex Traits,Selected Work
+15,doi:10.1038/s41588-022-01097-w,  title: Epigenomic and transcriptomic analyses define core cell types, genes and    targetable mechanisms for kidney disease,2022,NA,.
+16,doi:10.1038/s41591-022-01891-3,  title: Large-scale genome-wide association study of coronary artery disease in genetically    diverse populations,2022,NA,.
+17,doi:10.3389/fgene.2021.787545,  title: Multi-Trait Genome-Wide Association Study of Atherosclerosis Detects Novel    Pleiotropic Loci,2022,NA,.
+18,doi:10.3233/JAD-220025,  title: "Polygenic Risk Scores in Alzheimer\u2019s Disease Genetics: Methodology,\    \ Applications, Inclusion, and Diversity",2022,NA,.
+19,doi:10.1186/s12864-022-08654-x,  title: 'TSABL: Trait Specific Annotation Based Locus predictor',2022,NA,.
+20,doi:10.1101/2021.12.16.21267869,  title: Mendelian randomization analyses clarify the effects of height on cardiovascular    diseases,2021,NA,.
+21,doi:10.1186/s13195-021-00773-z,  title: "Multi-trait association studies discover pleiotropic loci between Alzheimer\u2019\    s disease and cardiometabolic traits",2021,NA,.
+22,doi:10.1101/2021.11.05.21265991,  title: 'ColocQuiaL: A QTL-GWAS colocalization pipeline',2021,NA,.
+23,doi:10.1101/2021.11.05.467482,  title: Obesity and adiposity have opposing genetic impacts on human blood traits,2021,NA,.
+24,doi:10.1101/2021.09.27.21264198,  title: 'TSABL: Trait Specific Annotation Based Locus Predictor',2021,NA,.
+25,doi:10.1038/s41467-021-25377-x,  title: A single genetic locus controls both expression of DPEP1/CHMP1A and kidney    disease development via ferroptosis,2021,NA,.
+26,doi:10.1101/2021.08.05.21261658,  title: Separating the direct effects of risk factors for atherosclerotic cardiovascular    disease from those mediated by type 2 diabetes,2021,NA,.
+27,doi:10.1161/JAHA.120.020331,  title: "Genetic Evidence for Repurposing of GLP1R (Glucagon\u2010Like Peptide\u2010\    1 Receptor) Agonists to Prevent Heart Failure",2021,NA,.
+28,doi:10.1161/CIRCRESAHA.121.319589,  title: A Missense Variant in the IL-6 Receptor and Protection From Peripheral Artery    Disease,2021,NA,.
+29,doi:10.1101/2021.05.18.21257396,  title: A Phenome-Wide Association Study of genes associated with COVID-19 severity    reveals shared genetics with complex diseases in the Million Veteran Program,2021,NA,.
+30,doi:10.1101/2020.12.26.20248491,  title: A trans-ancestry genome-wide association study of unexplained chronic ALT    elevation as a proxy for nonalcoholic fatty liver disease with histological and    radiological validation,2021,NA,.
+31,doi:10.1038/s41588-021-00879-y,  title: A unified framework identifies new links between plasma lipids and diseases    from electronic medical records across large-scale cohorts,2021,NA,.
+32,doi:10.1161/ATVBAHA.120.315482,  title: Association Between Genetic Variation in Blood Pressure and Increased Lifetime    Risk of Peripheral Artery Disease,2021,NA,.
+33,doi:10.1038/s41467-021-27001-4,  title: Cis-regulatory architecture of human ESC-derived hypothalamic neuron differentiation    aids in variant-to-gene mapping of relevant complex traits,2021,NA,.
+34,doi:10.1093/IJE/DYAA050,  title: Cross-trait analyses with migraine reveal widespread pleiotropy and suggest    a vascular component to migraine headache,2020,NA,.
+35,doi:10.1101/2021.08.29.21262793,  title: Evaluation of height as a disease risk factor through a phenome-wide association    study of genetically-predicted height,2021,NA,.
+36,doi:10.1101/2021.05.21.21257493,  title: Multi-trait GWAS of atherosclerosis detects novel pleiotropic loci,2021,NA,.
+37,doi:10.1038/s41467-021-22338-2,  title: Genetic analysis in European ancestry individuals identifies 517 loci associated    with liver enzymes,2021,NA,.
+38,doi:10.1001/jamanetworkopen.2020.34461,  title: Genetics of Smoking and Risk of Atherosclerotic Cardiovascular Diseases,2021,NA,.
+39,doi:10.1186/s13059-020-02207-9,  title: Genome-wide association study implicates novel loci and reveals candidate    effector genes for longitudinal pediatric bone accrual,2021,NA,.
+40,doi:10.1093/G3JOURNAL/JKAA039,  title: Golden orb-weaving spider (<i>Trichonephila clavipes</i>) silk genes with    sex-biased expression and atypical architectures,2020,NA,.
+41,doi:10.1038/s41588-021-00909-9,  title: Mapping the genetic architecture of human traits to cell types in the kidney    identifies mechanisms of disease and potential treatments,2021,NA,.
+42,doi:10.1101/2021.08.03.21261508,  title: Multi-ancestry Multivariate Genome-Wide Analysis Highlights the Role of Common    Genetic Variation in Cardiac Structure, Function, and Heart Failure-related Traits,2021,NA,.
+43,doi:10.1161/CIRCULATIONAHA.121.053797,  title: Prioritizing the Role of Major Lipoproteins and Subfractions as Risk Factors    for Peripheral Artery Disease,2021,NA,.
+44,doi:10.1101/2021.01.11.21249148,  title: Prioritizing the Role of Major Lipoproteins and Subfractions as Risk Factors    for Peripheral Artery Disease,2021,NA,.
+45,doi:10.1101/2021.07.05.450786,  title: Projecting genetic associations through gene expression patterns highlights    disease etiology and drug mechanisms,2021,NA,.
+46,doi:10.1161/CIRCGEN.119.002769,  title: Genetic Predisposition to Coronary Artery Disease in Type 2 Diabetes Mellitus,2020,NA,.
+47,doi:10.1186/s12920-020-00742-9,  title: Genetic colocalization atlas points to common regulatory sites and genes    for hematopoietic traits and hematopoietic contributions to disease phenotypes,2020,NA,.
+48,doi:10.1371/journal.pmed.1003302,  title: 'The relationship between circulating lipids and breast cancer risk: A Mendelian    randomization study',2020,NA,.
+49,doi:10.1101/2020.08.26.20179366,  title: "Multi-trait association studies discover pleiotropic loci between Alzheimer\u2019\    s disease and cardiometabolic traits",2020,NA,.
+50,doi:10.1101/2020.05.26.117358,  title: Identifying non-identical-by-descent rare variants in population-scale whole    genome sequencing data,2020,NA,.
+51,doi:10.1101/2020.01.30.20019737,  title: Genetically determined body mass index mediates the effect of smoking on    type 2 diabetes risk, but not coronary artery disease risk,2020,NA,.
+52,doi:10.1371/journal.pgen.1008629,  title: A missense variant in Mitochondrial Amidoxime Reducing Component 1 gene and    protection against liver disease,2020,NA,.
+53,doi:10.1093/gbe/evaa013,  title: 'BetaScan2: Standardized Statistics to Detect Balancing Selection Utilizing    Substitution Data',2020,NA,.
+54,doi:10.1101/2020.07.06.146951,  title: Cis-regulatory architecture of human ESC-derived hypothalamic neuron differentiation    aids in variant-to-gene mapping of relevant complex traits,2020,NA,.
+55,doi:10.1038/s41588-020-0637-y,  title: Discovery of 318 new risk loci for type 2 diabetes and related vascular outcomes    among 1.4 million participants in a multi-ancestry meta-analysis,2020,NA,.
+56,doi:10.1093/hmg/ddaa193,  title: Genetic determinants of increased body mass index mediate the effect of smoking    on increased risk for type 2 diabetes but not coronary artery disease,2020,NA,.
+57,doi:10.2337/dc19-0986,  title: Genetic Discrimination Between LADA and Childhood-Onset Type 1 Diabetes Within    the MHC,2019,NA,.
+58,doi:10.1101/2020.08.23.20180240,  title: 'Genetic Variation in Blood Pressure and Lifetime Risk of Peripheral Artery    Disease: A Mendelian Randomization Study',2020,NA,.
+59,doi:10.1161/CIRCGEN.119.002553,  title: Genetically Determined Birthweight Associates With Atrial Fibrillation,2020,NA,.
+60,doi:10.1371/journal.pmed.1003288,  title: 'Genetics of height and risk of atrial fibrillation: A Mendelian randomization    study',2020,NA,.
+61,doi:10.1101/2020.04.07.20053447,  title: 'Genetics of Smoking and Risk of Atherosclerotic Cardiovascular Diseases:    A Mendelian Randomization Study',2020,NA,.
+62,doi:10.1101/2020.02.17.20024133,  title: Genome-wide association study implicates novel loci and reveals candidate    effector genes for longitudinal pediatric bone accrual through variant-to-gene    mapping,2020,NA,.
+63,doi:10.1101/2020.11.09.375592,  title: Mapping the genetic architecture of human traits to cell types in the kidney    identifies mechanisms of disease and potential treatments,2020,NA,.
+64,doi:10.1186/s12915-020-00783-7,  title: Tropomyosin 1 genetically constrains in vitro hematopoiesis,2020,NA,.
+65,doi:10.1007/s00125-020-05229-x,  title: 'Type 1 diabetes in Africa: an immunogenetic study in the Amhara of North-West    Ethiopia',2020,NA,.
+66,doi:10.1371/journal.pone.0237430,  title: Validating a non-invasive, ALT-based non-alcoholic fatty liver phenotype    in the million veteran program,2020,NA,.
+67,doi:10.1101/2019.12.23.19015743,  title: 'Genetics of Height and Risk of Atrial Fibrillation: A Mendelian Randomization    Study',2019,NA,.
+68,doi:10.1186/s13059-018-1617-8,  title: Keen on the tenure track job, are you? Know these things, you should,2019,NA,.
+69,doi:10.1101/794594,  title: 'Assessing a causal relationship between circulating lipids and breast cancer    risk: Mendelian randomization study',2019,NA,.
+70,doi:10.1101/787333,  title: Genetic colocalization atlas points to common regulatory sites and genes    for hematopoietic traits and hematopoietic contributions to disease phenotypes,2019,NA,.
+71,doi:10.1101/19012690,  title: Discovery of 318 novel loci for type-2 diabetes and related micro- and macrovascular    outcomes among 1.4 million participants in a multi-ethnic meta-analysis,2019,NA,.
+72,doi:10.1101/659326,  title: Evaluating the contribution of cell-type specific alternative splicing to    variation in lipid levels,2019,NA,.
+73,doi:10.1073/pnas.1913199116,  title: "Natural human genetic variation determines basal and inducible expression\    \ of\n            <i>PM20D1</i>\n            , an obesity-associated gene",2019,NA,.
+74,doi:10.1016/j.bone.2019.01.026,  title: Postmenopausal osteoporotic fracture-associated COLIA1 variant impacts bone    accretion in girls,2019,NA,.
+75,doi:10.1001/jamanetworkopen.2019.5345,  title: Projected Prevalence of Actionable Pharmacogenetic Variants and Level A Drugs    Prescribed Among US Veterans Health Administration Pharmacy Users,2019,NA,.
+76,doi:10.1093/molbev/msz023,  title: Signals of Variation in Human Mutation Rate at Multiple Levels of Sequence    Context,2019,NA,.
+77,doi:10.1101/631895,  title: <i>Tropomyosin 1</i> genetically constrains <i>in vitro</i> hematopoiesis,2019,NA,.
+78,doi:10.1101/497255,  title: 'BetaScan2: Standardized statistics to detect balancing selection utilizing    substitution data:',2018,NA,.
+79,doi:10.1186/s13059-018-1460-y,  title: Dissecting an adiposity locus with an arsenal of genomics,2018,NA,.
+80,doi:10.1101/385096,  title: Signals of variation in human mutation rate at multiple levels of sequence    context,2018,NA,.
+81,doi:10.1038/s41559-018-0478-6,  title: Patterns of shared signatures of recent positive selection across human populations,2018,NA,.
+82,doi:10.1101/319848,  title: Bivariate GWAS scan identifies six novel loci associated with lipid levels    and coronary artery disease,2018,NA,.
+83,doi:10.1161/CIRCGEN.118.002239,  title: Bivariate Genome-Wide Association Scan Identifies 6 Novel Loci Associated    With Lipid Levels and Coronary Artery Disease,2018,NA,.
+84,doi:10.1038/sdata.2018.2,  title: 'Erratum: Sequence data and association statistics from 12,940 type 2 diabetes    cases and controls',2018,NA,.
+85,doi:10.2337/dc18-1032,  title: First Genome-Wide Association Study of Latent Autoimmune Diabetes in Adults    Reveals Novel Insights Linking Immune and Metabolic Diabetes,2018,NA,.
+86,doi:10.1002/jbmr.3320,  title: Genetically Determined Later Puberty Impacts Lowered Bone Mineral Density    in Childhood and Adulthood,2017,NA,.
+87,doi:10.1371/journal.pgen.1007329,  title: Insights into the genetic epidemiology of Crohn's and rare diseases in the    Ashkenazi Jewish population,2018,NA,.
+88,doi:10.1161/CIRCGEN.117.002070,  title: Multiplexed Targeted Resequencing Identifies Coding and Regulatory Variation    Underlying Phenotypic Extremes of High-Density Lipoprotein Cholesterol in Humans,2018,NA,.
+89,doi:10.1007/s00439-018-1938-4,  title: Rare loss of function variants in candidate genes and risk of colorectal    cancer,2018,NA,.
+90,doi:10.1101/109371,  title: Patterns of shared signatures of recent positive selection across human populations,2017,NA,.
+91,doi:10.2337/db16-1253,  title: An Expanded Genome-Wide Association Study of Type 2 Diabetes in Europeans,2017,NA,.
+92,doi:10.1161/JAHA.116.004918,  title: Causal Effect of Plasminogen Activator Inhibitor Type 1 on Coronary Heart    Disease,2017,NA,.
+93,doi:10.1038/sdata.2017.179,  title: Sequence data and association statistics from 12,940 type 2 diabetes cases    and controls,2017,NA,.
+94,doi:10.1186/s12864-017-3522-z,  title: De novo mutational profile in RB1 clarified using a mutation rate modeling    algorithm,2017,NA,.
+95,doi:10.1101/112870,  title: Detecting Long-term Balancing Selection using Allele Frequency Correlation,2017,NA,.
+96,doi:10.1093/molbev/msx209,  title: Detecting Long-Term Balancing Selection Using Allele Frequency Correlation,2017,NA,.
+97,doi:10.1186/s13040-017-0137-5,  title: 'Gene Set Enrichment Analyses: lessons learned from the heart failure phenotype',2017,NA,.
+98,doi:10.1371/journal.pone.0182999,  title: Genomic correlates of glatiramer acetate adverse cardiovascular effects lead    to a novel locus mediating coronary risk,2017,NA,.
+99,doi:10.1038/ng.3943,  title: Identification of new susceptibility loci for type 2 diabetes and shared    etiological pathways with coronary heart disease,2017,NA,.
+100,doi:10.1016/j.ajhg.2017.02.004,  title: Large-Scale trans -eQTLs Affect Hundreds of Transcripts and Mediate Patterns    of Transcriptional Co-regulation,2017,NA,.
+101,doi:10.1101/235887,  title: Multiplexed targeted resequencing identifies coding and regulatory variation    underlying phenotypic extremes of HDL-cholesterol in humans,2017,NA,.
+102,doi:10.1186/s12916-017-0846-0,  title: Relative contribution of type 1 and type 2 diabetes loci to the genetic etiology    of adult-onset, non-insulin-requiring autoimmune diabetes,2017,NA,.
+103,doi:10.1093/hmg/ddw416,  title: 'Serum calcium and risk of migraine: a Mendelian randomization study',2016,NA,.
+104,doi:10.2337/db16-0868,  title: 'Systolic Blood Pressure and Risk of Type 2 Diabetes: A Mendelian Randomization    Study',2016,NA,.
+105,doi:10.1038/ng.3852,  title: The Nephila clavipes genome highlights the diversity of spider silk genes    and their complex expression,2017,NA,.
+106,doi:10.1101/056283,  title: 'Large-scale <i>trans</i>-eQTLs affect hundreds of transcripts and mediate    patterns of transcriptional co-regulation Short: <i>trans</i>-eQTLs reveal patterns    of transcriptional co-regulation',2016,NA,.
+107,doi:10.1038/ng.3511,  title: An expanded sequence context model broadly explains variability in polymorphism    levels across the human genome,2016,NA,.
+108,doi:10.1016/j.bone.2016.09.005,  title: Assessing the general population frequency of rare coding variants in the    EXT1 and EXT2 genes previously implicated in hereditary multiple exostoses,2016,NA,.
+109,doi:10.1016/j.jacc.2015.10.086,  title: "Causal Assessment of Serum Urate Levels in\_Cardiometabolic Diseases Through\    \ a Mendelian Randomization Study",2016,NA,.
+110,doi:10.1007/978-3-319-01574-3_24,  title: Causal Inference in Medicine via Mendelian Randomization,2016,NA,.
+111,doi:10.1001/jamacardio.2016.2298,  title: Disentangling the Causal Association of Plasma Lipid Traits and Type 2 Diabetes    Using Human Genetics,2016,NA,.
+112,doi:10.1038/ncomms10023,  title: Genetic associations at 53 loci highlight cell types and biological pathways    relevant for kidney function,2016,NA,.
+113,doi:10.1016/S1474-4422(15)00400-7,  title: Human genetics shines a light on ischaemic stroke,2016,NA,.
+114,doi:10.1093/hmg/ddw160,  title: Pathway and network-based strategies to translate genetic discoveries into    effective therapies,2016,NA,.
+115,doi:10.1038/nature18642,  title: The genetic architecture of type 2 diabetes,2016,NA,.
+116,doi:10.1038/ng.3667,  title: The genetics of blood pressure regulation and its target organs from association    studies in 342,415 individuals,2016,NA,.
+117,doi:10.2337/dbi16-0054,  title: "Type 2 Diabetes Genes Gleaned by Making a \u03B2-Cell Screen Routine",2016,NA,.
+118,doi:10.1371/journal.pgen.1005035,  title: A Meta-analysis of Gene Expression Signatures of Blood Pressure and Hypertension,2015,NA,.
+119,doi:10.1016/j.cell.2015.06.025,  title: "Genetic Variation Determines PPAR\u03B3 Function and Anti-diabetic Drug\    \ Response In\_Vivo",2015,NA,.
+120,doi:10.1038/ng.3437,  title: Genetic fine mapping and genomic annotation defines causal mechanisms at    type 2 diabetes susceptibility loci,2015,NA,.
+121,doi:10.1038/nature14177,  title: Genetic studies of body mass index yield new insights for obesity biology,2015,NA,.
+122,doi:10.1016/j.atherosclerosis.2015.05.033,  title: Genetic variants primarily associated with type 2 diabetes are related to    coronary artery disease risk,2015,NA,.
+123,doi:10.1093/bioinformatics/btu742,  title: 'MeRP: a high-throughput pipeline for Mendelian randomization analysis',2014,NA,.
+124,doi:10.1038/nature14132,  title: New genetic loci link adipose and insulin biology to body fat distribution,2015,NA,.
+125,doi:10.1371/journal.pgen.1004235,  title: A Central Role for GRB10 in Regulation of Islet Function in Man,2014,NA,.
+126,doi:10.1126/scitranslmed.3008436,  title: A Metabolic Relic,2014,NA,.
+127,doi:10.1016/j.ajhg.2014.06.002,  title: Effects of Long-Term Averaging of Quantitative Blood Pressure Traits on the    Detection of Genetic Associations,2014,NA,.
+128,doi:10.1038/ng.2897,  title: Genome-wide trans-ancestry meta-analysis provides insight into the genetic    architecture of type 2 diabetes susceptibility,2014,NA,.
+129,doi:10.1038/nature13127,  title: Guidelines for investigating causality of sequence variants in human disease,2014,NA,.
+130,doi:10.1038/ng.2915,  title: Loss-of-function mutations in SLC30A8 protect against type 2 diabetes,2014,NA,.
+131,doi:10.1093/bioinformatics/btu564,  title: 'MR_predictor: a simulation engine for Mendelian Randomization studies',2014,NA,.
+132,doi:10.1371/journal.pgen.1004517,  title: Meta-Analysis of Genome-Wide Association Studies in African Americans Provides    Insights into the Genetic Architecture of Type 2 Diabetes,2014,NA,.
+133,doi:10.1016/j.ymgme.2014.04.007,  title: Pleiotropic genes for metabolic syndrome and inflammation,2014,NA,.
+134,doi:10.1126/scitranslmed.3008715,  title: "<i>SORT</i>\n            ing Out That Pesky Cholesterol",2014,NA,.
+135,doi:10.1016/j.ajhg.2014.01.010,  title: Whole-Exome Sequencing Identifies Rare and Low-Frequency Coding Variants    Associated with LDL Cholesterol,2014,NA,.
+136,doi:10.1038/tp.2013.81,  title: A common biological basis of obesity and nicotine addiction,2013,NA,.
+137,doi:10.1126/scitranslmed.3006206,  title: Accessing the Inaccessible Genome,2013,NA,.
+138,doi:10.1371/journal.pmed.1001383,  title: 'Causal Relationship between Obesity and Vitamin D Status: Bi-Directional    Mendelian Randomization Analysis of Multiple Cohorts',2013,NA,.
+139,doi:10.1038/ng.2795,  title: Common variants associated with plasma triglycerides and risk for coronary    artery disease,2013,NA,.
+140,doi:10.1038/ng.2797,  title: Discovery and refinement of loci associated with lipid levels,2013,NA,.
+141,doi:10.1126/scitranslmed.3006452,  title: "Eavesdropping on Communications Between Liver and \u03B2 Cells",2013,NA,.
+142,doi:10.1371/journal.pgen.1003484,  title: 'From Mouse to Human: Evolutionary Genomics Analysis of Human Orthologs of    Essential Genes',2013,NA,.
+143,doi:10.1126/scitranslmed.3007047,  title: "Ironing Out Parkinson\u2019s Disease",2013,NA,.
+144,doi:10.1038/ng.2480,  title: Large-scale association analysis identifies new risk loci for coronary artery    disease,2012,NA,.
+145,doi:10.1126/scitranslmed.3006750,  title: "<i>RA-</i>\n            cing Toward Drugs from a Genetics Starting Line",2013,NA,.
+146,doi:10.1126/scitranslmed.3008007,  title: Right Place, Right Time,2013,NA,.
+147,doi:10.1126/scitranslmed.3007770,  title: Thinking Before We Act,2013,NA,.
+148,doi:10.1038/ng.2274,  title: A genome-wide approach accounting for body mass index identifies genetic    variants influencing fasting glycemic traits and insulin resistance,2012,NA,.
+149,doi:10.1371/journal.pone.0029202,  title: A Genome-Wide Association Search for Type 2 Diabetes Genes in African Americans,2012,NA,.
+150,doi:10.1093/bioinformatics/bts259,  title: "Analysis of case\u2013control association studies with known risk variants",2012,NA,.
+151,doi:10.1038/ng.2232,  title: Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis,2012,NA,.
+152,doi:10.1371/journal.pone.0035651,  title: 'Evaluation of the Metabochip Genotyping Array in African Americans and Implications    for Fine Mapping of GWAS-Identified Loci: The PAGE Study',2012,NA,.
+153,doi:10.1016/j.coi.2012.07.013,  title: Human genetics offers an emerging picture of common pathways and mechanisms    in autoimmunity,2012,NA,.
+154,doi:10.1161/CIRCGENETICS.112.963660,  title: "Identification of the\n            <i>BCAR1-CFDP1-TMEM170A</i>\n       \    \     Locus as a Determinant of Carotid Intima-Media Thickness and Coronary Artery\    \ Disease Risk",2012,NA,.
+155,doi:10.2337/db11-1515,  title: Impact of Common Variation in Bone-Related Genes on Type 2 Diabetes and Related    Traits,2012,NA,.
+156,doi:10.1371/journal.pgen.1003032,  title: Informed Conditioning on Clinical Covariates Increases Power in Case-Control    Association Studies,2012,NA,.
+157,doi:10.1038/ng.2385,  title: Large-scale association analyses identify new loci influencing glycemic traits    and provide insight into the underlying biological pathways,2012,NA,.
+158,doi:10.1038/ng.2383,  title: Large-scale association analysis provides insights into the genetic architecture    and pathophysiology of type 2 diabetes,2012,NA,.
+159,doi:10.1016/j.ajhg.2011.12.022,  title: Large-Scale Gene-Centric Meta-Analysis across 39 Studies Identifies Type    2 Diabetes Loci,2012,NA,.
+160,doi:10.1038/ng.2261,  title: Meta-analysis identifies six new susceptibility loci for atrial fibrillation,2012,NA,.
+161,doi:10.1371/journal.pgen.1002607,  title: 'Novel Loci for Adiponectin Levels and Their Influence on Type 2 Diabetes    and Metabolic Traits: A Multi-Ethnic Meta-Analysis of 45,891 Individuals',2012,NA,.
+162,doi:10.1016/S0140-6736(12)60312-2,  title: 'Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation    study',2012,22607825,Mendelian Randomization,Complex Traits,Methods,Selected Work
+163,doi:10.1016/j.molcel.2011.11.029,  title: Single-Cell Analysis Reveals that Noncoding RNAs Contribute to Clonal Heterogeneity    by Modulating Transcription Factor Recruitment,2012,NA,.
+164,doi:10.1371/journal.pgen.1002741,  title: Stratifying Type 2 Diabetes Cases by BMI Identifies Genetic Risk Variants    in LAMA1 and Enrichment for Risk Variants in Lean Compared to Obese Cases,2012,NA,.
+165,doi:10.1371/journal.pgen.1002793,  title: The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic,    Cardiovascular, and Anthropometric Traits,2012,NA,.
+166,doi:10.1161/CIRCGENETICS.110.958728,  title: "A Genome-Wide Association Study Identifies\n            <i>LIPA</i>\n  \    \          as a Susceptibility Gene for Coronary Artery Disease",2011,NA,.
+167,doi:10.1016/j.ajhg.2011.10.002,  title: Abdominal Aortic Aneurysm Is Associated with a Variant in Low-Density Lipoprotein    Receptor-Related Protein 1,2011,NA,.
+168,doi:10.1161/ATVBAHA.111.226365,  title: An Increased Burden of Common and Rare Lipid-Associated Risk Alleles Contributes    to the Phenotypic Spectrum of Hypertriglyceridemia,2011,NA,.
+169,doi:10.1016/B978-0-12-375142-3.10017-3,  title: Delineating Signals from Association Studies,2011,NA,.
+170,doi:10.1038/nature10405,  title: Genetic variants in novel pathways influence blood pressure and cardiovascular    disease risk,2011,NA,.
+171,doi:10.1371/journal.pgen.1001324,  title: Genome-Wide Association Analysis Identifies Variants Associated with Nonalcoholic    Fatty Liver Disease That Have Distinct Effects on Metabolic Traits,2011,NA,.
+172,doi:10.2337/db11-0415,  title: Genome-Wide Association Identifies Nine Common Variants Associated With Fasting    Proinsulin Levels and Provides New Insights Into the Pathophysiology of Type 2    Diabetes,2011,NA,.
+173,doi:10.1161/CIRCULATIONAHA.110.974899,  title: Genome-Wide Association Study for Coronary Artery Calcification With Follow-Up    in Myocardial Infarction,2011,NA,.
+174,doi:10.1038/ng.970,  title: Genome-wide association study identifies loci influencing concentrations    of liver enzymes in plasma,2011,NA,.
+175,doi:10.1038/ng.922,  title: Genome-wide association study identifies six new loci influencing pulse pressure    and mean arterial pressure,2011,NA,.
+176,doi:10.1016/j.jacc.2010.11.075,  title: Influence of 9p21.3 Genetic Variants on Clinical and Angiographic Outcomes    in Early-Onset Myocardial Infarction,2011,NA,.
+177,doi:10.1038/ng.784,  title: Large-scale association analysis identifies 13 new susceptibility loci for    coronary artery disease,2011,NA,.
+178,doi:10.1371/journal.pgen.1002260,  title: Large-Scale Gene-Centric Analysis Identifies Novel Variants for Coronary    Artery Disease,2011,NA,.
+179,doi:10.1371/journal.pgen.1002254,  title: Pervasive Sharing of Genetic Effects in Autoimmune Disease,2011,NA,.
+180,doi:10.1002/gepi.20572,  title: 'Power in the phenotypic extremes: a simulation study of power in discovery    and replication of rare variants',2011,NA,.
+181,doi:10.1371/journal.pone.0025734,  title: 'RANTES/CCL5 and Risk for Coronary Events: Results from the MONICA/KORA Augsburg    Case-Cohort, Athero-Express and CARDIoGRAM Studies',2011,NA,.
+182,doi:10.1371/journal.pgen.1001322,  title: Testing for an Unusual Distribution of Rare Variants,2011,NA,.
+183,doi:10.1038/ng.686,  title: Association analyses of 249,796 individuals reveal 18 new loci associated    with body mass index,2010,NA,.
+184,doi:10.1038/nature09270,  title: Biological, clinical and population relevance of 95 loci for blood lipids,2010,NA,.
+185,doi:10.2337/db10-0502,  title: Common Variants at 10 Genomic Loci Influence Hemoglobin A1C Levels via Glycemic    and Nonglycemic Pathways,2010,NA,.
+186,doi:10.1161/CIRCGENETICS.109.899443,  title: Design of the Coronary ARtery DIsease Genome-Wide Replication And Meta-Analysis    (CARDIoGRAM) Study,2010,NA,.
+187,doi:10.1038/ng.628,  title: Excess of rare variants in genes identified by genome-wide association study    of hypertriglyceridemia,2010,NA,.
+188,doi:10.1038/ng.521,  title: Genetic variation in GIPR influences the glucose and insulin responses to    an oral glucose challenge,2010,NA,.
+189,doi:10.1038/ng.571,  title: Genome-wide meta-analyses identify multiple loci associated with smoking    behavior,2010,NA,.
+190,doi:10.1038/nature09410,  title: Hundreds of variants clustered in genomic loci and biological pathways affect    human height,2010,NA,.
+191,doi:10.1016/j.jacc.2010.06.022,  title: Lack of Association Between the Trp719Arg Polymorphism in Kinesin-Like Protein-6    and Coronary Artery Disease in 19 Case-Control Studies,2010,NA,.
+192,doi:10.1038/ng.685,  title: Meta-analysis identifies 13 new loci associated with waist-hip ratio and    reveals sexual dimorphism in the genetic basis of fat distribution,2010,NA,.
+193,doi:10.1371/journal.pone.0012600,  title: Multiethnic Genetic Association Studies Improve Power for Locus Discovery,2010,NA,.
+194,doi:10.1038/ng.520,  title: New genetic loci implicated in fasting glucose homeostasis and their impact    on type 2 diabetes risk,2010,NA,.
+195,doi:10.1002/hep.23768,  title: <i>PNPLA3</i>variants specifically confer increased risk for histologic nonalcoholic    fatty liver disease but not metabolic disease,2010,NA,.
+196,doi:10.1038/ng.609,  title: Twelve type 2 diabetes susceptibility loci identified through large-scale    association analysis,2010,NA,.
+197,doi:10.1038/ng.467,  title: A genome-wide meta-analysis identifies 22 loci associated with eight hematological    parameters in the HaemGen consortium,2009,NA,.
+198,doi:10.1093/hmg/ddp292,  title: Common body mass index-associated variants confer risk of extreme obesity,2009,NA,.
+199,doi:10.1038/ng.291,  title: Common variants at 30 loci contribute to polygenic dyslipidemia,2008,NA,.
+200,doi:10.1038/ng.327,  title: Genome-wide association of early-onset myocardial infarction with single    nucleotide polymorphisms and copy number variants,2009,NA,.
+201,doi:10.1038/ng.361,  title: Genome-wide association study identifies eight loci associated with blood    pressure,2009,NA,.
+202,doi:10.2337/db09-0081,  title: Linkage Disequilibrium Mapping of the Replicated Type 2 Diabetes Linkage    Signal on Chromosome 1q,2009,NA,.
+203,doi:10.1038/ng.307,  title: New susceptibility locus for coronary artery disease on chromosome 3q22.3,2009,NA,.
+204,doi:10.1093/hmg/ddp169,  title: 'The T-381C SNP in BNP gene may be modestly associated with type 2 diabetes:    an updated meta-analysis in 49 279 subjects',2009,NA,.
+205,doi:10.1093/aje/kwp145,  title: Underlying Genetic Models of Inheritance in Established Type 2 Diabetes Associations,2009,NA,.
+206,doi:10.1038/ng.290,  title: Variants in MTNR1B influence fasting glucose levels,2008,NA,.
+207,doi:10.2337/db08-0516,  title: Common Missense Variant in the Glucokinase Regulatory Protein Gene Is Associated    With Increased Plasma Triglyceride and C-Reactive Protein but Lower Fasting Glucose    Concentrations,2008,NA,.
+208,doi:10.1038/ng.140,  title: Common variants near MC4R are associated with fat mass, weight and risk of    obesity,2008,NA,.
+209,doi:10.1038/ng.125,  title: Identification of ten loci associated with height highlights new biological    pathways in human growth,2008,NA,.
+210,doi:10.1038/ng.120,  title: Meta-analysis of genome-wide association data and large-scale replication    identifies additional susceptibility loci for type 2 diabetes,2008,NA,.
+211,doi:10.1093/hmg/ddn288,  title: Practical aspects of imputation-driven meta-analysis of genome-wide association    studies,2008,NA,.
+212,doi:10.1038/ng.75,  title: Six new loci associated with blood low-density lipoprotein cholesterol, high-density    lipoprotein cholesterol or triglycerides in humans,2008,NA,.
+213,doi:10.1038/ng2121,  title: A common variant of HMGA2 is associated with adult and childhood height in    the general population,2007,17767157,Complex Traits
+214,doi:10.1038/ng1946,  title: Convergent adaptation of human lactase persistence in Africa and Europe,2007,17159977,Pop Gen,Selected Work
+215,doi:10.1126/science.1142358,  title: Genome-Wide Association Analysis Identifies Loci for Type 2 Diabetes and    Triglyceride Levels,2007,17463246,Complex Traits,T2D,Selected Work
+216,doi:10.1371/journal.pbio.0040072,  title: A Map of Recent Positive Selection in the Human Genome,2006,16494531,Pop Gen,Methods,Selected Work
+217,doi:10.1371/journal.pgen.0020067,  title: Coverage and Characteristics of the Affymetrix GeneChip Human Mapping 100K    SNP Set,2006,16680197,Complex Traits
+218,doi:10.1371/journal.pgen.0010032,  title: Confounding from Cryptic Relatedness in Case-Control Association Studies,2005,16151517,PopGen,Methods,Complex Traits,Selected Work
+219,doi:10.1073/pnas.0507325102,  title: Interrogating multiple aspects of variation in a full resequencing data set    to infer human population size changes,2005,16352722,Pop Gen,Methods
