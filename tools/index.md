@@ -17,7 +17,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-Primarily, we use statistical approaches to develop methodology for the analysis of human genetics data. We are perhaps more active in development of population genetics methods, but that's entirely due to the randrom flux of students who have joined the lab. We have plenty of angles for novel method/algorithm development for quantitative genetic analysis (e.g., PRS, Mendelian randomization, fine-mapping).
+Primarily, we use statistical approaches to develop methodology for the analysis of human genetics data. We are perhaps more active in development of population genetics methods, but that's entirely due to the randrom flux of students who have joined the lab. We have plenty of angles for novel method/algorithm development for quantitative genetic analysis (e.g., PRS, Mendelian randomization, fine-mapping)!
 
 {% include section.html %}
 
