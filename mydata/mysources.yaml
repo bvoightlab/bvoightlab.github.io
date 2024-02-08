@@ -40,10 +40,14 @@
 
 - id: doi:10.1371/journal.pgen.1010807
 # title: Regularized sequence-context mutational trees capture variation in mutation rates across the human genome
+  image: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010807&type=printable
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/37418489
       text: PubMed
+    - type: source
+      link: https://github.com/bvoightlab/Baymer/
+      text: GitHub
   tags:
     - Selected Work
     - Pop Gen
@@ -128,6 +132,9 @@
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35285134
       text: PubMed
+    - type: pdf
+      link: https://www.sciencedirect.com/science/article/pii/S1538783622001933/pdfft?md5=2f3dc4a8664504c3942d7aeb2aa26140&pid=1-s2.0-S1538783622001933-main.pdf
+      text: PDF
   tags:
     - Complex Traits
     - CAD/CVD
@@ -170,10 +177,14 @@
 
 - id: doi:10.1007/s00125-022-05653-1
 # title: Separating the direct effects of traits on atherosclerotic cardiovascular disease from those mediated by type 2 diabetes
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00125-022-05653-1/MediaObjects/125_2022_5653_Figa_HTML.png?as=webp
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35129650
       text: PubMed
+    - type: pdf
+      link: https://link.springer.com/content/pdf/10.1007/s00125-022-05653-1.pdf
+      text: PDF
   tags:
     - Complex Traits
     - Mendelian Randomization
@@ -184,10 +195,17 @@
 
 - id: doi:10.1186/s12859-022-04977-4
 # title: Estimating the effect size of a hidden causal factor between SNPs and a continuous trait: a mediation model approach
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-022-04977-4/MediaObjects/12859_2022_4977_Fig1_HTML.png?as=webp
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/36229773
       text: PubMed
+    - type: pdf
+      link: https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/s12859-022-04977-4.pdf
+      text: PDF
+    - type: source
+      link: https://github.com/zhd007/mediation-hidden_risk_factor
+      text: GitHub
   tags:
     - Selected Work
     - Complex Traits
@@ -211,10 +229,14 @@
 
 - id: doi:10.1371/journal.pgen.1010113
 # title: A Phenome-Wide Association Study of genes associated with COVID-19 severity reveals shared genetics with complex diseases in the Million Veteran Program
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.1010113.g002
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35482673
       text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1010113&type=printable
+      text: PDF
   tags:
     - Complex Traits
     - Collaborative
@@ -222,6 +244,13 @@
 
 - id: doi:10.1111/2041-210X.13991
 # title: Identifying rare variants inconsistent with identity by descent  in population scale whole genome sequencing data
+  buttons:
+    - type: pdf
+      link: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13991
+      text: PDF
+    - type: source
+      link: https://github.com/kelsj/EVICORD/
+      text: GitHub
   tags:
     - Selected Work
     - Pop Gen
@@ -256,6 +285,7 @@
 
 - id: doi:10.1038/s41588-022-01078-z
 # title: A multiancestry genome-wide association study of unexplained chronic ALT elevation as a proxy for nonalcoholic fatty liver disease with histological and radiological validation
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-022-01078-z/MediaObjects/41588_2022_1078_Fig2_HTML.png?as=webp
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35654975
@@ -306,10 +336,14 @@
 
 - id: doi:10.1371/journal.pone.0268660
 # title: Characterization of the genome and silk-gland transcriptomes of Darwinu2019 s bark spider (Caerostris darwini)
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0268660.g001
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/35666730
       text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0268660&type=printable
+      text: PDF
   tags:
     - Selected Work
     - Pop Gen
@@ -1405,10 +1439,17 @@
 
 - id: doi:10.1016/S0140-6736(12)60312-2
 # title: Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation study
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0140673612603122-gr2.jpg
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/22607825
       text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/234gi5qhex9o6mf5gf8fcfiap4kdlze4
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2012/05/17/health/research/hdl-good-cholesterol-found-not-to-cut-heart-risk.html
+      text: News
   tags:
     - Selected Work
     - Complex Traits
@@ -1829,10 +1870,17 @@
 
 - id: doi:10.1126/science.1142358
 # title: Genome-Wide Association Analysis Identifies Loci for Type 2 Diabetes and Triglyceride Levels
+  image: https://www.science.org/cms/10.1126/science.1142358/asset/0309a869-2d76-4898-98de-76015de06963/assets/graphic/316_1331_f2.jpeg
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/17463246
       text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/1ca950yrujkpm9jaij3kyqt5buev0wr7
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2007/04/27/us/27diabetes.html
+      text: News
   tags:
     - Selected Work
     - Complex Traits
@@ -1841,19 +1889,30 @@
 
 - id: doi:10.1038/ng2121
 # title: A common variant of HMGA2 is associated with adult and childhood height in the general population
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/bin/ukmss-35163-f0002.jpg
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/17767157
       text: PubMed
+    - type: pdf
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086278/
+      text: PDF
   tags:
     - Complex Traits
 
 - id: doi:10.1038/ng1946
 # title: Convergent adaptation of human lactase persistence in Africa and Europe
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fng1946/MediaObjects/41588_2007_Article_BFng1946_Fig7_HTML.jpg?as=webp
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/17159977
       text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/9kze6imuoq4xx5cblsxl6t5gfadoqy9j
+      text: PDF
+    - type: news
+      link: https://www.nytimes.com/2006/12/11/science/lactose-tolerance-in-east-africa-points-to-recent-evolution.html
+      text: News
   tags:
     - Selected Work
     - Pop Gen
@@ -1863,10 +1922,20 @@
 
 - id: doi:10.1371/journal.pbio.0040072
 # title: A Map of Recent Positive Selection in the Human Genome
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=medium&id=10.1371/journal.pbio.0040072.g001
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16494531
       text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.0040072&type=printable
+      text: PDF
+    - type: source
+      link: https://github.com/bvoightlab/iHS_calc
+      text: GitHub
+    - type: news
+      link: https://www.nytimes.com/2006/03/07/science/still-evolving-human-genes-tell-new-story.html
+      text: News
   tags:
     - Selected Work
     - Pop Gen
@@ -1877,10 +1946,14 @@
 
 - id: doi:10.1371/journal.pgen.0020067
 # title: Coverage and Characteristics of the Affymetrix GeneChip Human Mapping 100K SNP Set
+  image: https://journals.plos.org/plosgenetics/article/figure/image?size=large&id=10.1371/journal.pgen.0020067.g005
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16680197
       text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0020067&type=printable
+      text: PDF
   tags:
     - Complex Traits
 
@@ -1888,10 +1961,14 @@
 
 - id: doi:10.1371/journal.pgen.0010032
 # title: Confounding from Cryptic Relatedness in Case-Control Association Studies
+  image: https://journals.plos.org/plosgenetics/article/file?type=thumbnail&id=10.1371/journal.pgen.0010032.e014
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16151517
       text: PubMed
+    - type: pdf
+      link: https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.0010032&type=printable
+      text: PDF
   tags:
     - Selected Work
     - Complex Traits
@@ -1900,10 +1977,14 @@
 
 - id: doi:10.1073/pnas.0507325102
 # title: Interrogating multiple aspects of variation in a full resequencing data set to infer human population size changes
+  image: https://www.pnas.org/cms/10.1073/pnas.0507325102/asset/95fed40b-e752-4ec8-8409-56e7257e455a/assets/graphic/zpq0500504970002.jpeg
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/16352722
       text: PubMed
+    - type: pdf
+      link: https://upenn.box.com/s/dtxsf2044w9pqvk6yqchebai8do17mkm
+      text: PDF
   tags:
     - Selected Work
     - Pop Gen

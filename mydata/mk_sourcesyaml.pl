@@ -42,29 +42,32 @@ foreach $year (sort {$b <=> $a} keys %dbase) {
 	# always has a title but comment out; keep for reference
 	print "# title: $this_title\n";
 	
-	if ($this_image !~ /\./) { #print image if present
+	if ($this_image !~ /^\.$/) { #print image if present; missing data is ONLY period character
 	    print "  image: $this_image\n";
 	}
 
 	#check if entry has a button. if no buttons, skip
-	if ($this_pmid =~ /\./ && $this_pdf =~ /\./ && $this_source =~ /\./ && $this_news =~ /\./) {
+	if ($this_pmid =~ /^\.$/ && $this_pdf =~ /^\.$/ && $this_source =~ /^\.$/ && $this_news =~ /^\.$/) {
 	    #no buttons, skip
 	} else {
 	    #at least one button. print.
 	    print "  buttons:\n";
-	    if ($this_pmid !~ /\./) {
+	    if ($this_pmid !~ /^\.$/) {
 		print "    - type: pubmed\n";
 		print "      link: https://pubmed.ncbi.nlm.nih.gov/$this_pmid\n";
 		print "      text: PubMed\n";
-	    } elsif ($this_pdf !~ /\./) {
+	    }
+	    if ($this_pdf !~ /^\.$/) {
 		print "    - type: pdf\n";
 		print "      link: $this_pdf\n";
 		print "      text: PDF\n";
-	    } elsif ($this_source !~ /\./) {
+	    } 
+	    if ($this_source !~ /^\.$/) {
 		print "    - type: source\n";
 		print "      link: $this_source\n";
 		print "      text: GitHub\n";
-	    } elsif ($this_news !~ /\./) {
+	    } 
+	    if ($this_news !~ /^\.$/) {
 		print "    - type: news\n";
 		print "      link: $this_news\n";
 		print "      text: News\n";
