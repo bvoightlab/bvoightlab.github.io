@@ -43,4 +43,4 @@ Software Available:
 {% include list.html component="card" data="projects" filters="group: methods" flip=true %}
 
 ## Legacy
-{% include list.html component="card" data="projects" filters="group: methods-legacy" flip=true %}
+{% include list.html component="card" data="projects" filters="group: legacy" flip=true %}

@@ -98,7 +98,7 @@
 - title: Assessment of <em>de novo</em> mutational burden via sequence context models
   group: methods
   image: images/tools/aggarwala-denovo.png
-  link: https://pubmed.ncbi.nlm.nih.gov/26878723/
+  link: https://pubmed.ncbi.nlm.nih.gov/28193182/
   description: A generalized algorithm to grade the significance of <em>de novo</em> mutational burden in disease probands within a gene based on mutation rate models informed by sequence context. Described in Aggarwala et al (2017).
   tags:
     - Complex Traits
@@ -109,7 +109,7 @@
 - title: Statistical Framework to compare Sequence Context Models
   group: methods
   image: images/tools/aggarwala-mutrate.png
-  link: https://pubmed.ncbi.nlm.nih.gov/28193182/
+  link: https://pubmed.ncbi.nlm.nih.gov/26878723/
   description: Presented a statistical framework to evaluate the goodness of fit of competing nested sequence context models. Described in Aggarwala and Voight (2016).
   tags:
     - Pop Gen
@@ -118,7 +118,7 @@
     - Publication
     
 - title: MeRP
-  group: methods-legacy
+  group: legacy
   image: images/tools/MeRP.jpg
   link: https://github.com/peteryin21/py-merp
   description: Python tool designed to automate the curation of genetic variants selected from the NHGRI GWAS catalog, filtering steps, and causal effect calcualtion for MR. Described in Yin and Voight (2015).
