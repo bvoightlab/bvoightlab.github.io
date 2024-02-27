@@ -20,6 +20,7 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  image: images/covers/PMID_38374256_Cover_artonly.jpg
   buttons:
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/38362853
