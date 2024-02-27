@@ -18,8 +18,18 @@
   date: '2024-02-20'
   link: https://doi.org/gthw5c
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/38362853
+    text: PubMed
+  tags:
+  - Complex Traits
+  - Mendelian Randomization
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/s41586-024-07019-6
   title: Genetic drivers of heterogeneity in type 2 diabetes pathophysiology
   authors:
@@ -392,8 +402,22 @@
   date: '2024-02-19'
   link: https://doi.org/gtjjqn
   orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/covers/PMID_38374256_Cover_artonly.jpg
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/38374256
+    text: PubMed
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
+  - Consortia
+  - T2D-GGI
+  - MVP
 - id: doi:10.1186/s13059-023-03136-z
   title: Trans-ancestral genome-wide association study of longitudinal pubertal height
     growth and shared heritability with adult health outcomes
