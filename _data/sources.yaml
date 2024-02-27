@@ -2,7 +2,7 @@
 
 - id: doi:10.1038/s41586-024-07019-6
 # title: Genetic drivers of heterogeneity in type 2 diabetes pathophysiology
-  image: images/covers/PMID_38374256_Cover_artonly.jpg
+  image: https://github.com/bvoightlab/bvoightlab.github.io/blob/e34920f1f98cf3c1c0907822820d8d51ac93d407/images/covers/PMID_38374256_Cover_artonly.jpg?raw=true
   buttons:
     - type: pubmed
       link: https://pubmed.ncbi.nlm.nih.gov/38374256
