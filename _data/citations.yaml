@@ -645,6 +645,10 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/bvoightlab/Baymer/
+    text: GitHub
   tags:
   - Preprint
   - Pop Gen
@@ -702,6 +706,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/35894642
     text: PubMed
+  - type: source
+    link: https://github.com/bvoightlab/ColocQuiaL
+    text: GitHub
   tags:
   - Selected Work
   - Complex Traits
@@ -722,6 +729,10 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/zhd007/mediation-hidden_risk_factor
+    text: GitHub
   tags:
   - Preprint
   - Complex Traits
@@ -1631,7 +1642,7 @@
     text: PubMed
   tags:
   - Complex Traits
-  - Opinion/Review
+  - Opinion/Review/Book Chapter
 - id: doi:10.1186/s12864-022-08654-x
   title: 'TSABL: Trait Specific Annotation Based Locus predictor'
   authors:
@@ -1722,6 +1733,10 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/bvoightlab/ColocQuiaL
+    text: GitHub
   tags:
   - Preprint
   - Complex Traits
@@ -3020,6 +3035,10 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/kelsj/EVICORD/
+    text: GitHub
   tags:
   - Preprint
   - Pop Gen
@@ -3124,6 +3143,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/32011695
     text: PubMed
+  - type: source
+    link: https://github.com/ksiewert/BetaScan/
+    text: GitHub
   tags:
   - Selected Work
   - Pop Gen
@@ -3623,6 +3645,7 @@
   tags:
   - Preprint
   - Complex Traits
+  - Collaborative
 - id: doi:10.1101/2020.11.09.375592
   title: Mapping the genetic architecture of human traits to cell types in the kidney
     identifies mechanisms of disease and potential treatments
@@ -3655,6 +3678,8 @@
   tags:
   - Preprint
   - Complex Traits
+  - QTL Mapping
+  - Collaborative
 - id: doi:10.1186/s12915-020-00783-7
   title: Tropomyosin 1 genetically constrains in vitro hematopoiesis
   authors:
@@ -3676,7 +3701,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/32408895
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Pleiotropy
+  - AI/ML
 - id: doi:10.1007/s00125-020-05229-x
   title: 'Type 1 diabetes in Africa: an immunogenetic study in the Amhara of North-West
     Ethiopia'
@@ -3709,7 +3738,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/32705316
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1371/journal.pone.0237430
   title: Validating a non-invasive, ALT-based non-alcoholic fatty liver phenotype
     in the million veteran program
@@ -3752,7 +3784,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/32841307
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - MASLD
+  - Consortia
+  - MVP
 - id: doi:10.1101/2019.12.23.19015743
   title: 'Genetics of Height and Risk of Atrial Fibrillation: A Mendelian Randomization
     Study'
@@ -3774,6 +3811,9 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - Mendelian Randomization
+  - CAD/CVD
 - id: doi:10.1186/s13059-018-1617-8
   title: Keen on the tenure track job, are you? Know these things, you should
   authors:
@@ -3788,7 +3828,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/30616593
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Opinion/Review/Book Chapter
 - id: doi:10.1101/794594
   title: 'Assessing a causal relationship between circulating lipids and breast cancer
     risk: Mendelian randomization study'
@@ -3810,6 +3852,9 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - Mendelian Randomization
+  - Pleiotropy
 - id: doi:10.1101/787333
   title: Genetic colocalization atlas points to common regulatory sites and genes
     for hematopoietic traits and hematopoietic contributions to disease phenotypes
@@ -3824,6 +3869,8 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - Pleiotropy
 - id: doi:10.1101/19012690
   title: Discovery of 318 novel loci for type-2 diabetes and related micro- and macrovascular
     outcomes among 1.4 million participants in a multi-ethnic meta-analysis
@@ -3881,6 +3928,10 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - T2D
+  - Consortia
+  - MVP
 - id: doi:10.1101/659326
   title: Evaluating the contribution of cell-type specific alternative splicing to
     variation in lipid levels
@@ -3903,6 +3954,8 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - QTL Mapping
 - id: doi:10.1073/pnas.1913199116
   title: "Natural human genetic variation determines basal and inducible expression\
     \ of\n            <i>PM20D1</i>\n            , an obesity-associated gene"
@@ -3929,7 +3982,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/31659023
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1016/j.bone.2019.01.026
   title: Postmenopausal osteoporotic fracture-associated COLIA1 variant impacts bone
     accretion in girls
@@ -3958,7 +4013,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/30711642
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1001/jamanetworkopen.2019.5345
   title: Projected Prevalence of Actionable Pharmacogenetic Variants and Level A Drugs
     Prescribed Among US Veterans Health Administration Pharmacy Users
@@ -3984,7 +4041,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/31173123
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - MASLD
+  - Consortia
+  - MVP
 - id: doi:10.1093/molbev/msz023
   title: Signals of Variation in Human Mutation Rate at Multiple Levels of Sequence
     Context
@@ -4002,7 +4063,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/30753705
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Mutation Rate
 - id: doi:10.1101/631895
   title: <i>Tropomyosin 1</i> genetically constrains <i>in vitro</i> hematopoiesis
   authors:
@@ -4022,6 +4086,9 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - Pleiotropy
+  - AI/ML
 - id: doi:10.1101/497255
   title: 'BetaScan2: Standardized statistics to detect balancing selection utilizing
     substitution data:'
@@ -4034,8 +4101,17 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/ksiewert/BetaScan/
+    text: GitHub
   tags:
   - Preprint
+  - Pop Gen
+  - Selection
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1186/s13059-018-1460-y
   title: Dissecting an adiposity locus with an arsenal of genomics
   authors:
@@ -4051,7 +4127,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/29880058
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1101/385096
   title: Signals of variation in human mutation rate at multiple levels of sequence
     context
@@ -4067,6 +4144,8 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Pop Gen
+  - Mutation Rate
 - id: doi:10.1038/s41559-018-0478-6
   title: Patterns of shared signatures of recent positive selection across human populations
   authors:
@@ -4082,7 +4161,13 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/29459708
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Selection
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1101/319848
   title: Bivariate GWAS scan identifies six novel loci associated with lipid levels
     and coronary artery disease
@@ -4097,6 +4182,9 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - CAD/CVD
+  - Pleiotropy
 - id: doi:10.1161/CIRCGEN.118.002239
   title: Bivariate Genome-Wide Association Scan Identifies 6 Novel Loci Associated
     With Lipid Levels and Coronary Artery Disease
@@ -4113,7 +4201,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/30525989
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - CAD/CVD
+  - Pleiotropy
 - id: doi:10.2337/dc18-1032
   title: First Genome-Wide Association Study of Latent Autoimmune Diabetes in Adults
     Reveals Novel Insights Linking Immune and Metabolic Diabetes
@@ -4190,7 +4282,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/30254083
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T1D
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1002/jbmr.3320
   title: Genetically Determined Later Puberty Impacts Lowered Bone Mineral Density
     in Childhood and Adulthood
@@ -4219,7 +4315,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/29068475
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1161/CIRCGEN.117.002070
   title: Multiplexed Targeted Resequencing Identifies Coding and Regulatory Variation
     Underlying Phenotypic Extremes of High-Density Lipoprotein Cholesterol in Humans
@@ -4241,7 +4339,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/29987113
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - CAD/CVD
 - id: doi:10.1101/109371
   title: Patterns of shared signatures of recent positive selection across human populations
   authors:
@@ -4255,6 +4356,11 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Pop Gen
+  - Selection
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.2337/db16-1253
   title: An Expanded Genome-Wide Association Study of Type 2 Diabetes in Europeans
   authors:
@@ -4443,7 +4549,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28566273
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1038/sdata.2017.179
   title: Sequence data and association statistics from 12,940 type 2 diabetes cases
     and controls
@@ -4759,7 +4868,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/29257133
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
 - id: doi:10.1186/s12864-017-3522-z
   title: De novo mutational profile in RB1 clarified using a mutation rate modeling
     algorithm
@@ -4777,7 +4888,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28193182
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mutation Rate
+  - Statistics
+  - Methods Development
 - id: doi:10.1101/112870
   title: Detecting Long-term Balancing Selection using Allele Frequency Correlation
   authors:
@@ -4789,8 +4905,17 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/ksiewert/BetaScan/
+    text: GitHub
   tags:
   - Preprint
+  - Pop Gen
+  - Selection
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1093/molbev/msx209
   title: Detecting Long-Term Balancing Selection Using Allele Frequency Correlation
   authors:
@@ -4806,7 +4931,16 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28981714
     text: PubMed
-  tags: null
+  - type: source
+    link: https://github.com/ksiewert/BetaScan/
+    text: GitHub
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Selection
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1186/s13040-017-0137-5
   title: 'Gene Set Enrichment Analyses: lessons learned from the heart failure phenotype'
   authors:
@@ -4830,7 +4964,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28559929
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1038/ng.3943
   title: Identification of new susceptibility loci for type 2 diabetes and shared
     etiological pathways with coronary heart disease
@@ -4935,7 +5072,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28869590
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
 - id: doi:10.1016/j.ajhg.2017.02.004
   title: Large-Scale trans -eQTLs Affect Hundreds of Transcripts and Mediate Patterns
     of Transcriptional Co-regulation
@@ -4958,7 +5100,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28285767
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - QTL Mapping
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1101/235887
   title: Multiplexed targeted resequencing identifies coding and regulatory variation
     underlying phenotypic extremes of HDL-cholesterol in humans
@@ -4978,6 +5124,8 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - CAD/CVD
 - id: doi:10.1186/s12916-017-0846-0
   title: Relative contribution of type 1 and type 2 diabetes loci to the genetic etiology
     of adult-onset, non-insulin-requiring autoimmune diabetes
@@ -5008,7 +5156,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28438156
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - T1D
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1093/hmg/ddw416
   title: 'Serum calcium and risk of migraine: a Mendelian randomization study'
   authors:
@@ -5028,7 +5181,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28025330
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mendelian Randomization
+  - Pleiotropy
 - id: doi:10.2337/db16-0868
   title: 'Systolic Blood Pressure and Risk of Type 2 Diabetes: A Mendelian Randomization
     Study'
@@ -5051,7 +5208,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27702834
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mendelian Randomization
+  - T2D
+  - Pleiotropy
 - id: doi:10.1038/ng.3852
   title: The Nephila clavipes genome highlights the diversity of spider silk genes
     and their complex expression
@@ -5077,7 +5239,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28459453
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Spiders
 - id: doi:10.1101/056283
   title: 'Large-scale <i>trans</i>-eQTLs affect hundreds of transcripts and mediate
     patterns of transcriptional co-regulation Short: <i>trans</i>-eQTLs reveal patterns
@@ -5099,6 +5264,10 @@
   file: sources.yaml
   tags:
   - Preprint
+  - Complex Traits
+  - QTL Mapping
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/ng.3511
   title: An expanded sequence context model broadly explains variability in polymorphism
     levels across the human genome
@@ -5115,7 +5284,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26878723
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Mutation Rate
+  - Statistics
+  - Methods Development
 - id: doi:10.1016/j.bone.2016.09.005
   title: Assessing the general population frequency of rare coding variants in the
     EXT1 and EXT2 genes previously implicated in hereditary multiple exostoses
@@ -5135,7 +5309,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27616605
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
 - id: doi:10.1016/j.jacc.2015.10.086
   title: "Causal Assessment of Serum Urate Levels in\_Cardiometabolic Diseases Through\
     \ a Mendelian Randomization Study"
@@ -5207,7 +5382,13 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26821629
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mendelian Randomization
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
 - id: doi:10.1007/978-3-319-01574-3_24
   title: Causal Inference in Medicine via Mendelian Randomization
   authors:
@@ -5219,7 +5400,11 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mendelian Randomization
+  - Opinion/Review/Book Chapter
 - id: doi:10.1001/jamacardio.2016.2298
   title: Disentangling the Causal Association of Plasma Lipid Traits and Type 2 Diabetes
     Using Human Genetics
@@ -5237,7 +5422,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27487162
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1016/S1474-4422(15)00400-7
   title: Human genetics shines a light on ischaemic stroke
   authors:
@@ -5253,7 +5439,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26708677
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1093/hmg/ddw160
   title: Pathway and network-based strategies to translate genetic discoveries into
     effective therapies
@@ -5270,7 +5457,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27340225
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/nature18642
   title: The genetic architecture of type 2 diabetes
   authors:
@@ -5585,7 +5773,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27398621
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.3667
   title: The genetics of blood pressure regulation and its target organs from association
     studies in 342,415 individuals
@@ -5913,7 +6105,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27618452
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.2337/dbi16-0054
   title: "Type 2 Diabetes Genes Gleaned by Making a \u03B2-Cell Screen Routine"
   authors:
@@ -5929,7 +6123,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/27879406
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1016/j.cell.2015.06.025
   title: "Genetic Variation Determines PPAR\u03B3 Function and Anti-diabetic Drug\
     \ Response In\_Vivo"
@@ -5961,7 +6156,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26140591
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1038/ng.3437
   title: Genetic fine mapping and genomic annotation defines causal mechanisms at
     type 2 diabetes susceptibility loci
@@ -6194,7 +6392,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26551672
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
 - id: doi:10.1016/j.atherosclerosis.2015.05.033
   title: Genetic variants primarily associated with type 2 diabetes are related to
     coronary artery disease risk
@@ -6234,7 +6434,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/26074316
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1093/bioinformatics/btu742
   title: 'MeRP: a high-throughput pipeline for Mendelian randomization analysis'
   authors:
@@ -6250,7 +6454,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/25388149
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Mendelian Randomization
+  - Automation
+  - Methods Development
+  - Software
 - id: doi:10.1371/journal.pgen.1004235
   title: A Central Role for GRB10 in Regulation of Islet Function in Man
   authors:
@@ -6328,7 +6537,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24699409
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1126/scitranslmed.3008436
   title: A Metabolic Relic
   authors:
@@ -6339,7 +6551,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/ng.2897
   title: Genome-wide trans-ancestry meta-analysis provides insight into the genetic
     architecture of type 2 diabetes susceptibility
@@ -6686,7 +6899,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24509480
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/nature13127
   title: Guidelines for investigating causality of sequence variants in human disease
   authors:
@@ -6727,7 +6944,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24759409
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Collaborative
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/ng.2915
   title: Loss-of-function mutations in SLC30A8 protect against type 2 diabetes
   authors:
@@ -6821,7 +7042,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24584071
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1093/bioinformatics/btu564
   title: 'MR_predictor: a simulation engine for Mendelian Randomization studies'
   authors:
@@ -6836,7 +7062,16 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/25165093
     text: PubMed
-  tags: null
+  - type: source
+    link: https://github.com/bvoightlab/mr_predictor
+    text: GitHub
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Mendelian Randomization
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1016/j.ymgme.2014.04.007
   title: Pleiotropic genes for metabolic syndrome and inflammation
   authors:
@@ -6918,7 +7153,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24981077
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1126/scitranslmed.3008715
   title: "<i>SORT</i>\n            ing Out That Pesky Cholesterol"
   authors:
@@ -6929,7 +7168,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1126/scitranslmed.3006206
   title: Accessing the Inaccessible Genome
   authors:
@@ -6940,7 +7180,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/ng.2795
   title: Common variants associated with plasma triglycerides and risk for coronary
     artery disease
@@ -7218,7 +7459,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24097064
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/ng.2797
   title: Discovery and refinement of loci associated with lipid levels
   authors: []
@@ -7232,7 +7477,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/24097068
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1126/scitranslmed.3006452
   title: "Eavesdropping on Communications Between Liver and \u03B2 Cells"
   authors:
@@ -7243,7 +7492,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1371/journal.pgen.1003484
   title: 'From Mouse to Human: Evolutionary Genomics Analysis of Human Orthologs of
     Essential Genes'
@@ -7261,7 +7511,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/23675308
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Pop Gen
+  - Selection
 - id: doi:10.1126/scitranslmed.3007047
   title: "Ironing Out Parkinson\u2019s Disease"
   authors:
@@ -7272,7 +7525,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/ng.2480
   title: Large-scale association analysis identifies new risk loci for coronary artery
     disease
@@ -7470,7 +7724,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/23202125
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
+  - Collaborative
 - id: doi:10.1126/scitranslmed.3006750
   title: "<i>RA-</i>\n            cing Toward Drugs from a Genetics Starting Line"
   authors:
@@ -7481,7 +7739,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1126/scitranslmed.3008007
   title: Right Place, Right Time
   authors:
@@ -7492,7 +7751,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1126/scitranslmed.3007770
   title: Thinking Before We Act
   authors:
@@ -7503,7 +7763,8 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/nature11011
   title: Patterns and rates of exonic de novo mutations in autism spectrum disorders
   authors:
@@ -7811,7 +8072,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22581228
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1371/journal.pone.0029202
   title: A Genome-Wide Association Search for Type 2 Diabetes Genes in African Americans
   authors:
@@ -7849,7 +8114,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22238593
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1093/bioinformatics/bts259
   title: "Analysis of case\u2013control association studies with known risk variants"
   authors:
@@ -7879,7 +8147,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22556366
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1038/ng.2232
   title: Bayesian inference analyses of the polygenic architecture of rheumatoid arthritis
   authors:
@@ -7912,7 +8182,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22446960
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1371/journal.pone.0035651
   title: 'Evaluation of the Metabochip Genotyping Array in African Americans and Implications
     for Fine Mapping of GWAS-Identified Loci: The PAGE Study'
@@ -7962,7 +8235,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22539988
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
 - id: doi:10.1016/j.coi.2012.07.013
   title: Human genetics offers an emerging picture of common pathways and mechanisms
     in autoimmunity
@@ -7979,7 +8254,8 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/23041452
     text: PubMed
-  tags: null
+  tags:
+  - Opinion/Review/Book Chapter
 - id: doi:10.1161/CIRCGENETICS.112.963660
   title: "Identification of the\n            <i>BCAR1-CFDP1-TMEM170A</i>\n       \
     \     Locus as a Determinant of Carotid Intima-Media Thickness and Coronary Artery\
@@ -8057,7 +8333,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/23152477
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.2337/db11-1515
   title: Impact of Common Variation in Bone-Related Genes on Type 2 Diabetes and Related
     Traits
@@ -8112,7 +8391,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22698912
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1003032
   title: Informed Conditioning on Clinical Covariates Increases Power in Case-Control
     Association Studies
@@ -8175,7 +8458,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/23144628
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1038/ng.2385
   title: Large-scale association analyses identify new loci influencing glycemic traits
     and provide insight into the underlying biological pathways
@@ -8404,7 +8689,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22885924
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1038/ng.2383
   title: Large-scale association analysis provides insights into the genetic architecture
     and pathophysiology of type 2 diabetes
@@ -8623,7 +8911,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22885922
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Statistics
 - id: doi:10.1016/j.ajhg.2011.12.022
   title: Large-Scale Gene-Centric Meta-Analysis across 39 Studies Identifies Type
     2 Diabetes Loci
@@ -8793,7 +9086,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22325160
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.2261
   title: Meta-analysis identifies six new susceptibility loci for atrial fibrillation
   authors:
@@ -8896,7 +9193,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22544366
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1002607
   title: 'Novel Loci for Adiponectin Levels and Their Influence on Type 2 Diabetes
     and Metabolic Traits: A Multi-Ethnic Meta-Analysis of 45,891 Individuals'
@@ -9024,7 +9324,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22479202
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1016/S0140-6736(12)60312-2
   title: 'Plasma HDL cholesterol and risk of myocardial infarction: a mendelian randomisation
     study'
@@ -9200,7 +9502,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22264825
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1002741
   title: Stratifying Type 2 Diabetes Cases by BMI Identifies Genetic Risk Variants
     in LAMA1 and Enrichment for Risk Variants in Lean Compared to Obese Cases
@@ -9290,7 +9594,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22693455
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Pleiotropy
 - id: doi:10.1371/journal.pgen.1002793
   title: The Metabochip, a Custom Genotyping Array for Genetic Studies of Metabolic,
     Cardiovascular, and Anthropometric Traits
@@ -9354,7 +9662,13 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22876189
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - CAD/CVD
+  - Pleiotropy
+  - Methods Development
 - id: doi:10.1161/CIRCGENETICS.110.958728
   title: "A Genome-Wide Association Study Identifies\n            <i>LIPA</i>\n  \
     \          as a Susceptibility Gene for Coronary Artery Disease"
@@ -9458,7 +9772,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21606135
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
 - id: doi:10.1161/ATVBAHA.111.226365
   title: An Increased Burden of Common and Rare Lipid-Associated Risk Alleles Contributes
     to the Phenotypic Spectrum of Hypertriglyceridemia
@@ -9494,7 +9810,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21597005
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
 - id: doi:10.1016/B978-0-12-375142-3.10017-3
   title: Delineating Signals from Association Studies
   authors:
@@ -9505,7 +9823,9 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
-  tags: null
+  tags:
+  - Complex Traits
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/nature10405
   title: Genetic variants in novel pathways influence blood pressure and cardiovascular
     disease risk
@@ -9520,7 +9840,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21909115
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - MASLD
+  - Consortia
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1001324
   title: Genome-Wide Association Analysis Identifies Variants Associated with Nonalcoholic
     Fatty Liver Disease That Have Distinct Effects on Metabolic Traits
@@ -9569,7 +9893,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21423719
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.2337/db11-0415
   title: Genome-Wide Association Identifies Nine Common Variants Associated With Fasting
     Proinsulin Levels and Provides New Insights Into the Pathophysiology of Type 2
@@ -9688,7 +10016,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21873549
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1161/CIRCULATIONAHA.110.974899
   title: Genome-Wide Association Study for Coronary Artery Calcification With Follow-Up
     in Myocardial Infarction
@@ -9770,7 +10102,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/22144573
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.922
   title: Genome-wide association study identifies six new loci influencing pulse pressure
     and mean arterial pressure
@@ -10009,7 +10345,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21909110
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1016/j.jacc.2010.11.075
   title: Influence of 9p21.3 Genetic Variants on Clinical and Angiographic Outcomes
     in Early-Onset Myocardial Infarction
@@ -10052,7 +10391,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21757122
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.784
   title: Large-scale association analysis identifies 13 new susceptibility loci for
     coronary artery disease
@@ -10233,7 +10576,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21378990
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
+  - Collaborative
 - id: doi:10.1371/journal.pgen.1002254
   title: Pervasive Sharing of Genetic Effects in Autoimmune Disease
   authors:
@@ -10270,7 +10617,16 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21852963
     text: PubMed
-  tags: null
+  - type: source
+    link: https://github.com/bvoightlab/cpma/
+    text: GitHub
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Pleiotropy
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1002/gepi.20572
   title: 'Power in the phenotypic extremes: a simulation study of power in discovery
     and replication of rare variants'
@@ -10302,7 +10658,13 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21308769
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Pleiotropy
+  - Statistics
+  - Methods Development
 - id: doi:10.1371/journal.pgen.1001322
   title: Testing for an Unusual Distribution of Rare Variants
   authors:
@@ -10326,7 +10688,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/21408211
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Statistics
+  - Methods Development
+  - Software
 - id: doi:10.1038/ng.686
   title: Association analyses of 249,796 individuals reveal 18 new loci associated
     with body mass index
@@ -10716,7 +11082,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20935630
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/nature09270
   title: Biological, clinical and population relevance of 95 loci for blood lipids
   authors:
@@ -10939,7 +11308,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20686565
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.2337/db10-0502
   title: Common Variants at 10 Genomic Loci Influence Hemoglobin A1C Levels via Glycemic
     and Nonglycemic Pathways
@@ -10969,7 +11341,12 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20858683
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1161/CIRCGENETICS.109.899443
   title: Design of the Coronary ARtery DIsease Genome-Wide Replication And Meta-Analysis
     (CARDIoGRAM) Study
@@ -11021,7 +11398,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20923989
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.628
   title: Excess of rare variants in genes identified by genome-wide association study
     of hypertriglyceridemia
@@ -11057,7 +11438,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20657596
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1038/ng.521
   title: Genetic variation in GIPR influences the glucose and insulin responses to
     an oral glucose challenge
@@ -11184,7 +11568,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20081857
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/ng.571
   title: Genome-wide meta-analyses identify multiple loci associated with smoking
     behavior
@@ -11199,7 +11587,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20418890
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/nature09410
   title: Hundreds of variants clustered in genomic loci and biological pathways affect
     human height
@@ -11507,7 +11898,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20881960
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.1016/j.jacc.2010.06.022
   title: Lack of Association Between the Trp719Arg Polymorphism in Kinesin-Like Protein-6
     and Coronary Artery Disease in 19 Case-Control Studies
@@ -11653,7 +12047,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20933357
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1038/ng.685
   title: Meta-analysis identifies 13 new loci associated with waist-hip ratio and
     reveals sexual dimorphism in the genetic basis of fat distribution
@@ -11968,7 +12365,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20935629
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.1371/journal.pone.0012600
   title: Multiethnic Genetic Association Studies Improve Power for Locus Discovery
   authors:
@@ -11985,7 +12385,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20838612
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Pop Gen
+  - Statistics
 - id: doi:10.1038/ng.520
   title: New genetic loci implicated in fasting glucose homeostasis and their impact
     on type 2 diabetes risk
@@ -12262,7 +12666,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20081858
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1002/hep.23768
   title: <i>PNPLA3</i>variants specifically confer increased risk for histologic nonalcoholic
     fatty liver disease but not metabolic disease
@@ -12282,7 +12690,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20648472
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - MASLD
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.609
   title: Twelve type 2 diabetes susceptibility loci identified through large-scale
     association analysis
@@ -12455,7 +12867,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/20581827
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Consortia
 - id: doi:10.1038/ng.467
   title: A genome-wide meta-analysis identifies 22 loci associated with eight hematological
     parameters in the HaemGen consortium
@@ -12550,7 +12966,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19820697
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1093/hmg/ddp292
   title: Common body mass index-associated variants confer risk of extreme obesity
   authors:
@@ -12580,7 +13000,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19553259
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.291
   title: Common variants at 30 loci contribute to polygenic dyslipidemia
   authors:
@@ -12655,7 +13078,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19060906
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.327
   title: Genome-wide association of early-onset myocardial infarction with single
     nucleotide polymorphisms and copy number variants
@@ -12670,7 +13097,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19198609
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - CAD/CVD
+  - Consortia
 - id: doi:10.1038/ng.361
   title: Genome-wide association study identifies eight loci associated with blood
     pressure
@@ -12843,7 +13274,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19430483
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Consortia
+  - Collaborative
 - id: doi:10.2337/db09-0081
   title: Linkage Disequilibrium Mapping of the Replicated Type 2 Diabetes Linkage
     Signal on Chromosome 1q
@@ -12890,7 +13324,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19389826
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1038/ng.307
   title: New susceptibility locus for coronary artery disease on chromosome 3q22.3
   authors:
@@ -12962,7 +13399,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19198612
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - CAD/CVD
+  - Collaborative
 - id: doi:10.1093/hmg/ddp169
   title: 'The T-381C SNP in BNP gene may be modestly associated with type 2 diabetes:
     an updated meta-analysis in 49 279 subjects'
@@ -13004,7 +13444,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19377085
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1093/aje/kwp145
   title: Underlying Genetic Models of Inheritance in Established Type 2 Diabetes Associations
   authors:
@@ -13049,7 +13492,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19602701
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Collaborative
 - id: doi:10.1038/ng.290
   title: Variants in MTNR1B influence fasting glucose levels
   authors:
@@ -13171,7 +13617,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/19060907
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.2337/db08-0516
   title: Common Missense Variant in the Glucokinase Regulatory Protein Gene Is Associated
     With Increased Plasma Triglyceride and C-Reactive Protein but Lower Fasting Glucose
@@ -13228,7 +13678,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18678614
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - T2D
+  - Consortia
+  - Collaborative
 - id: doi:10.1038/ng.140
   title: Common variants near MC4R are associated with fat mass, weight and risk of
     obesity
@@ -13344,7 +13798,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18454148
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1038/ng.125
   title: Identification of ten loci associated with height highlights new biological
     pathways in human growth
@@ -13390,7 +13846,9 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18391950
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Collaborative
 - id: doi:10.1038/ng.120
   title: Meta-analysis of genome-wide association data and large-scale replication
     identifies additional susceptibility loci for type 2 diabetes
@@ -13503,7 +13961,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18372903
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - T2D
+  - Consortia
 - id: doi:10.1093/hmg/ddn288
   title: Practical aspects of imputation-driven meta-analysis of genome-wide association
     studies
@@ -13524,7 +13986,11 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18852200
     text: PubMed
-  tags: null
+  tags:
+  - Selected Work
+  - Complex Traits
+  - Statistics
+  - Opinion/Review/Book Chapter
 - id: doi:10.1038/ng.75
   title: Six new loci associated with blood low-density lipoprotein cholesterol, high-density
     lipoprotein cholesterol or triglycerides in humans
@@ -13565,7 +14031,10 @@
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/18193044
     text: PubMed
-  tags: null
+  tags:
+  - Complex Traits
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/ng2121
   title: A common variant of HMGA2 is associated with adult and childhood height in
     the general population
@@ -13617,6 +14086,8 @@
     text: PDF
   tags:
   - Complex Traits
+  - Pleiotropy
+  - Collaborative
 - id: doi:10.1038/ng1946
   title: Convergent adaptation of human lactase persistence in Africa and Europe
   authors:
@@ -13660,6 +14131,7 @@
   - Selected Work
   - Pop Gen
   - Selection
+  - Collaborative
 - id: doi:10.1126/science.1142358
   title: Genome-Wide Association Analysis Identifies Loci for Type 2 Diabetes and
     Triglyceride Levels
@@ -13936,317 +14408,5 @@
   - Complex Traits
   - Mendelian Randomization
   - Pleiotropy
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/sdata.2018.2
-  title: 'Erratum: Sequence data and association statistics from 12,940 type 2 diabetes
-    cases and controls'
-  authors:
-  - Jason Flannick
-  - Christian Fuchsberger
-  - Anubha Mahajan
-  - Tanya M. Teslovich
-  - Vineeta Agarwala
-  - Kyle J. Gaulton
-  - Lizz Caulkins
-  - Ryan Koesterer
-  - Clement Ma
-  - Loukas Moutsianas
-  - Davis J. McCarthy
-  - Manuel A. Rivas
-  - John R. B. Perry
-  - Xueling Sim
-  - Thomas W. Blackwell
-  - Neil R. Robertson
-  - N William Rayner
-  - Pablo Cingolani
-  - Adam E. Locke
-  - Juan Fernandez Tajes
-  - Heather M. Highland
-  - Josee Dupuis
-  - Peter S. Chines
-  - Cecilia M. Lindgren
-  - Christopher Hartl
-  - Anne U. Jackson
-  - Han Chen
-  - Jeroen R. Huyghe
-  - Martijn van de Bunt
-  - Richard D. Pearson
-  - Ashish Kumar
-  - "Martina M\xFCller-Nurasyid"
-  - Niels Grarup
-  - Heather M. Stringham
-  - Eric R. Gamazon
-  - Jaehoon Lee
-  - Yuhui Chen
-  - Robert A. Scott
-  - Jennifer E. Below
-  - Peng Chen
-  - Jinyan Huang
-  - Min Jin Go
-  - Michael L. Stitzel
-  - Dorota Pasko
-  - Stephen C. J. Parker
-  - Tibor V. Varga
-  - Todd Green
-  - Nicola L. Beer
-  - Aaron G. Day-Williams
-  - Teresa Ferreira
-  - Tasha Fingerlin
-  - Momoko Horikoshi
-  - Cheng Hu
-  - Iksoo Huh
-  - Mohammad Kamran Ikram
-  - Bong-Jo Kim
-  - Yongkang Kim
-  - Young Jin Kim
-  - Min-Seok Kwon
-  - Juyoung Lee
-  - Selyeong Lee
-  - Keng-Han Lin
-  - Taylor J. Maxwell
-  - Yoshihiko Nagai
-  - Xu Wang
-  - Ryan P Welch
-  - Joon Yoon
-  - Weihua Zhang
-  - Nir Barzilai
-  - Benjamin F. Voight
-  - Bok-Ghee Han
-  - Christopher P. Jenkinson
-  - Teemu Kuulasmaa
-  - Johanna Kuusisto
-  - Alisa Manning
-  - Maggie C. Y. Ng
-  - Nicholette D. Palmer
-  - Beverley Balkau
-  - "Alena Stan\u010D\xE1kov\xE1"
-  - Hanna E. Abboud
-  - Heiner Boeing
-  - Vilmantas Giedraitis
-  - Dorairaj Prabhakaran
-  - Omri Gottesman
-  - James Scott
-  - Jason Carey
-  - Phoenix Kwan
-  - George Grant
-  - Joshua D. Smith
-  - Benjamin M. Neale
-  - Shaun Purcell
-  - Adam S. Butterworth
-  - Joanna M. M. Howson
-  - Heung Man Lee
-  - Yingchang Lu
-  - Soo-Heon Kwak
-  - Wei Zhao
-  - John Danesh
-  - Vincent K. L. Lam
-  - Kyong Soo Park
-  - Danish Saleheen
-  - Wing Yee So
-  - Claudia H. T. Tam
-  - Uzma Afzal
-  - David Aguilar
-  - Rector Arya
-  - Tin Aung
-  - Edmund Chan
-  - Carmen Navarro
-  - Ching-Yu Cheng
-  - Domenico Palli
-  - Adolfo Correa
-  - Joanne E. Curran
-  - Dennis Rybin
-  - Vidya S. Farook
-  - Sharon P. Fowler
-  - Barry I. Freedman
-  - Michael Griswold
-  - Daniel Esten Hale
-  - Pamela J. Hicks
-  - Chiea-Chuen Khor
-  - Satish Kumar
-  - Benjamin Lehne
-  - "Doroth\xE9e Thuillier"
-  - Wei Yen Lim
-  - Jianjun Liu
-  - Marie Loh
-  - Solomon K. Musani
-  - Sobha Puppala
-  - William R. Scott
-  - "Lo\xEFc Yengo"
-  - Sian-Tsung Tan
-  - Herman A. Taylor
-  - Farook Thameem
-  - Gregory Wilson
-  - Tien Yin Wong
-  - "P\xE5l Rasmus Nj\xF8lstad"
-  - Jonathan C. Levy
-  - Massimo Mangino
-  - Lori L. Bonnycastle
-  - Thomas Schwarzmayr
-  - "Jo\xE3o Fadista"
-  - Gabriela L. Surdulescu
-  - Christian Herder
-  - Christopher J. Groves
-  - Thomas Wieland
-  - Jette Bork-Jensen
-  - Ivan Brandslund
-  - Cramer Christensen
-  - Heikki A. Koistinen
-  - Alex S .F. Doney
-  - Leena Kinnunen
-  - "T\xF5nu Esko"
-  - Andrew J. Farmer
-  - Liisa Hakaste
-  - Dylan Hodgkiss
-  - Jasmina Kravic
-  - Valeri Lyssenko
-  - Mette Hollensted
-  - "Marit E. J\xF8rgensen"
-  - "Torben J\xF8rgensen"
-  - Claes Ladenvall
-  - Johanne Marie Justesen
-  - "Annemari K\xE4r\xE4j\xE4m\xE4ki"
-  - Jennifer Kriebel
-  - Wolfgang Rathmann
-  - Lars Lannfelt
-  - Torsten Lauritzen
-  - Narisu Narisu
-  - Allan Linneberg
-  - Olle Melander
-  - Lili Milani
-  - Matt Neville
-  - Marju Orho-Melander
-  - Lu Qi
-  - Qibin Qi
-  - Michael Roden
-  - Olov Rolandsson
-  - Amy Swift
-  - Anders H. Rosengren
-  - Kathleen Stirrups
-  - Andrew R. Wood
-  - Evelin Mihailov
-  - Christine Blancher
-  - Mauricio O. Carneiro
-  - Jared Maguire
-  - Ryan Poplin
-  - Khalid Shakir
-  - Timothy Fennell
-  - Mark DePristo
-  - "Martin Hrab\xE9 de Angelis"
-  - Panos Deloukas
-  - Anette P. Gjesing
-  - Goo Jun
-  - Peter Nilsson
-  - Jacquelyn Murphy
-  - Robert Onofrio
-  - Barbara Thorand
-  - Torben Hansen
-  - Christa Meisinger
-  - Frank B. Hu
-  - Bo Isomaa
-  - Fredrik Karpe
-  - Liming Liang
-  - Annette Peters
-  - Cornelia Huth
-  - Stephen P. O'Rahilly
-  - Colin N. A. Palmer
-  - Oluf Pedersen
-  - Rainer Rauramaa
-  - Jaakko Tuomilehto
-  - Veikko Salomaa
-  - Richard M. Watanabe
-  - "Ann-Christine Syv\xE4nen"
-  - Richard N. Bergman
-  - Dwaipayan Bharadwaj
-  - Erwin P. Bottinger
-  - Yoon Shin Cho
-  - Giriraj R. Chandak
-  - Juliana C. N. Chan
-  - Kee Seng Chia
-  - Mark J. Daly
-  - Shah B. Ebrahim
-  - Claudia Langenberg
-  - Paul Elliott
-  - Kathleen A. Jablonski
-  - Donna M. Lehman
-  - Weiping Jia
-  - Ronald C. W. Ma
-  - Toni I. Pollin
-  - Manjinder Sandhu
-  - Nikhil Tandon
-  - Philippe Froguel
-  - "In\xEAs Barroso"
-  - Yik Ying Teo
-  - Eleftheria Zeggini
-  - Ruth J. F. Loos
-  - Kerrin S Small
-  - Janina S. Ried
-  - Ralph A. DeFronzo
-  - Harald Grallert
-  - Benjamin Glaser
-  - Andres Metspalu
-  - Nicholas J. Wareham
-  - Mark Walker
-  - Eric Banks
-  - Christian Gieger
-  - Erik Ingelsson
-  - Hae Kyung Im
-  - Thomas Illig
-  - Paul W. Franks
-  - Gemma Buck
-  - Joseph Trakalo
-  - David Buck
-  - Inga Prokopenko
-  - "Reedik M\xE4gi"
-  - Lars Lind
-  - Yossi Farjoun
-  - Katharine R. Owen
-  - Anna L. Gloyn
-  - Konstantin Strauch
-  - Tiinamaija Tuomi
-  - Jaspal Singh Kooner
-  - Jong-Young Lee
-  - Taesung Park
-  - Peter Donnelly
-  - Andrew D. Morris
-  - Andrew T. Hattersley
-  - Donald W. Bowden
-  - Francis S. Collins
-  - Gil Atzmon
-  - John C. Chambers
-  - Timothy D. Spector
-  - Markku Laakso
-  - Tim M. Strom
-  - Graeme I. Bell
-  - John Blangero
-  - Ravindranath Duggirala
-  - E Shyong Tai
-  - Gilean McVean
-  - Craig L. Hanis
-  - James G. Wilson
-  - Mark Seielstad
-  - Timothy M. Frayling
-  - James B. Meigs
-  - Nancy J. Cox
-  - Rob Sladek
-  - Eric S. Lander
-  - Stacey Gabriel
-  - Karen L. Mohlke
-  - Thomas Meitinger
-  - Leif Groop
-  - Goncalo Abecasis
-  - Laura J. Scott
-  - Andrew P. Morris
-  - Hyun Min Kang
-  - David Altshuler
-  - "No\xEBl P. Burtt"
-  - Jose C. Florez
-  - Michael Boehnke
-  - Mark I. McCarthy
-  publisher: Scientific Data
-  date: '2018-01-23'
-  link: https://doi.org/gm2968
-  tags:
-  - Errata
   plugin: sources.py
   file: sources.yaml
