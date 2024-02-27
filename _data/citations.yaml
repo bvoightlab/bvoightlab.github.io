@@ -1013,6 +1013,7 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  image: https://github.com/bvoightlab/bvoightlab.github.io/blob/main/images/covers/JohnsonEA_IBD_Cover_artonly.png?raw=true
   buttons:
   - type: pdf
     link: https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13991
@@ -5633,6 +5634,7 @@
   orcid: 0000-0002-6205-9994
   plugin: sources.py
   file: sources.yaml
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41588/49/6
   buttons:
   - type: pubmed
     link: https://pubmed.ncbi.nlm.nih.gov/28459453
@@ -14734,29 +14736,6 @@
   - Pop Gen
   - Statistics
   - Methods Development
-- id: doi:10.1164/rccm.202205-0951OC
-  title: Mendelian Randomization Analysis Reveals a Complex Genetic Interplay among
-    Atopic Dermatitis, Asthma, and Gastroesophageal Reflux Disease
-  authors:
-  - Kwangmi Ahn
-  - Raymond B. Penn
-  - Satish Rattan
-  - Reynold A. Panettieri
-  - Benjamin F. Voight
-  - Steven S. An
-  publisher: American Journal of Respiratory and Critical Care Medicine
-  date: '2023-01-15'
-  link: https://doi.org/gr67jc
-  buttons:
-  - type: pubmed
-    link: https://pubmed.ncbi.nlm.nih.gov/36214830
-    text: PubMed
-  tags:
-  - Complex Traits
-  - Mendelian Randomization
-  - Collaborative
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1161/CIRCGEN.120.003249
   title: "Evaluating the Contribution of Cell Type\u2013Specific Alternative Splicing\
     \ to Variation in Lipid Levels"
@@ -14784,6 +14763,29 @@
   - Selected Work
   - Complex Traits
   - QTL Mapping
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1164/rccm.202205-0951OC
+  title: Mendelian Randomization Analysis Reveals a Complex Genetic Interplay among
+    Atopic Dermatitis, Asthma, and Gastroesophageal Reflux Disease
+  authors:
+  - Kwangmi Ahn
+  - Raymond B. Penn
+  - Satish Rattan
+  - Reynold A. Panettieri
+  - Benjamin F. Voight
+  - Steven S. An
+  publisher: American Journal of Respiratory and Critical Care Medicine
+  date: '2023-01-15'
+  link: https://doi.org/gr67jc
+  buttons:
+  - type: pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/36214830
+    text: PubMed
+  tags:
+  - Complex Traits
+  - Mendelian Randomization
+  - Collaborative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.75317
