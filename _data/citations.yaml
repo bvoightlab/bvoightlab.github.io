@@ -1,6 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1161/ATVBAHA.124.320674
+  title: Evaluation of Plasma Biomarkers for Causal Association With Peripheral Artery
+    Disease
+  authors:
+  - Pranav Sharma
+  - Derek Klarin
+  - Benjamin F. Voight
+  - Philip S. Tsao
+  - Michael G. Levin
+  - Scott M. Damrauer
+  publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
+  date: '2024-03-28'
+  link: https://doi.org/gtprpp
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
   file: orcid.yaml
