@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.09.24.614730
+  title: Characterization of non-coding variants associated with transcription factor
+    binding through ATAC-seq-defined footprint QTLs in liver
+  authors:
+  - Max F. Dudek
+  - Brandon M. Wenz
+  - Christopher D. Brown
+  - Benjamin F. Voight
+  - Laura Almasy
+  - Struan F.A. Grant
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-09-25'
+  link: https://doi.org/g59fxr
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.09.04.610850
   title: Genotype inference from aggregated chromatin accessibility data reveals genetic
     regulatory mechanisms
