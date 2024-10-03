@@ -2,7 +2,7 @@
 name: Jianhua Wang
 image: images/team/jianhua-wang.jpg
 description: Post-doctoral Fellow
-role: post-doc
+role: postdoc
 group: member
 aliases:
   - 证件照
