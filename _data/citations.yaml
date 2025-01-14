@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/scitranslmed.adi6148
+  title: "G6PC2 controls glucagon secretion by defining the set point for glucose\
+    \ in pancreatic \u03B1 cells"
+  authors:
+  - Varun Bahl
+  - Reut Rifkind
+  - Eric Waite
+  - Zenab Hamdan
+  - Catherine Lee May
+  - Elisabetta Manduchi
+  - Benjamin F. Voight
+  - Michelle Y. Y. Lee
+  - Mark Tigue
+  - Nicholas Manuto
+  - Benjamin Glaser
+  - Dana Avrahami
+  - Klaus H. Kaestner
+  publisher: Science Translational Medicine
+  date: '2025-01-01'
+  link: https://doi.org/g8xr7j
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.09.24.614730
   title: Characterization of non-coding variants associated with transcription factor
     binding through ATAC-seq-defined footprint QTLs in liver
@@ -13176,8 +13199,8 @@
   - Pleiotropy
   - Collaborative
 - id: doi:10.1002/hep.23768
-  title: <i>PNPLA3</i>variants specifically confer increased risk for histologic nonalcoholic
-    fatty liver disease but not metabolic disease
+  title: "PNPLA3 Variants Specifically Confer Increased Risk for Histologic Nonalcoholic\
+    \ Fatty Liver Disease But Not Metabolic Disease\u2020,\u2021"
   authors:
   - Elizabeth K. Speliotes
   - Johannah L. Butler
@@ -13185,7 +13208,7 @@
   - Benjamin F. Voight
   - Joel N. Hirschhorn
   publisher: Hepatology
-  date: '2010-05-18'
+  date: '2010-09-01'
   link: https://doi.org/fchf5g
   orcid: 0000-0002-6205-9994
   plugin: sources.py
