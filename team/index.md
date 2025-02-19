@@ -12,7 +12,7 @@ redirect_from:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-I am fortunate to be blessed with a fantastic group of diverse group of trainees and computational scientists who I have bedazzled into chasing all of our myriad of interests!
+I am fortunate to be blessed with a fantastic group of computational scientists who I have bedazzled into chasing all of our myriad of interests!
 
 {% include section.html %}
 

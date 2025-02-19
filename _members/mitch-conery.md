@@ -4,7 +4,7 @@ name: Mitch Conery
 image: images/team/mitch-conery.png
 description: PhD Student (GCB)
 role: phd
-group: member
+group: alum
 aliases:
   - Mitch Conery
 links:
@@ -14,4 +14,6 @@ links:
  
 ---
 
-Mitch is a PhD student in the <a href="https://www.med.upenn.edu/gcb/">Genomic and Computational Biology (GCB)</a> program at Penn. He graduated from Yale University with a degree in economics and mathematics in 2014. He then worked for four years before pursuing post-baccalaureate studies and research at the University of Chicago. Mitch came to Penn in autumn 2020 and joined the Voight and Grant Labs in summer 2021. His research focuses on fine-mapping complex-disease GWAS variants and linking them to causal genes through bioinformatic and functional approaches.  
+Mitch was a PhD student in the <a href="https://www.med.upenn.edu/gcb/">Genomic and Computational Biology (GCB)</a> program at Penn. He graduated from Yale University with a degree in economics and mathematics in 2014. He then worked for four years before pursuing post-baccalaureate studies and research at the University of Chicago. Mitch came to Penn in autumn 2020 and joined the Voight and Grant Labs in summer 2021. His research focuses on fine-mapping complex-disease GWAS variants and linking them to causal genes through bioinformatic and functional approaches.
+
+Mitch defended successfully in Janurary 2025, with prospects for post-doctoral work in the Chicago area.
