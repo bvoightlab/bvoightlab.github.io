@@ -120,8 +120,8 @@
   - Philip S. Tsao
   - Michael G. Levin
   - Scott M. Damrauer
-  publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
-  date: '2024-05-01'
+  publisher: Arteriosclerosis, Thrombosis, &amp; Vascular Biology
+  date: '2024-03-28'
   link: https://doi.org/gtprpp
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
@@ -2156,8 +2156,8 @@
   - Wan-Ping Lee
   - Benjamin Voight
   - Li-San Wang
-  publisher: Journal of Alzheimer's Disease
-  date: '2022-08-30'
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2022-07-12'
   link: https://doi.org/gtcmw6
   orcid: 0000-0002-6205-9994
   plugin: sources.py
