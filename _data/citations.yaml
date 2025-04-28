@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21203/rs.3.rs-6456056/v1
+  title: A multi-trait genome-wide association study of coronary artery disease and
+    subclinical atherosclerosis traits
+  authors:
+  - Paul de Vries
+  - Natalie Hasbani
+  - Adam Heath
+  - Chani Hodonsky
+  - Julie Hahn
+  - Devendra Meena
+  - Haojie Lu
+  - Abbas Abbas Dehghan
+  - Maryam Kavousi
+  - Benjamin Voight
+  - Patricia Peyser
+  - Alanna Morrison
+  - Themistocles Assimes
+  - Scott Damrauer
+  - Clint Miller
+  publisher: Springer Science and Business Media LLC
+  date: '2025-04-21'
+  link: https://doi.org/g9gs99
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/scitranslmed.adi6148
   title: "G6PC2 controls glucagon secretion by defining the set point for glucose\
     \ in pancreatic \u03B1 cells"
