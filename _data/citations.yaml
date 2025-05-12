@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.athplu.2025.04.002
+  title: 'Association of dietary preferences with cardiovascular disease: a Mendelian
+    randomization study'
+  authors:
+  - Mia D. Lee
+  - Benjamin F. Voight
+  publisher: Atherosclerosis Plus
+  date: '2025-05-01'
+  link: https://doi.org/g9h5pc
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-6456056/v1
   title: A multi-trait genome-wide association study of coronary artery disease and
     subclinical atherosclerosis traits
