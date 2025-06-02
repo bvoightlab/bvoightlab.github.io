@@ -12,6 +12,20 @@
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.05.28.656604
+  title: Methylation-associated mutagenesis underlies variation in the mutation spectrum
+    across eukaryotes
+  authors:
+  - Fabian Ramos-Almodovar
+  - Ziyue Gao
+  - Benjamin F Voight
+  - Iain Mathieson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-30'
+  link: https://doi.org/g9mwh4
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.21203/rs.3.rs-6456056/v1
   title: A multi-trait genome-wide association study of coronary artery disease and
     subclinical atherosclerosis traits
