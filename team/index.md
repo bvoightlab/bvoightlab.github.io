@@ -57,7 +57,7 @@ Our former lab members who have moved on to new places and activities!
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work has been made possible by funding from several organizations over the years.
 
 {% capture content %}
 
