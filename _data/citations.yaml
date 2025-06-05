@@ -1,5 +1,56 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.athplu.2025.04.002
+  title: 'Association of dietary preferences with cardiovascular disease: a Mendelian
+    randomization study'
+  authors:
+  - Mia D. Lee
+  - Benjamin F. Voight
+  publisher: Atherosclerosis Plus
+  date: '2025-05-01'
+  link: https://doi.org/g9h5pc
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.05.28.656604
+  title: Methylation-associated mutagenesis underlies variation in the mutation spectrum
+    across eukaryotes
+  authors:
+  - Fabian Ramos-Almodovar
+  - Ziyue Gao
+  - Benjamin F Voight
+  - Iain Mathieson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-30'
+  link: https://doi.org/g9mwh4
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-6456056/v1
+  title: A multi-trait genome-wide association study of coronary artery disease and
+    subclinical atherosclerosis traits
+  authors:
+  - Paul de Vries
+  - Natalie Hasbani
+  - Adam Heath
+  - Chani Hodonsky
+  - Julie Hahn
+  - Devendra Meena
+  - Haojie Lu
+  - Abbas Abbas Dehghan
+  - Maryam Kavousi
+  - Benjamin Voight
+  - Patricia Peyser
+  - Alanna Morrison
+  - Themistocles Assimes
+  - Scott Damrauer
+  - Clint Miller
+  publisher: Springer Science and Business Media LLC
+  date: '2025-04-21'
+  link: https://doi.org/g9gs99
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/scitranslmed.adi6148
   title: "G6PC2 controls glucagon secretion by defining the set point for glucose\
     \ in pancreatic \u03B1 cells"
@@ -120,8 +171,8 @@
   - Philip S. Tsao
   - Michael G. Levin
   - Scott M. Damrauer
-  publisher: Arteriosclerosis, Thrombosis, and Vascular Biology
-  date: '2024-05-01'
+  publisher: Arteriosclerosis, Thrombosis, &amp; Vascular Biology
+  date: '2024-03-28'
   link: https://doi.org/gtprpp
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
@@ -2156,8 +2207,8 @@
   - Wan-Ping Lee
   - Benjamin Voight
   - Li-San Wang
-  publisher: Journal of Alzheimer's Disease
-  date: '2022-08-30'
+  publisher: "Journal of Alzheimer\u2019s Disease"
+  date: '2022-07-12'
   link: https://doi.org/gtcmw6
   orcid: 0000-0002-6205-9994
   plugin: sources.py
