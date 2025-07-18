@@ -1,7 +1,7 @@
 ---
 name: Ben Voight
 image: images/team/ben-voight.jpg
-description: Associate Professor
+description: Professor
 role: pi
 group: member
 aliases:
