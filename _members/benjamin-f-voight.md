@@ -1,7 +1,7 @@
 ---
 name: Ben Voight
 image: images/team/ben-voight.jpg
-description: Associate Professor
+description: Professor
 role: pi
 group: member
 aliases:
@@ -11,7 +11,7 @@ aliases:
   - BF Voight
 links:
   orcid: 0000-0002-6205-9994
-  email: bvoight28@gmail.com
+  email: bvoight@upenn.edu
   twitter: bvoight28
   google-scholar: FexB61cAAAAJ
   cv: cv/CV_BFV_Current.pdf

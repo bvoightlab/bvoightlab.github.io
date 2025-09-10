@@ -4,7 +4,7 @@ name: Mia Lee
 image: images/team/mia-lee.jpg
 description: PhD Student (PGG)
 role: phd
-group: member
+group: alum
 aliases:
   - Mia Lee
 links:
