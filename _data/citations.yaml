@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.09.15.25335593
+  title: Expanded Chromatin Accessibility Mapping Explains Genetic Variation Associated
+    with Complex Traits in Liver
+  authors:
+  - Brandon M. Wenz
+  - Max F. Dudek
+  - Shweta Ramdas
+  - Kate Townsend Creasy
+  - Dong Xin
+  - Kim M. Olthoff
+  - Abraham Shaked
+  - Daniel J. Rader
+  - Christopher D. Brown
+  - Benjamin F. Voight
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-15'
+  link: https://doi.org/g939qb
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00125-025-06516-1
   title: "Race, ethnicity and ancestry in global diabetes research: grappling with\
     \ complexity to advance equity and scientific integrity \u2013 a narrative review\
