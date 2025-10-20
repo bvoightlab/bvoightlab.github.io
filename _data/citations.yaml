@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s00125-025-06516-1
+  title: "Race, ethnicity and ancestry in global diabetes research: grappling with\
+    \ complexity to advance equity and scientific integrity \u2013 a narrative review\
+    \ and viewpoint"
+  authors:
+  - Nish Chaturvedi
+  - Benjamin F. Voight
+  - Jonathan C. Wells
+  - Cheryl Pritlove
+  publisher: Diabetologia
+  date: '2025-08-07'
+  link: https://doi.org/g9wpps
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-025-64765-5
   title: 'Author Correction: Cross-population GWAS and proteomics improve risk prediction
     and reveal mechanisms in atrial fibrillation'
@@ -44,21 +59,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-09-15'
   link: https://doi.org/g939qb
-  orcid: 0000-0002-6205-9994
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00125-025-06516-1
-  title: "Race, ethnicity and ancestry in global diabetes research: grappling with\
-    \ complexity to advance equity and scientific integrity \u2013 a narrative review\
-    \ and viewpoint"
-  authors:
-  - Nish Chaturvedi
-  - Benjamin F. Voight
-  - Jonathan C. Wells
-  - Cheryl Pritlove
-  publisher: Diabetologia
-  date: '2025-08-07'
-  link: https://doi.org/g9wpps
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
   file: orcid.yaml
