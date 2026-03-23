@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.03.19.712994
+  title: A meta-analysis of chromatin-associated loci provides insights into mechanistic
+    interpretations of trait heritability
+  authors:
+  - Max F Dudek
+  - Brandon M. Wenz
+  - Benjamin F. Voight
+  - Laura Almasy
+  - Struan F.A. Grant
+  publisher: openRxiv
+  date: '2026-03-20'
+  link: https://doi.org/hbtf6s
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1073/pnas.2516368123
   title: Methylation-associated mutagenesis underlies variation in the mutation spectrum
     across eukaryotes
@@ -11,6 +26,23 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2026-03-13'
   link: https://doi.org/hbspr6
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.03.13.711667
+  title: Tonsillar expression quantitative trait loci verify and expand genetic contributors
+    to childhood atopic diseases
+  authors:
+  - Kim Lorenz
+  - Samuel Yoon
+  - Carole Le Coz
+  - Karen Zur
+  - Andrew Wells
+  - Neil Romberg
+  - Benjamin F. Voight
+  publisher: openRxiv
+  date: '2026-03-17'
+  link: https://doi.org/hbtf6t
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
   file: orcid.yaml
