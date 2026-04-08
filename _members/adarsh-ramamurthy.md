@@ -3,7 +3,7 @@
 name: Adarsh Ramamurthy
 image: images/team/adarsh-ramamurthy.jpg
 role: undergrad
-group: membner
+group: member
 aliases:
   - Adarsh Ramamurthy
 links:
