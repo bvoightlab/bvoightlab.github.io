@@ -11,12 +11,10 @@ nav:
 
 The Voight Lab welcomes applications for computational postdoctoral positions at the University of Pennsylvania. We have a range of human genetics data sets, populations genetics problems, and numerous opportunities for computationally-minded post-docs to sink their teeth into. See specific postings here:
 
-We have multiple openings available for post-doc applications in human genomics problems.
+We have multiple openings available for post-doc applications around human genomics projects and problems.
 
-[Computational Post-doc: Human Complex Trait Genomics](posts/PostDoc08_job_posting.pdf)
+[Computational Post-doc: Human Complex Trait Genomics](posts/PostDoc18_job_posting.pdf)
 
-
-[Computational Post-doc: Population Genomics](posts/PostDoc07_job_posting.pdf)
 
 ### PhD Graduate Students
 
