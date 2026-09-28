@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.09.15.751759
+  title: 'ARCHER-LD: Rapid Long-Range Linkage Disequilibrium Calculations at Biobank
+    Scale using GPU Acceleration'
+  authors:
+  - Rachit Kumar
+  - Pankhuri Singhal
+  - David Zhang
+  - Christopher Carson
+  - Mitchell Conery
+  - Alex Rodriguez
+  - Tarak Nath Nandi
+  - Marylyn D. Ritchie
+  - Mathialakan Thavappiragasam
+  - Benjamin F. Voight
+  - Ravi K. Madduri
+  - Anurag Verma
+  publisher: openRxiv
+  date: '2026-09-21'
+  link: https://doi.org/hckq4g
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.03.19.712994
   title: A meta-analysis of chromatin-associated loci provides insights into mechanistic
     interpretations of trait heritability
@@ -263,6 +285,87 @@
   publisher: openRxiv
   date: '2024-09-05'
   link: https://doi.org/gvdqc7
+  orcid: 0000-0002-6205-9994
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.adj1182
+  title: 'Diversity and scale: Genetic architecture of 2068 traits in the VA Million
+    Veteran Program'
+  authors:
+  - Anurag Verma
+  - Jennifer E. Huffman
+  - Alex Rodriguez
+  - Mitchell Conery
+  - Molei Liu
+  - Yuk-Lam Ho
+  - Youngdae Kim
+  - David A. Heise
+  - Lindsay Guare
+  - Vidul Ayakulangara Panickan
+  - Helene Garcon
+  - Franciel Linares
+  - Lauren Costa
+  - Ian Goethert
+  - Ryan Tipton
+  - Jacqueline Honerlaw
+  - Laura Davies
+  - Stacey Whitbourne
+  - Jeremy Cohen
+  - Daniel C. Posner
+  - Rahul Sangar
+  - Michael Murray
+  - Xuan Wang
+  - Daniel R. Dochtermann
+  - Poornima Devineni
+  - Yunling Shi
+  - Tarak Nath Nandi
+  - Themistocles L. Assimes
+  - Charles A. Brunette
+  - Robert J. Carroll
+  - Royce Clifford
+  - Scott Duvall
+  - Joel Gelernter
+  - Adriana Hung
+  - Sudha K. Iyengar
+  - Jacob Joseph
+  - Rachel Kember
+  - Henry Kranzler
+  - Colleen M. Kripke
+  - Daniel Levey
+  - Shiuh-Wen Luoh
+  - Victoria C. Merritt
+  - Cassie Overstreet
+  - Joseph D. Deak
+  - Struan F. A. Grant
+  - Renato Polimanti
+  - Panos Roussos
+  - Gabrielle Shakt
+  - Yan V. Sun
+  - Noah Tsao
+  - Sanan Venkatesh
+  - Georgios Voloudakis
+  - Amy Justice
+  - Edmon Begoli
+  - Rachel Ramoni
+  - Georgia Tourassi
+  - Saiju Pyarajan
+  - Philip Tsao
+  - Christopher J. O'Donnell
+  - Sumitra Muralidhar
+  - Jennifer Moser
+  - Juan P. Casas
+  - Alexander G. Bick
+  - Wei Zhou
+  - Tianxi Cai
+  - Benjamin F. Voight
+  - Kelly Cho
+  - J. Michael Gaziano
+  - Ravi K. Madduri
+  - Scott Damrauer
+  - Katherine P. Liao
+  publisher: Science
+  date: '2024-07-19'
+  link: https://doi.org/gt7brg
   orcid: 0000-0002-6205-9994
   plugin: orcid.py
   file: orcid.yaml
@@ -10406,8 +10509,8 @@
   - Pleiotropy
   - Methods Development
 - id: doi:10.1161/CIRCGENETICS.110.958728
-  title: "A Genome-Wide Association Study Identifies\n            <i>LIPA</i>\n  \
-    \          as a Susceptibility Gene for Coronary Artery Disease"
+  title: "A Genome-Wide Association Study Identifies\n                    <i>LIPA</i>\n\
+    \                    as a Susceptibility Gene for Coronary Artery Disease"
   authors:
   - Philipp S. Wild
   - Tanja Zeller
