@@ -1,4 +1,3 @@
-
 # bvoightlab's Website
 
 Visit **[voightlab.com](http://voightlab.com)** 🚀

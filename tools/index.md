@@ -40,7 +40,7 @@ Software Available:
 {% include section.html %}
 
 ## Featured
-{% include list.html component="card" data="projects" filters="group: methods" flip=true %}
+{% include list.html component="card" data="projects" filter="group == 'methods'" flip=true %}
 
 ## Legacy
-{% include list.html component="card" data="projects" filters="group: legacy" flip=true %}
+{% include list.html component="card" data="projects" filter="group == 'legacy'" flip=true %}

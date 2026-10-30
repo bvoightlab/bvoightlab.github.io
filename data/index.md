@@ -17,6 +17,6 @@ Mostly we house these as zenodo.org, but in the future, may take advantage of ne
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filters="group: datasets" %}
+{% include list.html component="card" data="projects" filter="group == 'datasets'" %}
 
 

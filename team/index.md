@@ -16,15 +16,15 @@ I am fortunate to be blessed with a fantastic group of computational scientists 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: technician, group: member" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: masters, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: post-bac, group: member" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: member" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'bioinformatician' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'technician' and group == 'member'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'masters' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'post-bacc' and group == 'member'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'member'" %}
 
 {% include section.html background="images/background.jpg" dark=true%}
 
@@ -44,14 +44,14 @@ We are  always on the lookout for new souls, hungry to develop their computation
 
 Our former lab members who have moved on to new places and activities!  
 
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: bioinformatician, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: technician, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: masters, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: post-bacc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'bioinformatician' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'technician' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'masters' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'post-bacc' and group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group == 'alum'" style="small" %}
 
 {% include section.html %}
 
