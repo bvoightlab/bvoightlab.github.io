@@ -1,5 +1,5 @@
 # start with official ruby docker image as base
-FROM ruby:3.1-bookworm
+FROM ruby:3.4-bookworm
 
 # set working directory within container
 WORKDIR /usr/src/app
