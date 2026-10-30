@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Brian Chen | Voight Lab</title>
@@ -49,13 +53,13 @@
 <meta property="og:title" content="Brian Chen">
 <meta property="og:site_title" content="Voight Lab">
 <meta property="og:description" content="Univeresity of Pennsylvania. Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.">
-<meta property="og:url" content="">
+<meta property="og:url" content="http://voightlab.com">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Brian Chen">
 <meta property="twitter:description" content="Univeresity of Pennsylvania. Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="http://voightlab.com">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -76,11 +80,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.jpg" }
     },
-    "url": ""
+    "url": "http://voightlab.com"
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="http://voightlab.com/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -300,6 +308,8 @@
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
+
+  <script src="/_scripts/table-wrap.js"></script>
 
   <script src="/_scripts/tooltip.js"></script>
 
@@ -471,12 +481,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Voight Lab</span>
+          <span class="title">Voight Lab</span>
         
         
-          <span>Univeresity of Pennsylvania</span>
+          <span class="subtitle">Univeresity of Pennsylvania</span>
         
       </span>
     
@@ -543,11 +553,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -563,24 +570,24 @@
   
 <div class="portrait-wrapper">
   <a class="portrait" data-style="" aria-label="Brian Chen">
+    
+      <i class="icon fa-solid fa-user-graduate"></i>
+    
+
     <img src="/images/team/brian-chen.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
 
     
-      <span class="portrait-text">
-        
-          <span class="portrait-name">
-            Brian Chen
-          </span>
-        
-
-        
-          <span class="portrait-role">
-            
-            <i class="icon fa-solid fa-user-graduate"></i>
-            <span>Undergraduate Student</span>
-          </span>
-        
+      <span class="portrait-name">
+        Brian Chen
       </span>
+    
+
+    
+      <span class="portrait-description">
+        Undergraduate Student
+      </span>
+    
+
     
   </a>
 </div>

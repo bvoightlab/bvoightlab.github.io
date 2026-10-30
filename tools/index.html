@@ -37,6 +37,10 @@
 
 
 
+
+
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>Tools | Voight Lab</title>
@@ -49,13 +53,13 @@
 <meta property="og:title" content="Tools">
 <meta property="og:site_title" content="Voight Lab">
 <meta property="og:description" content="Univeresity of Pennsylvania. Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.">
-<meta property="og:url" content="">
+<meta property="og:url" content="http://voightlab.com">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Tools">
 <meta property="twitter:description" content="Univeresity of Pennsylvania. Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.">
-<meta property="twitter:url" content="">
+<meta property="twitter:url" content="http://voightlab.com">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/images/share.jpg">
 
@@ -76,11 +80,11 @@
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.jpg" }
     },
-    "url": ""
+    "url": "http://voightlab.com"
   }
 </script>
 
-<link rel="alternate" type="application/rss+xml" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" href="http://voightlab.com/feed.xml">
 
   <!-- Google Fonts -->
 <!-- automatically get url from fonts used in theme file -->
@@ -90,9 +94,9 @@
 
 <!-- Font Awesome icons (load asynchronously due to size) -->
 
-<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet" media="none" onload="this.removeAttribute('media'); this.onload = null;">
 <noscript>
-  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+  <link href="https://use.fontawesome.com/releases/v6.7.0/css/all.css" rel="stylesheet">
 </noscript>
 
   <!-- third party styles -->
@@ -156,6 +160,10 @@
 
   
     <link href="/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/_styles/details.css" rel="stylesheet">
   
 
   
@@ -330,6 +338,8 @@
 
   
 
+  
+
 
 <!-- include all css in styles folder -->
 
@@ -352,6 +362,8 @@
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
+
+  <script src="/_scripts/table-wrap.js"></script>
 
   <script src="/_scripts/tooltip.js"></script>
 
@@ -523,12 +535,12 @@
       </span>
     
     
-      <span class="title" data-tooltip="Home">
+      <span class="title-text" data-tooltip="Home">
         
-          <span>Voight Lab</span>
+          <span class="title">Voight Lab</span>
         
         
-          <span>Univeresity of Pennsylvania</span>
+          <span class="subtitle">Univeresity of Pennsylvania</span>
         
       </span>
     
@@ -595,11 +607,8 @@
   modify main content of page:
   - add section breaks
   - attach section properties
-  - wrap each table in div to allow for scrolling
   - filter out blank sections
 -->
-
-
 
 
 
@@ -623,67 +632,67 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p>Methodolgy Discipline Area:</p>
 
-<div class="tags" data-link="/tools">
+<div class="tags">
     
-      <a href="/tools?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools?search=%22tag:%20Mendelian%20Randomization%22" class="tag" data-tooltip='Show items with the tag "Mendelian Randomization"'>
-        Mendelian Randomization
+      <a href='/tools?search="tag:%20mendelian-randomization"' class="tag" data-tooltip='Show items with the tag "mendelian-randomization"'>
+        mendelian-randomization
       </a>
     
   </div>
 
 <p>Population Genetics Focus:</p>
 
-<div class="tags" data-link="/tools">
+<div class="tags">
     
-      <a href="/tools?search=%22tag:%20Selection%22" class="tag" data-tooltip='Show items with the tag "Selection"'>
-        Selection
+      <a href='/tools?search="tag:%20selection"' class="tag" data-tooltip='Show items with the tag "selection"'>
+        selection
       </a>
     
-      <a href="/tools?search=%22tag:%20Mutation%20Rate%22" class="tag" data-tooltip='Show items with the tag "Mutation Rate"'>
-        Mutation Rate
+      <a href='/tools?search="tag:%20mutation-rate"' class="tag" data-tooltip='Show items with the tag "mutation-rate"'>
+        mutation-rate
       </a>
     
   </div>
 
 <p>Approaches:</p>
 
-<div class="tags" data-link="/tools">
+<div class="tags">
     
-      <a href="/tools?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools?search=%22tag:%20AI/ML%22" class="tag" data-tooltip='Show items with the tag "AI/ML"'>
-        AI/ML
+      <a href='/tools?search="tag:%20ai/ml"' class="tag" data-tooltip='Show items with the tag "ai/ml"'>
+        ai/ml
       </a>
     
-      <a href="/tools?search=%22tag:%20Automation%22" class="tag" data-tooltip='Show items with the tag "Automation"'>
-        Automation
+      <a href='/tools?search="tag:%20automation"' class="tag" data-tooltip='Show items with the tag "automation"'>
+        automation
       </a>
     
   </div>
 
 <p>Software Available:</p>
 
-<div class="tags" data-link="/tools">
+<div class="tags">
     
-      <a href="/tools?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -704,9 +713,9 @@
 
   <section class="background" data-size="page">
     <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="featured">Featured</h2>
@@ -726,34 +735,36 @@
     
 
     
-      <p>Implementation of a Markov Chain Monte Carlo procedure to estimate hierarchical tree-based sequence context models from variation data sets (polymorphism, substitutions, somatic, <em>de novo</em>, etc.). Introduced by Adams et al (2023).</p>
+      <p>
+        Implementation of a Markov Chain Monte Carlo procedure to estimate hierarchical tree-based sequence context models from variation data sets (polymorphism, substitutions, somatic, <em>de novo</em>, etc.). Introduced by Adams et al (2023).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools/?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mutation%20Rate%22" class="tag" data-tooltip='Show items with the tag "Mutation Rate"'>
-        Mutation Rate
+      <a href='/tools/?search="tag:%20mutation-rate"' class="tag" data-tooltip='Show items with the tag "mutation-rate"'>
+        mutation-rate
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -778,30 +789,32 @@
     
 
     
-      <p>An automated pipeline to parallelize colocalization analyses via COLOC between GWAS and QTL data sets. Described in Chen and Bone et al (2022).</p>
+      <p>
+        An automated pipeline to parallelize colocalization analyses via COLOC between GWAS and QTL data sets. Described in Chen and Bone et al (2022).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Automation%22" class="tag" data-tooltip='Show items with the tag "Automation"'>
-        Automation
+      <a href='/tools/?search="tag:%20automation"' class="tag" data-tooltip='Show items with the tag "automation"'>
+        automation
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -826,34 +839,36 @@
     
 
     
-      <p>The <em>Intgrated Haplotype Score</em> - A method to detect signals of extended haplotype homozygosity in genomic regions consistent with the action of recent, ongoing selective sweeps using population level data. Introduced in Voight and Kudaravalli et al (2006), adjustments for local, low recombination rates were presented Johnson and Voight (2018).</p>
+      <p>
+        The <em>Intgrated Haplotype Score</em> - A method to detect signals of extended haplotype homozygosity in genomic regions consistent with the action of recent, ongoing selective sweeps using population level data. Introduced in Voight and Kudaravalli et al (2006), adjustments for local, low recombination rates were presented Johnson and Voight (2018).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools/?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools/?search=%22tag:%20Selection%22" class="tag" data-tooltip='Show items with the tag "Selection"'>
-        Selection
+      <a href='/tools/?search="tag:%20selection"' class="tag" data-tooltip='Show items with the tag "selection"'>
+        selection
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -878,34 +893,36 @@
     
 
     
-      <p>A method to detect signals of an excess number of polymorphisms at near identifical frequency in very close physical proximity, consistent with the action of long-term balancing selection. Introduced in Siewert and Voight (2017), estimates of substitution rates were subsequently incorporated by Siewert and Voight (2020) as the β(2) statistic.</p>
+      <p>
+        A method to detect signals of an excess number of polymorphisms at near identifical frequency in very close physical proximity, consistent with the action of long-term balancing selection. Introduced in Siewert and Voight (2017), estimates of substitution rates were subsequently incorporated by Siewert and Voight (2020) as the β(2) statistic.
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools/?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools/?search=%22tag:%20Selection%22" class="tag" data-tooltip='Show items with the tag "Selection"'>
-        Selection
+      <a href='/tools/?search="tag:%20selection"' class="tag" data-tooltip='Show items with the tag "selection"'>
+        selection
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -930,34 +947,36 @@
     
 
     
-      <p><u>EV</u>aluating <u>I</u>BD <u>C</u>onsistency via <u>O</u>bligate <u>R</u>ecombination <u>D</u>istance - A method designed to detect the rare variants whose alleles are not mutually shared identically by decent, i.e., are IBD-inconsistent which can result from recurrent mutation, gene conversion, or genotype error. This method performs the Gibbs sampler for the Bayesian hierarchical model described by Johnson et al (2022).</p>
+      <p>
+        <u>EV</u>aluating <u>I</u>BD <u>C</u>onsistency via <u>O</u>bligate <u>R</u>ecombination <u>D</u>istance - A method designed to detect the rare variants whose alleles are not mutually shared identically by decent, i.e., are IBD-inconsistent which can result from recurrent mutation, gene conversion, or genotype error. This method performs the Gibbs sampler for the Bayesian hierarchical model described by Johnson et al (2022).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools/?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mutation%20Rate%22" class="tag" data-tooltip='Show items with the tag "Mutation Rate"'>
-        Mutation Rate
+      <a href='/tools/?search="tag:%20mutation-rate"' class="tag" data-tooltip='Show items with the tag "mutation-rate"'>
+        mutation-rate
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -982,34 +1001,36 @@
     
 
     
-      <p>This method is designed, under a simple model, to estimate the effect size of an unknown causal risk factor impacting a collection of SNPs and an outcome trait. Described in Ding et al (2022).</p>
+      <p>
+        This method is designed, under a simple model, to estimate the effect size of an unknown causal risk factor impacting a collection of SNPs and an outcome trait. Described in Ding et al (2022).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Pleiotropy%22" class="tag" data-tooltip='Show items with the tag "Pleiotropy"'>
-        Pleiotropy
+      <a href='/tools/?search="tag:%20pleiotropy"' class="tag" data-tooltip='Show items with the tag "pleiotropy"'>
+        pleiotropy
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mendelian%20Randomization%22" class="tag" data-tooltip='Show items with the tag "Mendelian Randomization"'>
-        Mendelian Randomization
+      <a href='/tools/?search="tag:%20mendelian-randomization"' class="tag" data-tooltip='Show items with the tag "mendelian-randomization"'>
+        mendelian-randomization
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -1034,34 +1055,36 @@
     
 
     
-      <p>Cross Phenotype Meta-Analysis. Combines p-values across multiple tests into a single test if the distribution of observed p-values are uniformly distributed. Described in Cotsapas et al (2011).</p>
+      <p>
+        Cross Phenotype Meta-Analysis. Combines p-values across multiple tests into a single test if the distribution of observed p-values are uniformly distributed. Described in Cotsapas et al (2011).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Pleiotropy%22" class="tag" data-tooltip='Show items with the tag "Pleiotropy"'>
-        Pleiotropy
+      <a href='/tools/?search="tag:%20pleiotropy"' class="tag" data-tooltip='Show items with the tag "pleiotropy"'>
+        pleiotropy
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -1072,8 +1095,8 @@
 </div>
 
 <div class="card" data-style="">
-  <a href="https://github.com/bvoightlab/mr_predictor" aria-label="mr_predictor" class="card-image">
-    <img src="/images/tools/mr-predictor.jpg" alt="mr_predictor" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://github.com/bvoightlab/mr_predictor" aria-label="mr predictor" class="card-image">
+    <img src="/images/tools/mr-predictor.jpg" alt="mr predictor" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
@@ -1086,34 +1109,36 @@
     
 
     
-      <p>Software designed to simulate causal genetic phenotype models for use with Mendelian randomization studies. Described in Voight (2014).</p>
+      <p>
+        Software designed to simulate causal genetic phenotype models for use with Mendelian randomization studies. Described in Voight (2014).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Pleiotropy%22" class="tag" data-tooltip='Show items with the tag "Pleiotropy"'>
-        Pleiotropy
+      <a href='/tools/?search="tag:%20pleiotropy"' class="tag" data-tooltip='Show items with the tag "pleiotropy"'>
+        pleiotropy
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mendelian%20Randomization%22" class="tag" data-tooltip='Show items with the tag "Mendelian Randomization"'>
-        Mendelian Randomization
+      <a href='/tools/?search="tag:%20mendelian-randomization"' class="tag" data-tooltip='Show items with the tag "mendelian-randomization"'>
+        mendelian-randomization
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>
@@ -1124,8 +1149,8 @@
 </div>
 
 <div class="card" data-style="">
-  <a href="https://pubmed.ncbi.nlm.nih.gov/28193182/" aria-label="Assessment of &lt;em&gt;de novo&lt;/em&gt; mutational burden via sequence context models" class="card-image">
-    <img src="/images/tools/aggarwala-denovo.png" alt="Assessment of &lt;em&gt;de novo&lt;/em&gt; mutational burden via sequence context models" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/28193182/" aria-label="Assessment of em de novo em mutational burden via sequence context models" class="card-image">
+    <img src="/images/tools/aggarwala-denovo.png" alt="Assessment of em de novo em mutational burden via sequence context models" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
 
   <div class="card-text">
@@ -1138,30 +1163,32 @@
     
 
     
-      <p>A generalized algorithm to grade the significance of <em>de novo</em> mutational burden in disease probands within a gene based on mutation rate models informed by sequence context. Described in Aggarwala et al (2017).</p>
+      <p>
+        A generalized algorithm to grade the significance of <em>de novo</em> mutational burden in disease probands within a gene based on mutation rate models informed by sequence context. Described in Aggarwala et al (2017).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mutation%20Rate%22" class="tag" data-tooltip='Show items with the tag "Mutation Rate"'>
-        Mutation Rate
+      <a href='/tools/?search="tag:%20mutation-rate"' class="tag" data-tooltip='Show items with the tag "mutation-rate"'>
+        mutation-rate
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
   </div>
@@ -1186,30 +1213,32 @@
     
 
     
-      <p>Presented a statistical framework to evaluate the goodness of fit of competing nested sequence context models. Described in Aggarwala and Voight (2016).</p>
+      <p>
+        Presented a statistical framework to evaluate the goodness of fit of competing nested sequence context models. Described in Aggarwala and Voight (2016).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Pop%20Gen%22" class="tag" data-tooltip='Show items with the tag "Pop Gen"'>
-        Pop Gen
+      <a href='/tools/?search="tag:%20pop-gen"' class="tag" data-tooltip='Show items with the tag "pop-gen"'>
+        pop-gen
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mutation%20Rate%22" class="tag" data-tooltip='Show items with the tag "Mutation Rate"'>
-        Mutation Rate
+      <a href='/tools/?search="tag:%20mutation-rate"' class="tag" data-tooltip='Show items with the tag "mutation-rate"'>
+        mutation-rate
       </a>
     
-      <a href="/tools/?search=%22tag:%20Statistics%22" class="tag" data-tooltip='Show items with the tag "Statistics"'>
-        Statistics
+      <a href='/tools/?search="tag:%20statistics"' class="tag" data-tooltip='Show items with the tag "statistics"'>
+        statistics
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
   </div>
@@ -1236,38 +1265,40 @@
     
 
     
-      <p>Python tool designed to automate the curation of genetic variants selected from the NHGRI GWAS catalog, filtering steps, and causal effect calcualtion for MR. Described in Yin and Voight (2015).</p>
+      <p>
+        Python tool designed to automate the curation of genetic variants selected from the NHGRI GWAS catalog, filtering steps, and causal effect calcualtion for MR. Described in Yin and Voight (2015).
 
+      </p>
     
 
     
       
 
 
-  <div class="tags" data-link="/tools/">
+  <div class="tags">
     
-      <a href="/tools/?search=%22tag:%20Complex%20Traits%22" class="tag" data-tooltip='Show items with the tag "Complex Traits"'>
-        Complex Traits
+      <a href='/tools/?search="tag:%20complex-traits"' class="tag" data-tooltip='Show items with the tag "complex-traits"'>
+        complex-traits
       </a>
     
-      <a href="/tools/?search=%22tag:%20Pleiotropy%22" class="tag" data-tooltip='Show items with the tag "Pleiotropy"'>
-        Pleiotropy
+      <a href='/tools/?search="tag:%20pleiotropy"' class="tag" data-tooltip='Show items with the tag "pleiotropy"'>
+        pleiotropy
       </a>
     
-      <a href="/tools/?search=%22tag:%20Mendelian%20Randomization%22" class="tag" data-tooltip='Show items with the tag "Mendelian Randomization"'>
-        Mendelian Randomization
+      <a href='/tools/?search="tag:%20mendelian-randomization"' class="tag" data-tooltip='Show items with the tag "mendelian-randomization"'>
+        mendelian-randomization
       </a>
     
-      <a href="/tools/?search=%22tag:%20Automation%22" class="tag" data-tooltip='Show items with the tag "Automation"'>
-        Automation
+      <a href='/tools/?search="tag:%20automation"' class="tag" data-tooltip='Show items with the tag "automation"'>
+        automation
       </a>
     
-      <a href="/tools/?search=%22tag:%20Publication%22" class="tag" data-tooltip='Show items with the tag "Publication"'>
-        Publication
+      <a href='/tools/?search="tag:%20publication"' class="tag" data-tooltip='Show items with the tag "publication"'>
+        publication
       </a>
     
-      <a href="/tools/?search=%22tag:%20Software%22" class="tag" data-tooltip='Show items with the tag "Software"'>
-        Software
+      <a href='/tools/?search="tag:%20software"' class="tag" data-tooltip='Show items with the tag "software"'>
+        software
       </a>
     
   </div>

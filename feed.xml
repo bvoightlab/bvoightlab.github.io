@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2026-10-19T13:31:55+00:00</updated><id>/feed.xml</id><title type="html">Voight Lab</title><subtitle>Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.</subtitle><entry><title type="html">Consortium-Level Activties</title><link href="/2024/01/11/Consortia.html" rel="alternate" type="text/html" title="Consortium-Level Activties" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-19T13:31:13+00:00</updated><id>/2024/01/11/Consortia</id><content type="html" xml:base="/2024/01/11/Consortia.html"><![CDATA[<div class="button-wrapper">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://voightlab.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://voightlab.com/" rel="alternate" type="text/html" /><updated>2026-10-30T22:20:36+00:00</updated><id>http://voightlab.com/feed.xml</id><title type="html">Voight Lab</title><subtitle>Human Statistical Genetics and Population Genetics Lab at the University of Pennsylvania.</subtitle><entry><title type="html">Consortium-Level Activties</title><link href="http://voightlab.com/2024/01/11/Consortia.html" rel="alternate" type="text/html" title="Consortium-Level Activties" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-30T22:19:33+00:00</updated><id>http://voightlab.com/2024/01/11/Consortia</id><content type="html" xml:base="http://voightlab.com/2024/01/11/Consortia.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -7,31 +7,31 @@
     </a>
   </div>
 
-<div class="tags" data-link="/publications">
+<div class="tags">
     
-      <a href="/publications?search=&quot;tag: PanKbase&quot;" class="tag" data-tooltip="Show items with the tag &quot;PanKbase&quot;">
-        PanKbase
+      <a href="/publications?search=&quot;tag: pankbase&quot;" class="tag" data-tooltip="Show items with the tag &quot;pankbase&quot;">
+        pankbase
       </a>
     
-      <a href="/publications?search=&quot;tag: T2D-GGI&quot;" class="tag" data-tooltip="Show items with the tag &quot;T2D-GGI&quot;">
-        T2D-GGI
+      <a href="/publications?search=&quot;tag: t2d-ggi&quot;" class="tag" data-tooltip="Show items with the tag &quot;t2d-ggi&quot;">
+        t2d-ggi
       </a>
     
-      <a href="/publications?search=&quot;tag: T2D-AMP-CMD&quot;" class="tag" data-tooltip="Show items with the tag &quot;T2D-AMP-CMD&quot;">
-        T2D-AMP-CMD
+      <a href="/publications?search=&quot;tag: t2d-amp-cmd&quot;" class="tag" data-tooltip="Show items with the tag &quot;t2d-amp-cmd&quot;">
+        t2d-amp-cmd
       </a>
     
-      <a href="/publications?search=&quot;tag: MVP&quot;" class="tag" data-tooltip="Show items with the tag &quot;MVP&quot;">
-        MVP
+      <a href="/publications?search=&quot;tag: mvp&quot;" class="tag" data-tooltip="Show items with the tag &quot;mvp&quot;">
+        mvp
       </a>
     
   </div>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="button-wrapper">
@@ -72,9 +72,9 @@
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="T2D-GGI"></a></p>
@@ -93,9 +93,9 @@
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="MVP"></a></p>
@@ -114,9 +114,9 @@
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="T2D-AMP-CMD"></a></p>
@@ -136,9 +136,9 @@ points’ for developing new treatments. My efforts in this consortium lead on g
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="PanKbase"></a></p>
@@ -153,7 +153,7 @@ points’ for developing new treatments. My efforts in this consortium lead on g
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: PanKbase T2D-GGI T2D-AMP-CMD MVP]]></summary></entry><entry><title type="html">Aspirational Projects</title><link href="/2024/01/11/Projects-Aspirational.html" rel="alternate" type="text/html" title="Aspirational Projects" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-19T13:31:13+00:00</updated><id>/2024/01/11/Projects-Aspirational</id><content type="html" xml:base="/2024/01/11/Projects-Aspirational.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: pankbase t2d-ggi t2d-amp-cmd mvp]]></summary></entry><entry><title type="html">Aspirational Projects</title><link href="http://voightlab.com/2024/01/11/Projects-Aspirational.html" rel="alternate" type="text/html" title="Aspirational Projects" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-30T22:19:33+00:00</updated><id>http://voightlab.com/2024/01/11/Projects-Aspirational</id><content type="html" xml:base="http://voightlab.com/2024/01/11/Projects-Aspirational.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -162,23 +162,23 @@ points’ for developing new treatments. My efforts in this consortium lead on g
     </a>
   </div>
 
-<div class="tags" data-link="/publications">
+<div class="tags">
     
-      <a href="/publications?search=&quot;tag: Spiders&quot;" class="tag" data-tooltip="Show items with the tag &quot;Spiders&quot;">
-        Spiders
+      <a href="/publications?search=&quot;tag: spiders&quot;" class="tag" data-tooltip="Show items with the tag &quot;spiders&quot;">
+        spiders
       </a>
     
-      <a href="/publications?search=&quot;tag: Docking&quot;" class="tag" data-tooltip="Show items with the tag &quot;Docking&quot;">
-        Docking
+      <a href="/publications?search=&quot;tag: docking&quot;" class="tag" data-tooltip="Show items with the tag &quot;docking&quot;">
+        docking
       </a>
     
   </div>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="button-wrapper">
@@ -201,9 +201,9 @@ points’ for developing new treatments. My efforts in this consortium lead on g
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Spiders"></a></p>
@@ -219,11 +219,11 @@ points’ for developing new treatments. My efforts in this consortium lead on g
     
     <div>
 <figure class="figure">
-  <a class="figure-image" aria-label="Golden Orb Weaver Spiderlings in the lab!">
+  <a class="figure-image" aria-label="Golden Orb Weaver Spiderlings in the lab">
     <img src="/images/spiderling01.jpg" style="
         width: auto;
         max-height: unset;
-      " alt="Golden Orb Weaver Spiderlings in the lab!" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="Golden Orb Weaver Spiderlings in the lab" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -255,9 +255,9 @@ gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Docking"></a></p>
@@ -275,7 +275,7 @@ gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Spiders Docking]]></summary></entry><entry><title type="html">Projects in Complex Trait Genetics</title><link href="/2024/01/11/Projects-Complex-Traits.html" rel="alternate" type="text/html" title="Projects in Complex Trait Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-19T13:31:13+00:00</updated><id>/2024/01/11/Projects-Complex-Traits</id><content type="html" xml:base="/2024/01/11/Projects-Complex-Traits.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: spiders docking]]></summary></entry><entry><title type="html">Projects in Complex Trait Genetics</title><link href="http://voightlab.com/2024/01/11/Projects-Complex-Traits.html" rel="alternate" type="text/html" title="Projects in Complex Trait Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-30T22:19:33+00:00</updated><id>http://voightlab.com/2024/01/11/Projects-Complex-Traits</id><content type="html" xml:base="http://voightlab.com/2024/01/11/Projects-Complex-Traits.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -284,35 +284,35 @@ gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
     </a>
   </div>
 
-<div class="tags" data-link="/publications">
+<div class="tags">
     
-      <a href="/publications?search=&quot;tag: Complex Traits&quot;" class="tag" data-tooltip="Show items with the tag &quot;Complex Traits&quot;">
-        Complex Traits
+      <a href="/publications?search=&quot;tag: complex-traits&quot;" class="tag" data-tooltip="Show items with the tag &quot;complex-traits&quot;">
+        complex-traits
       </a>
     
-      <a href="/publications?search=&quot;tag: T2D&quot;" class="tag" data-tooltip="Show items with the tag &quot;T2D&quot;">
-        T2D
+      <a href="/publications?search=&quot;tag: t2d&quot;" class="tag" data-tooltip="Show items with the tag &quot;t2d&quot;">
+        t2d
       </a>
     
-      <a href="/publications?search=&quot;tag: MASLD&quot;" class="tag" data-tooltip="Show items with the tag &quot;MASLD&quot;">
-        MASLD
+      <a href="/publications?search=&quot;tag: masld&quot;" class="tag" data-tooltip="Show items with the tag &quot;masld&quot;">
+        masld
       </a>
     
-      <a href="/publications?search=&quot;tag: CAD/CVD&quot;" class="tag" data-tooltip="Show items with the tag &quot;CAD/CVD&quot;">
-        CAD/CVD
+      <a href="/publications?search=&quot;tag: cad/cvd&quot;" class="tag" data-tooltip="Show items with the tag &quot;cad/cvd&quot;">
+        cad/cvd
       </a>
     
-      <a href="/publications?search=&quot;tag: QTL Mapping&quot;" class="tag" data-tooltip="Show items with the tag &quot;QTL Mapping&quot;">
-        QTL Mapping
+      <a href="/publications?search=&quot;tag: qtl-mapping&quot;" class="tag" data-tooltip="Show items with the tag &quot;qtl-mapping&quot;">
+        qtl-mapping
       </a>
     
   </div>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="button-wrapper">
@@ -353,9 +353,9 @@ gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="T2D"></a></p>
@@ -393,9 +393,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="MASLD"></a></p>
@@ -429,9 +429,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="QTL-Mapping"></a></p>
@@ -462,9 +462,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Collabs"></a></p>
@@ -488,7 +488,7 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Complex Traits T2D MASLD CAD/CVD QTL Mapping]]></summary></entry><entry><title type="html">Projects in Mendelian Randomization</title><link href="/2024/01/11/Projects-MR.html" rel="alternate" type="text/html" title="Projects in Mendelian Randomization" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-19T13:31:13+00:00</updated><id>/2024/01/11/Projects-MR</id><content type="html" xml:base="/2024/01/11/Projects-MR.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: complex-traits t2d masld cad/cvd qtl-mapping]]></summary></entry><entry><title type="html">Projects in Mendelian Randomization</title><link href="http://voightlab.com/2024/01/11/Projects-MR.html" rel="alternate" type="text/html" title="Projects in Mendelian Randomization" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-30T22:19:33+00:00</updated><id>http://voightlab.com/2024/01/11/Projects-MR</id><content type="html" xml:base="http://voightlab.com/2024/01/11/Projects-MR.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -497,19 +497,19 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
     </a>
   </div>
 
-<div class="tags" data-link="/publications">
+<div class="tags">
     
-      <a href="/publications?search=&quot;tag: Mendelian Randomization&quot;" class="tag" data-tooltip="Show items with the tag &quot;Mendelian Randomization&quot;">
-        Mendelian Randomization
+      <a href="/publications?search=&quot;tag: mendelian-randomization&quot;" class="tag" data-tooltip="Show items with the tag &quot;mendelian-randomization&quot;">
+        mendelian-randomization
       </a>
     
   </div>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="button-wrapper">
@@ -532,48 +532,51 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <h2 id="overview">Overview</h2>
 <p>Causal inference is one of the most challenging problems in biology and medicine, requiring multiple lines of evidence supported by model systems, pharmacology, and genetics to demonstrate convincingly. Under specific assumptions, it is possible to use human genetic variation as an instrumental variable to estimate the causal effect of an exposure on an outcome. For example, loss-of-function variation in <em>PCSK9</em> lowers LDL cholesterol (LDL-C) and susceptibility to heart disease, consistent with the fact that elevated LDL-C is a causal risk factor for heart attack. There is much nuance here, with advances in new methods, understanding the testable (and untestable) assumptions of the model, kits of tools that make application very straight forward – a complete didact on this subject is well beyond the purpose of this short overview. For those who are interested, I strongly recommend picking up a recently published MR Primer:</p>
 
-<div class="citation">
-  
-    <a href="https://www.nature.com/articles/s43586-021-00092-5" class="citation-image" aria-label="Mendelian randomization">
-      <img src="" alt="Mendelian randomization" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
-    </a>
-  
-
-  <div class="citation-text">
+<div class="citation-container">
+  <div class="citation">
     
+      <a class="citation-image" aria-label="citation link">
+        <img src="" alt="citation image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      </a>
     
 
-    <a href="https://www.nature.com/articles/s43586-021-00092-5" class="citation-title">
-      Mendelian randomization
-    </a>
+    <div class="citation-text">
+      
+      
 
-    <div class="citation-authors" data-tooltip="Sanderson E, Glymour MM, Holmes MV, Kang H, Morrison J, Munafò MR, Palmer T, Schooling CM, Wallace C, Zhao Q, Smith GD " tabindex="0">
-      Sanderson E,  Glymour MM,  Holmes MV,  Kang H,  Morrison J, ...,  Palmer T,  Schooling CM,  Wallace C,  Zhao Q,  Smith GD
+      <a class="citation-title">
+        [no title info]
+      </a>
+
+      <div class="citation-authors" tabindex="0">
+        
+
+      </div>
+
+      <div class="citation-details">
+        <span class="citation-publisher">[no publisher info]</span>
+        &nbsp;·&nbsp;
+        <span class="citation-date">[no date info]</span>
+        &nbsp;·&nbsp;
+        <span class="citation-id">[no id info]</span>
+      </div>
+
+      
+        
+
+        
+
+        
+      
     </div>
-
-    <div class="citation-details">
-      Nature Reviews Methods Primers
-      &nbsp; · &nbsp;
-      10 Feb 2022
-      &nbsp; · &nbsp;
-      doi.org/10.1038/s43586-021-00092-5
-    </div>
-
-    
-      
-
-      
-
-      
-    
   </div>
 </div>
 
@@ -607,9 +610,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Methods"></a></p>
@@ -627,7 +630,7 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Mendelian Randomization]]></summary></entry><entry><title type="html">Projects in Population Genetics</title><link href="/2024/01/11/Projects-Pop-Gen.html" rel="alternate" type="text/html" title="Projects in Population Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-19T13:31:13+00:00</updated><id>/2024/01/11/Projects-Pop-Gen</id><content type="html" xml:base="/2024/01/11/Projects-Pop-Gen.html"><![CDATA[<div class="button-wrapper">
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: mendelian-randomization]]></summary></entry><entry><title type="html">Projects in Population Genetics</title><link href="http://voightlab.com/2024/01/11/Projects-Pop-Gen.html" rel="alternate" type="text/html" title="Projects in Population Genetics" /><published>2024-01-11T00:00:00+00:00</published><updated>2026-10-30T22:19:33+00:00</updated><id>http://voightlab.com/2024/01/11/Projects-Pop-Gen</id><content type="html" xml:base="http://voightlab.com/2024/01/11/Projects-Pop-Gen.html"><![CDATA[<div class="button-wrapper">
     <a class="button" href="/publications" data-style="" aria-label="button">
       
       
@@ -636,35 +639,35 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
     </a>
   </div>
 
-<div class="tags" data-link="/publications">
+<div class="tags">
     
-      <a href="/publications?search=&quot;tag: Pop Gen&quot;" class="tag" data-tooltip="Show items with the tag &quot;Pop Gen&quot;">
-        Pop Gen
+      <a href="/publications?search=&quot;tag: pop-gen&quot;" class="tag" data-tooltip="Show items with the tag &quot;pop-gen&quot;">
+        pop-gen
       </a>
     
-      <a href="/publications?search=&quot;tag: Mutation Rate&quot;" class="tag" data-tooltip="Show items with the tag &quot;Mutation Rate&quot;">
-        Mutation Rate
+      <a href="/publications?search=&quot;tag: mutation-rate&quot;" class="tag" data-tooltip="Show items with the tag &quot;mutation-rate&quot;">
+        mutation-rate
       </a>
     
-      <a href="/publications?search=&quot;tag: Selection&quot;" class="tag" data-tooltip="Show items with the tag &quot;Selection&quot;">
-        Selection
+      <a href="/publications?search=&quot;tag: selection&quot;" class="tag" data-tooltip="Show items with the tag &quot;selection&quot;">
+        selection
       </a>
     
-      <a href="/publications?search=&quot;tag: Baymer&quot;" class="tag" data-tooltip="Show items with the tag &quot;Baymer&quot;">
-        Baymer
+      <a href="/publications?search=&quot;tag: baymer&quot;" class="tag" data-tooltip="Show items with the tag &quot;baymer&quot;">
+        baymer
       </a>
     
-      <a href="/publications?search=&quot;tag: Demography&quot;" class="tag" data-tooltip="Show items with the tag &quot;Demography&quot;">
-        Demography
+      <a href="/publications?search=&quot;tag: demography&quot;" class="tag" data-tooltip="Show items with the tag &quot;demography&quot;">
+        demography
       </a>
     
   </div>
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <div class="button-wrapper">
@@ -696,9 +699,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Mutation-Rate"></a></p>
@@ -746,9 +749,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Selection"></a></p>
@@ -782,9 +785,9 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
 
 <!-- section break -->
 <!--
-  background: ;
-  dark: ;
-  size: ;
+  <background></background>
+  <dark></dark>
+  <size></size>
 -->
 
 <p><a id="Interface"></a></p>
@@ -812,4 +815,4 @@ In our initial efforts for T2D-GGI, we applied fairly coarse (heuristic, but not
         <span>Back to Top</span>
       
     </a>
-  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: Pop Gen Mutation Rate Selection Baymer Demography]]></summary></entry></feed>
+  </div>]]></content><author><name>Ben Voight</name></author><summary type="html"><![CDATA[Links to Pubs: pop-gen mutation-rate selection baymer demography]]></summary></entry></feed>
